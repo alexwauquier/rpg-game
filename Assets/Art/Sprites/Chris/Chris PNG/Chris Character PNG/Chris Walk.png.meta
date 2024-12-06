@@ -1,79 +1,79 @@
 fileFormatVersion: 2
-guid: 2b870d876cfa1fc4b8f95edce56c35a8
+guid: 3f7cc7c86fcacab48bd1fe8ae4b6f96e
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 2192141502480193758
-    second: Chris Idle_0
+      213: -3775361331472457093
+    second: Chris Walk_0
   - first:
-      213: 5141606439153326941
-    second: Chris Idle_1
+      213: 768086240886163079
+    second: Chris Walk_1
   - first:
-      213: -3708191099042851888
-    second: Chris Idle_2
+      213: -9021429576983013035
+    second: Chris Walk_2
   - first:
-      213: -8091584800257482985
-    second: Chris Idle_3
+      213: 9112568402752232029
+    second: Chris Walk_3
   - first:
-      213: 1234173423354873249
-    second: Chris Idle_4
+      213: -2646368680961113714
+    second: Chris Walk_4
   - first:
-      213: -7678048245159349378
-    second: Chris Idle_5
+      213: -864974723828729335
+    second: Chris Walk_5
   - first:
-      213: -5757549497971146392
-    second: Chris Idle_6
+      213: -8442881241513125914
+    second: Chris Walk_6
   - first:
-      213: 4667717179472710588
-    second: Chris Idle_7
+      213: -5024410325992273830
+    second: Chris Walk_7
   - first:
-      213: -923536543384248410
-    second: Chris Idle_8
+      213: -7923349040813046945
+    second: Chris Walk_8
   - first:
-      213: 8246823607738909712
-    second: Chris Idle_9
+      213: -2650447851203253614
+    second: Chris Walk_9
   - first:
-      213: -974661125321855324
-    second: Chris Idle_10
+      213: 2667175073922042456
+    second: Chris Walk_10
   - first:
-      213: -130908407543198483
-    second: Chris Idle_11
+      213: -5434411000638325683
+    second: Chris Walk_11
   - first:
-      213: 6018322215901321119
-    second: Chris Idle_12
+      213: -7934315138236361421
+    second: Chris Walk_12
   - first:
-      213: -5513650590103595337
-    second: Chris Idle_13
+      213: 7951647855931415561
+    second: Chris Walk_13
   - first:
-      213: -8991911095198472980
-    second: Chris Idle_14
+      213: -1998208699024731274
+    second: Chris Walk_14
   - first:
-      213: -5887596221467027439
-    second: Chris Idle_15
+      213: 9184404247984164665
+    second: Chris Walk_15
   - first:
-      213: 7173268138468416306
-    second: Chris Idle_16
+      213: -2854026856783549647
+    second: Chris Walk_16
   - first:
-      213: 8019203236609001459
-    second: Chris Idle_17
+      213: 357477751576055197
+    second: Chris Walk_17
   - first:
-      213: -2082574834183840784
-    second: Chris Idle_18
+      213: -1022590720174728997
+    second: Chris Walk_18
   - first:
-      213: 4793773062435404556
-    second: Chris Idle_19
+      213: -2876400052078324604
+    second: Chris Walk_19
   - first:
-      213: -2182317950834632992
-    second: Chris Idle_20
+      213: -6688156531091887909
+    second: Chris Walk_20
   - first:
-      213: -7878410043159099820
-    second: Chris Idle_21
+      213: -177887677019536629
+    second: Chris Walk_21
   - first:
-      213: -3275892241812906174
-    second: Chris Idle_22
+      213: -6821144458635616667
+    second: Chris Walk_22
   - first:
-      213: 1666640815052644106
-    second: Chris Idle_23
+      213: -4961064726821992499
+    second: Chris Walk_23
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -182,12 +182,12 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Chris Idle_0
+      name: Chris Walk_0
       rect:
         serializedVersion: 2
         x: 31
         y: 271
-        width: 17
+        width: 16
         height: 18
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -197,20 +197,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ed819b0051d0c6e10800000000000000
-      internalID: 2192141502480193758
+      spriteID: b72a6da2fd83b9bc0800000000000000
+      internalID: -3775361331472457093
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Chris Idle_1
+      name: Chris Walk_1
       rect:
         serializedVersion: 2
         x: 111
         y: 271
         width: 16
-        height: 18
+        height: 17
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -219,20 +219,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d5b5894a0d7aa5740800000000000000
-      internalID: 5141606439153326941
+      spriteID: 78682e8dd5ac8aa00800000000000000
+      internalID: 768086240886163079
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Chris Idle_2
+      name: Chris Walk_2
       rect:
         serializedVersion: 2
         x: 191
         y: 271
         width: 16
-        height: 19
+        height: 17
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -241,20 +241,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0d3194e97dbd98cc0800000000000000
-      internalID: -3708191099042851888
+      spriteID: 55999b9e8917dc280800000000000000
+      internalID: -9021429576983013035
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Chris Idle_3
+      name: Chris Walk_3
       rect:
         serializedVersion: 2
         x: 271
         y: 271
         width: 16
-        height: 19
+        height: 18
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -263,20 +263,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 71fd3b6ce7ae4bf80800000000000000
-      internalID: -8091584800257482985
+      spriteID: d5ade7d8ea8567e70800000000000000
+      internalID: 9112568402752232029
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Chris Idle_4
+      name: Chris Walk_4
       rect:
         serializedVersion: 2
         x: 351
         y: 271
         width: 16
-        height: 18
+        height: 17
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -285,20 +285,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1a58b4a803aa02110800000000000000
-      internalID: 1234173423354873249
+      spriteID: e81089aa4b5364bd0800000000000000
+      internalID: -2646368680961113714
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Chris Idle_5
+      name: Chris Walk_5
       rect:
         serializedVersion: 2
         x: 431
         y: 271
-        width: 17
-        height: 18
+        width: 16
+        height: 17
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -307,19 +307,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e7337f21dc7127590800000000000000
-      internalID: -7678048245159349378
+      spriteID: 90a3f7e421efef3f0800000000000000
+      internalID: -864974723828729335
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Chris Idle_6
+      name: Chris Walk_6
       rect:
         serializedVersion: 2
-        x: 32
+        x: 33
         y: 191
-        width: 17
+        width: 16
         height: 18
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -329,20 +329,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 86183b48c331910b0800000000000000
-      internalID: -5757549497971146392
+      spriteID: 6e71dce3e3cd4da80800000000000000
+      internalID: -8442881241513125914
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Chris Idle_7
+      name: Chris Walk_7
       rect:
         serializedVersion: 2
         x: 113
         y: 191
         width: 16
-        height: 18
+        height: 17
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -351,20 +351,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: cbb857a4b0017c040800000000000000
-      internalID: 4667717179472710588
+      spriteID: a580d61dd65b54ab0800000000000000
+      internalID: -5024410325992273830
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Chris Idle_8
+      name: Chris Walk_8
       rect:
         serializedVersion: 2
         x: 193
         y: 191
         width: 16
-        height: 19
+        height: 17
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -373,20 +373,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6af5d7a2860fe23f0800000000000000
-      internalID: -923536543384248410
+      spriteID: f5308eee60c9a0290800000000000000
+      internalID: -7923349040813046945
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Chris Idle_9
+      name: Chris Walk_9
       rect:
         serializedVersion: 2
         x: 273
         y: 191
         width: 16
-        height: 19
+        height: 18
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -395,20 +395,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0144590b06a927270800000000000000
-      internalID: 8246823607738909712
+      spriteID: 29a2555d8b7b73bd0800000000000000
+      internalID: -2650447851203253614
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Chris Idle_10
+      name: Chris Walk_10
       rect:
         serializedVersion: 2
         x: 353
         y: 191
         width: 16
-        height: 18
+        height: 17
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -417,20 +417,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4aeeec8dede4972f0800000000000000
-      internalID: -974661125321855324
+      spriteID: 85a46e23995b30520800000000000000
+      internalID: 2667175073922042456
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Chris Idle_11
+      name: Chris Walk_11
       rect:
         serializedVersion: 2
-        x: 432
+        x: 433
         y: 191
-        width: 17
-        height: 18
+        width: 16
+        height: 17
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -439,14 +439,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: dec86463f7bee2ef0800000000000000
-      internalID: -130908407543198483
+      spriteID: d4c3a77dcf71594b0800000000000000
+      internalID: -5434411000638325683
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Chris Idle_12
+      name: Chris Walk_12
       rect:
         serializedVersion: 2
         x: 32
@@ -461,20 +461,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f97d3ae3b20658350800000000000000
-      internalID: 6018322215901321119
+      spriteID: 335da696b66a3e190800000000000000
+      internalID: -7934315138236361421
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Chris Idle_13
+      name: Chris Walk_13
       rect:
         serializedVersion: 2
         x: 112
         y: 111
         width: 15
-        height: 18
+        height: 17
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -483,20 +483,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7b6904930049b73b0800000000000000
-      internalID: -5513650590103595337
+      spriteID: 90cd9c7689de95e60800000000000000
+      internalID: 7951647855931415561
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Chris Idle_14
+      name: Chris Walk_14
       rect:
         serializedVersion: 2
         x: 192
         y: 111
         width: 15
-        height: 19
+        height: 17
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -505,20 +505,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ce42dc60080563380800000000000000
-      internalID: -8991911095198472980
+      spriteID: 673198376cfe444e0800000000000000
+      internalID: -1998208699024731274
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Chris Idle_15
+      name: Chris Walk_15
       rect:
         serializedVersion: 2
         x: 272
         y: 111
         width: 15
-        height: 19
+        height: 18
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -527,20 +527,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 118968e2e6e0b4ea0800000000000000
-      internalID: -5887596221467027439
+      spriteID: 93f4fa2a00f857f70800000000000000
+      internalID: 9184404247984164665
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Chris Idle_16
+      name: Chris Walk_16
       rect:
         serializedVersion: 2
         x: 352
         y: 111
         width: 15
-        height: 18
+        height: 17
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -549,20 +549,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 23b9908cd519c8360800000000000000
-      internalID: 7173268138468416306
+      spriteID: 13bedfde1b57468d0800000000000000
+      internalID: -2854026856783549647
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Chris Idle_17
+      name: Chris Walk_17
       rect:
         serializedVersion: 2
         x: 432
         y: 111
         width: 15
-        height: 18
+        height: 17
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -571,14 +571,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3f70ebb2bdee94f60800000000000000
-      internalID: 8019203236609001459
+      spriteID: d9dcbcdfe1406f400800000000000000
+      internalID: 357477751576055197
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Chris Idle_18
+      name: Chris Walk_18
       rect:
         serializedVersion: 2
         x: 33
@@ -593,20 +593,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0fbdd46e8353913e0800000000000000
-      internalID: -2082574834183840784
+      spriteID: bd8df5d68270fc1f0800000000000000
+      internalID: -1022590720174728997
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Chris Idle_19
+      name: Chris Walk_19
       rect:
         serializedVersion: 2
         x: 113
         y: 31
         width: 15
-        height: 18
+        height: 17
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -615,20 +615,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c0b7c48a337e68240800000000000000
-      internalID: 4793773062435404556
+      spriteID: 484d4f77469f418d0800000000000000
+      internalID: -2876400052078324604
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Chris Idle_20
+      name: Chris Walk_20
       rect:
         serializedVersion: 2
         x: 193
         y: 31
         width: 15
-        height: 19
+        height: 17
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -637,20 +637,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0e61b89d269d6b1e0800000000000000
-      internalID: -2182317950834632992
+      spriteID: bd82f020215ee23a0800000000000000
+      internalID: -6688156531091887909
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Chris Idle_21
+      name: Chris Walk_21
       rect:
         serializedVersion: 2
         x: 273
         y: 31
         width: 15
-        height: 19
+        height: 18
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -659,20 +659,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 456c1aeaec34aa290800000000000000
-      internalID: -7878410043159099820
+      spriteID: b03c459a914088df0800000000000000
+      internalID: -177887677019536629
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Chris Idle_22
+      name: Chris Walk_22
       rect:
         serializedVersion: 2
         x: 353
         y: 31
         width: 15
-        height: 18
+        height: 17
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -681,20 +681,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 24f984ccc51b982d0800000000000000
-      internalID: -3275892241812906174
+      spriteID: 56e566d314d6651a0800000000000000
+      internalID: -6821144458635616667
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Chris Idle_23
+      name: Chris Walk_23
       rect:
         serializedVersion: 2
         x: 433
         y: 31
         width: 15
-        height: 18
+        height: 17
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -703,8 +703,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a0f5165bdf8112710800000000000000
-      internalID: 1666640815052644106
+      spriteID: dc70e027ae1c62bb0800000000000000
+      internalID: -4961064726821992499
       vertices: []
       indices: 
       edges: []
@@ -723,30 +723,30 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Chris Idle_0: 2192141502480193758
-      Chris Idle_1: 5141606439153326941
-      Chris Idle_10: -974661125321855324
-      Chris Idle_11: -130908407543198483
-      Chris Idle_12: 6018322215901321119
-      Chris Idle_13: -5513650590103595337
-      Chris Idle_14: -8991911095198472980
-      Chris Idle_15: -5887596221467027439
-      Chris Idle_16: 7173268138468416306
-      Chris Idle_17: 8019203236609001459
-      Chris Idle_18: -2082574834183840784
-      Chris Idle_19: 4793773062435404556
-      Chris Idle_2: -3708191099042851888
-      Chris Idle_20: -2182317950834632992
-      Chris Idle_21: -7878410043159099820
-      Chris Idle_22: -3275892241812906174
-      Chris Idle_23: 1666640815052644106
-      Chris Idle_3: -8091584800257482985
-      Chris Idle_4: 1234173423354873249
-      Chris Idle_5: -7678048245159349378
-      Chris Idle_6: -5757549497971146392
-      Chris Idle_7: 4667717179472710588
-      Chris Idle_8: -923536543384248410
-      Chris Idle_9: 8246823607738909712
+      Chris Walk_0: -3775361331472457093
+      Chris Walk_1: 768086240886163079
+      Chris Walk_10: 2667175073922042456
+      Chris Walk_11: -5434411000638325683
+      Chris Walk_12: -7934315138236361421
+      Chris Walk_13: 7951647855931415561
+      Chris Walk_14: -1998208699024731274
+      Chris Walk_15: 9184404247984164665
+      Chris Walk_16: -2854026856783549647
+      Chris Walk_17: 357477751576055197
+      Chris Walk_18: -1022590720174728997
+      Chris Walk_19: -2876400052078324604
+      Chris Walk_2: -9021429576983013035
+      Chris Walk_20: -6688156531091887909
+      Chris Walk_21: -177887677019536629
+      Chris Walk_22: -6821144458635616667
+      Chris Walk_23: -4961064726821992499
+      Chris Walk_3: 9112568402752232029
+      Chris Walk_4: -2646368680961113714
+      Chris Walk_5: -864974723828729335
+      Chris Walk_6: -8442881241513125914
+      Chris Walk_7: -5024410325992273830
+      Chris Walk_8: -7923349040813046945
+      Chris Walk_9: -2650447851203253614
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
