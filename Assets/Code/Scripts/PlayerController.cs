@@ -4,53 +4,25 @@ using UnityEngine.InputSystem;
 
 public class PlayerController : MonoBehaviour
 {
-    public float speed = 10.0f;
+    // InputAction reference
+    public InputAction MoveAction;
+    // Speed of the player
+    public float speed = 5.0f;
+
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        
+        // Get the InputAction from the PlayerInput component
+        MoveAction.Enable();
     }
 
     // Update is called once per frame
     void Update()
     {
-        float horizontal = 0.0f;
-        float vertical = 0.0f;
-        if (Keyboard.current.leftArrowKey.isPressed)
-        {
-            horizontal = -1.0f;
-        }
-        else if (Keyboard.current.rightArrowKey.isPressed)
-        {
-            horizontal = 1.0f;
-        }
-        else
-        {
-            horizontal = 0.0f;
-        }
-        // Vertical movement
-        if (Keyboard.current.downArrowKey.isPressed)
-        {
-            vertical = -1.0f;
-        }
-        else if (Keyboard.current.upArrowKey.isPressed)
-        {
-            vertical = 1.0f;
-        }
-        else
-        {
-            vertical = 0.0f;
-        }
-        // Debug.Log(horizontal);
-        Debug.Log(horizontal);
-        // Debug.Log(vertical);
-        Debug.Log(vertical);
-
-
-        Vector2 position = transform.position;
-        position.x = position.x + horizontal * speed;
-        transform.position = position;
-        position.y = position.y + vertical * speed;
+        // Player movement
+        Vector2 move = MoveAction.ReadValue<Vector2>();
+        Debug.Log(move);
+        Vector2 position = (Vector2)transform.position + move * 3.0f * Time.deltaTime;
         transform.position = position;
     }
 }
