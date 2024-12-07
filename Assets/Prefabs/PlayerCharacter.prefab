@@ -359,4 +359,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7776ed64a5251514ca8468c9d805e90a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  numBanana: 0
+  inventory: {fileID: 0}
