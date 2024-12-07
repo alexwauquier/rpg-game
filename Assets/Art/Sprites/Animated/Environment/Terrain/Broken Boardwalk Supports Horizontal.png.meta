@@ -118,10 +118,10 @@ TextureImporter:
       name: Broken Boardwalk Supports Horizontal_0
       rect:
         serializedVersion: 2
-        x: 1
-        y: 7
-        width: 30
-        height: 9
+        x: 0
+        y: 0
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -140,10 +140,10 @@ TextureImporter:
       name: Broken Boardwalk Supports Horizontal_1
       rect:
         serializedVersion: 2
-        x: 33
-        y: 7
-        width: 30
-        height: 9
+        x: 16
+        y: 0
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -162,10 +162,10 @@ TextureImporter:
       name: Broken Boardwalk Supports Horizontal_2
       rect:
         serializedVersion: 2
-        x: 65
-        y: 7
-        width: 30
-        height: 9
+        x: 32
+        y: 0
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -184,10 +184,10 @@ TextureImporter:
       name: Broken Boardwalk Supports Horizontal_3
       rect:
         serializedVersion: 2
-        x: 97
-        y: 7
-        width: 30
-        height: 9
+        x: 48
+        y: 0
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -206,10 +206,10 @@ TextureImporter:
       name: Broken Boardwalk Supports Horizontal_4
       rect:
         serializedVersion: 2
-        x: 129
-        y: 7
-        width: 30
-        height: 9
+        x: 64
+        y: 0
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -228,10 +228,10 @@ TextureImporter:
       name: Broken Boardwalk Supports Horizontal_5
       rect:
         serializedVersion: 2
-        x: 161
-        y: 7
-        width: 30
-        height: 9
+        x: 80
+        y: 0
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -246,11 +246,143 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: Broken Boardwalk Supports Horizontal_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57a0a82ce233a744594932790f9dfcd2
+      internalID: 1044722686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Boardwalk Supports Horizontal_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38fd87ff9ad2c2a4ca7d386ba0841ffc
+      internalID: -1415378216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Boardwalk Supports Horizontal_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47418802ce1e9bc40b9b09180e73eee3
+      internalID: 2091495960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Boardwalk Supports Horizontal_9
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4053ace4d13986e439cc7635069161ac
+      internalID: -842382034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Boardwalk Supports Horizontal_10
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c347f1e2460901647ac49a27409f537e
+      internalID: -1309456985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Broken Boardwalk Supports Horizontal_11
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d2c79bbd509209489db8e9e7269c556
+      internalID: -1428102380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: d8ffdb20090348b488dd8a4184ba2bb5
     internalID: 0
     vertices: []
     indices: 
@@ -262,10 +394,16 @@ TextureImporter:
     nameFileIdTable:
       Broken Boardwalk Supports Horizontal_0: -970102901342404570
       Broken Boardwalk Supports Horizontal_1: -631286783515504510
+      Broken Boardwalk Supports Horizontal_10: -1309456985
+      Broken Boardwalk Supports Horizontal_11: -1428102380
       Broken Boardwalk Supports Horizontal_2: -4992755840209035301
       Broken Boardwalk Supports Horizontal_3: 7649632300734325021
       Broken Boardwalk Supports Horizontal_4: -7411656894718955558
       Broken Boardwalk Supports Horizontal_5: -6188465801629618548
+      Broken Boardwalk Supports Horizontal_6: 1044722686
+      Broken Boardwalk Supports Horizontal_7: -1415378216
+      Broken Boardwalk Supports Horizontal_8: 2091495960
+      Broken Boardwalk Supports Horizontal_9: -842382034
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -113,9 +113,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 0
-        width: 65
-        height: 192
+        y: 144
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -131,57 +131,13 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Village Animated Nature_1
-      rect:
-        serializedVersion: 2
-        x: 50
-        y: 95
-        width: 44
-        height: 97
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7debd0aa56a32b630800000000000000
-      internalID: 3941276832221740759
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Village Animated Nature_2
-      rect:
-        serializedVersion: 2
-        x: 98
-        y: 95
-        width: 44
-        height: 97
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 746178e5bec41f0f0800000000000000
-      internalID: -1085001461432641977
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: Village Animated Nature_3
       rect:
         serializedVersion: 2
-        x: 146
-        y: 95
-        width: 44
-        height: 97
+        x: 48
+        y: 144
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -196,11 +152,671 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: Village Animated Nature_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ffb962a395b53246a20b242aa0facac
+      internalID: 19386924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village Animated Nature_9
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 144
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eed1ba99c194c42419edeb94d96dda93
+      internalID: -2144218134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village Animated Nature_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3d8e69400e5d4543b8674f30283ea38
+      internalID: 1369667422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village Animated Nature_39
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccaeaff233a0fc64e8c01655bd88d4a0
+      internalID: -1643114350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village Animated Nature_42
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d44894a3cecf7a4eba6748eb0f626e9
+      internalID: 1416466811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village Animated Nature_45
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a20d6d6eeffd22a4d88576b80e0c8c40
+      internalID: -1877512115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village Animated Nature_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bff66cf0dbeda7e4aae30e6a2e56b14c
+      internalID: 1494026898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village Animated Nature_73
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7b67d8d650ae934fafda7a63ecc484d
+      internalID: -1959387055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village Animated Nature_74
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 034258bf25c63f0409b27ad994d73837
+      internalID: 676917099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village Animated Nature_75
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 683083c1b1d71914ea110f7c9bb4fa89
+      internalID: -715622198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village Animated Nature_76
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08e984d1a8810654d9a9e05ac412ccb6
+      internalID: -2078784417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village Animated Nature_77
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6637d867f78de5458b750a06daae790
+      internalID: 639456719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village Animated Nature_78
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d1428fd3d95efd4595dc5cad1ab3588
+      internalID: -739259182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village Animated Nature_79
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9276aec22fc9054f943eeb6cca9dfd0
+      internalID: -835004596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village Animated Nature_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37afce7a63c8516478663a9c8503fadf
+      internalID: 650474170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village Animated Nature_81
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1342f00891547d842bbe5c6858f398cb
+      internalID: -297317013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village Animated Nature_82
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb32c7038174e17438590319429e57aa
+      internalID: -779084987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village Animated Nature_83
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c353a0d0bbc0e334eab9e5fc28a7517c
+      internalID: 1602521123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village Animated Nature_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ded0536e7442131469496b9d5f0e22e7
+      internalID: 75189909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village Animated Nature_85
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed106911e8dea4b4fa50bcf8c40ae982
+      internalID: -1285844969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village Animated Nature_86
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb8895b2e19ae2a47946f577175b310a
+      internalID: 223821891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village Animated Nature_87
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71361c25426035247bb27c7c8d5ed6b1
+      internalID: 2109626428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village Animated Nature_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f51686fd10c2e3a46bffb4b9a739cf65
+      internalID: -1553926506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village Animated Nature_89
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68fa70b552753f846a37a1704bc3a0c9
+      internalID: -383082239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village Animated Nature_90
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cac64e7cc8264bc4ca2a7b7ca4b99994
+      internalID: 1631468134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village Animated Nature_91
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 040ffccafce7ca042816e3318e300ba9
+      internalID: -1900528603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village Animated Nature_92
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d87776329d3f4c44a867e44f8e8d78a
+      internalID: 190168194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village Animated Nature_93
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7b60b73cc5f6c049a19c8d77b08f21a
+      internalID: -1977060318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village Animated Nature_94
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41dfac808bdf4704c99aec806d0dac46
+      internalID: 1559744774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village Animated Nature_95
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc0114a7b2be57b40873707f093c6aa7
+      internalID: 1547622146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 96fd3ed6007df644688f6a98065860d5
     internalID: 0
     vertices: []
     indices: 
@@ -212,8 +828,100 @@ TextureImporter:
     nameFileIdTable:
       Village Animated Nature_0: 9091608886158248073
       Village Animated Nature_1: 3941276832221740759
+      Village Animated Nature_10: 660436233
+      Village Animated Nature_11: 578931871
+      Village Animated Nature_12: 505461755
+      Village Animated Nature_13: -1911777378
+      Village Animated Nature_14: 309340305
+      Village Animated Nature_15: 91997094
+      Village Animated Nature_16: 472378443
+      Village Animated Nature_17: -1605473655
+      Village Animated Nature_18: 1964306295
+      Village Animated Nature_19: -709153562
       Village Animated Nature_2: -1085001461432641977
+      Village Animated Nature_20: -2005139885
+      Village Animated Nature_21: 235336246
+      Village Animated Nature_22: 573104752
+      Village Animated Nature_23: -1425100894
+      Village Animated Nature_24: -699188701
+      Village Animated Nature_25: -1328476387
+      Village Animated Nature_26: 1140789940
+      Village Animated Nature_27: 190425929
+      Village Animated Nature_28: -1417686516
+      Village Animated Nature_29: -1888766034
       Village Animated Nature_3: -5051238339665074560
+      Village Animated Nature_30: 171523495
+      Village Animated Nature_31: 1302112023
+      Village Animated Nature_32: -169364120
+      Village Animated Nature_33: 829276807
+      Village Animated Nature_34: -1746796517
+      Village Animated Nature_35: 370646218
+      Village Animated Nature_36: 1369667422
+      Village Animated Nature_37: -617452272
+      Village Animated Nature_38: 405642185
+      Village Animated Nature_39: -1643114350
+      Village Animated Nature_4: 351504600
+      Village Animated Nature_40: -1383564602
+      Village Animated Nature_41: 618782080
+      Village Animated Nature_42: 1416466811
+      Village Animated Nature_43: 883929941
+      Village Animated Nature_44: -1397438014
+      Village Animated Nature_45: -1877512115
+      Village Animated Nature_46: 1292568076
+      Village Animated Nature_47: 1613642386
+      Village Animated Nature_48: 298660240
+      Village Animated Nature_49: -2028307982
+      Village Animated Nature_5: 1073430275
+      Village Animated Nature_50: -2142868289
+      Village Animated Nature_51: -1623792237
+      Village Animated Nature_52: -1331575034
+      Village Animated Nature_53: 933339057
+      Village Animated Nature_54: -168608271
+      Village Animated Nature_55: 835104871
+      Village Animated Nature_56: -525923882
+      Village Animated Nature_57: -1720946265
+      Village Animated Nature_58: 1396387495
+      Village Animated Nature_59: 1659353272
+      Village Animated Nature_6: 19386924
+      Village Animated Nature_60: -1514417537
+      Village Animated Nature_61: -1446008256
+      Village Animated Nature_62: -839288353
+      Village Animated Nature_63: -1920334143
+      Village Animated Nature_64: 2141363668
+      Village Animated Nature_65: 1266635373
+      Village Animated Nature_66: 927396497
+      Village Animated Nature_67: 1574055777
+      Village Animated Nature_68: -1054705600
+      Village Animated Nature_69: -705029704
+      Village Animated Nature_7: -2047533232
+      Village Animated Nature_70: -1841331493
+      Village Animated Nature_71: 864013991
+      Village Animated Nature_72: 1494026898
+      Village Animated Nature_73: -1959387055
+      Village Animated Nature_74: 676917099
+      Village Animated Nature_75: -715622198
+      Village Animated Nature_76: -2078784417
+      Village Animated Nature_77: 639456719
+      Village Animated Nature_78: -739259182
+      Village Animated Nature_79: -835004596
+      Village Animated Nature_8: 319523034
+      Village Animated Nature_80: 650474170
+      Village Animated Nature_81: -297317013
+      Village Animated Nature_82: -779084987
+      Village Animated Nature_83: 1602521123
+      Village Animated Nature_84: 75189909
+      Village Animated Nature_85: -1285844969
+      Village Animated Nature_86: 223821891
+      Village Animated Nature_87: 2109626428
+      Village Animated Nature_88: -1553926506
+      Village Animated Nature_89: -383082239
+      Village Animated Nature_9: -2144218134
+      Village Animated Nature_90: 1631468134
+      Village Animated Nature_91: -1900528603
+      Village Animated Nature_92: 190168194
+      Village Animated Nature_93: -1977060318
+      Village Animated Nature_94: 1559744774
+      Village Animated Nature_95: 1547622146
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

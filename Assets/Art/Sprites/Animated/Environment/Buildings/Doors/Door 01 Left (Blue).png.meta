@@ -116,9 +116,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 1
-        width: 30
-        height: 15
+        y: 0
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -137,10 +137,10 @@ TextureImporter:
       name: Door 01 Left (Blue)_1
       rect:
         serializedVersion: 2
-        x: 31
-        y: 1
-        width: 14
-        height: 15
+        x: 16
+        y: 0
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -159,10 +159,10 @@ TextureImporter:
       name: Door 01 Left (Blue)_2
       rect:
         serializedVersion: 2
-        x: 47
-        y: 1
-        width: 11
-        height: 15
+        x: 32
+        y: 0
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -181,10 +181,10 @@ TextureImporter:
       name: Door 01 Left (Blue)_3
       rect:
         serializedVersion: 2
-        x: 63
-        y: 1
-        width: 9
-        height: 15
+        x: 48
+        y: 0
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -203,10 +203,10 @@ TextureImporter:
       name: Door 01 Left (Blue)_4
       rect:
         serializedVersion: 2
-        x: 79
-        y: 1
-        width: 7
-        height: 15
+        x: 64
+        y: 0
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -221,11 +221,33 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: Door 01 Left (Blue)_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6839c955231fb5a45a0269a4ed543b68
+      internalID: -2021778933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 32e02472201d3be4794e8f76fabc1150
     internalID: 0
     vertices: []
     indices: 
@@ -240,6 +262,7 @@ TextureImporter:
       Door 01 Left (Blue)_2: 1662714793176049752
       Door 01 Left (Blue)_3: -2071287096121331494
       Door 01 Left (Blue)_4: -2691121832557710164
+      Door 01 Left (Blue)_5: -2021778933
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

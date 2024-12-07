@@ -139,10 +139,10 @@ TextureImporter:
       name: Flower 01 (White)_0
       rect:
         serializedVersion: 2
-        x: 3
-        y: 35
-        width: 9
-        height: 9
+        x: 0
+        y: 32
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -161,10 +161,10 @@ TextureImporter:
       name: Flower 01 (White)_1
       rect:
         serializedVersion: 2
-        x: 19
-        y: 35
-        width: 9
-        height: 10
+        x: 16
+        y: 32
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -183,10 +183,10 @@ TextureImporter:
       name: Flower 01 (White)_2
       rect:
         serializedVersion: 2
-        x: 35
-        y: 35
-        width: 9
-        height: 10
+        x: 32
+        y: 32
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -205,10 +205,10 @@ TextureImporter:
       name: Flower 01 (White)_3
       rect:
         serializedVersion: 2
-        x: 51
-        y: 35
-        width: 9
-        height: 10
+        x: 48
+        y: 32
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -228,9 +228,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 17
+        y: 16
         width: 16
-        height: 14
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -250,9 +250,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 16
-        y: 17
+        y: 16
         width: 16
-        height: 15
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -272,9 +272,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 32
-        y: 22
-        width: 9
-        height: 10
+        y: 16
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -293,10 +293,10 @@ TextureImporter:
       name: Flower 01 (White)_7
       rect:
         serializedVersion: 2
-        x: 39
-        y: 17
-        width: 9
-        height: 9
+        x: 48
+        y: 16
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -315,10 +315,10 @@ TextureImporter:
       name: Flower 01 (White)_8
       rect:
         serializedVersion: 2
-        x: 48
-        y: 17
+        x: 0
+        y: 0
         width: 16
-        height: 15
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -337,9 +337,9 @@ TextureImporter:
       name: Flower 01 (White)_9
       rect:
         serializedVersion: 2
-        x: 1
-        y: 1
-        width: 14
+        x: 16
+        y: 0
+        width: 16
         height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -359,9 +359,9 @@ TextureImporter:
       name: Flower 01 (White)_10
       rect:
         serializedVersion: 2
-        x: 17
-        y: 1
-        width: 14
+        x: 32
+        y: 0
+        width: 16
         height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -381,10 +381,10 @@ TextureImporter:
       name: Flower 01 (White)_11
       rect:
         serializedVersion: 2
-        x: 33
-        y: 1
-        width: 14
-        height: 15
+        x: 48
+        y: 0
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -399,33 +399,11 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
-    - serializedVersion: 2
-      name: Flower 01 (White)_12
-      rect:
-        serializedVersion: 2
-        x: 49
-        y: 1
-        width: 14
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c5fa69ea5beb77c00800000000000000
-      internalID: 898396338211172188
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 08572ebaca0170d4a8066972ab05e950
     internalID: 0
     vertices: []
     indices: 
@@ -439,7 +417,6 @@ TextureImporter:
       Flower 01 (White)_1: -1911444491596407196
       Flower 01 (White)_10: -2066420598813497848
       Flower 01 (White)_11: -8743429084086520009
-      Flower 01 (White)_12: 898396338211172188
       Flower 01 (White)_2: -1995677059755236771
       Flower 01 (White)_3: 4364388533243498241
       Flower 01 (White)_4: 3984378761890306867

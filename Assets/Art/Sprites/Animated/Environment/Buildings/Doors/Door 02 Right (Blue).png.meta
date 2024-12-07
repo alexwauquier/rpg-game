@@ -119,9 +119,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 1
-        width: 17
-        height: 15
+        y: 0
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -140,10 +140,10 @@ TextureImporter:
       name: Door 02 Right (Blue)_1
       rect:
         serializedVersion: 2
-        x: 18
-        y: 1
-        width: 15
-        height: 15
+        x: 16
+        y: 0
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -162,10 +162,10 @@ TextureImporter:
       name: Door 02 Right (Blue)_2
       rect:
         serializedVersion: 2
-        x: 35
-        y: 1
-        width: 14
-        height: 15
+        x: 32
+        y: 0
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -184,10 +184,10 @@ TextureImporter:
       name: Door 02 Right (Blue)_3
       rect:
         serializedVersion: 2
-        x: 54
-        y: 1
-        width: 11
-        height: 15
+        x: 48
+        y: 0
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -206,10 +206,10 @@ TextureImporter:
       name: Door 02 Right (Blue)_4
       rect:
         serializedVersion: 2
-        x: 72
-        y: 1
-        width: 9
-        height: 15
+        x: 64
+        y: 0
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -228,10 +228,10 @@ TextureImporter:
       name: Door 02 Right (Blue)_5
       rect:
         serializedVersion: 2
-        x: 90
-        y: 1
-        width: 6
-        height: 15
+        x: 80
+        y: 0
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -250,7 +250,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 1d652cbe9cdd1704e8aa3e2285e65f20
     internalID: 0
     vertices: []
     indices: 

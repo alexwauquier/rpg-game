@@ -160,10 +160,10 @@ TextureImporter:
       name: Flower 02 (White)_0
       rect:
         serializedVersion: 2
-        x: 4
-        y: 36
-        width: 8
-        height: 8
+        x: 0
+        y: 32
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -182,10 +182,10 @@ TextureImporter:
       name: Flower 02 (White)_1
       rect:
         serializedVersion: 2
-        x: 20
-        y: 36
-        width: 9
-        height: 8
+        x: 16
+        y: 32
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -204,10 +204,10 @@ TextureImporter:
       name: Flower 02 (White)_2
       rect:
         serializedVersion: 2
-        x: 37
-        y: 36
-        width: 8
-        height: 8
+        x: 32
+        y: 32
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -226,10 +226,10 @@ TextureImporter:
       name: Flower 02 (White)_3
       rect:
         serializedVersion: 2
-        x: 52
-        y: 36
-        width: 9
-        height: 8
+        x: 48
+        y: 32
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -248,10 +248,10 @@ TextureImporter:
       name: Flower 02 (White)_4
       rect:
         serializedVersion: 2
-        x: 1
-        y: 22
-        width: 8
-        height: 8
+        x: 0
+        y: 16
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -270,10 +270,10 @@ TextureImporter:
       name: Flower 02 (White)_5
       rect:
         serializedVersion: 2
-        x: 7
-        y: 18
-        width: 9
-        height: 8
+        x: 16
+        y: 16
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -292,10 +292,10 @@ TextureImporter:
       name: Flower 02 (White)_6
       rect:
         serializedVersion: 2
-        x: 16
-        y: 22
-        width: 9
-        height: 8
+        x: 32
+        y: 16
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -314,10 +314,10 @@ TextureImporter:
       name: Flower 02 (White)_7
       rect:
         serializedVersion: 2
-        x: 24
-        y: 18
-        width: 8
-        height: 8
+        x: 48
+        y: 16
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -336,10 +336,10 @@ TextureImporter:
       name: Flower 02 (White)_8
       rect:
         serializedVersion: 2
-        x: 32
-        y: 22
-        width: 8
-        height: 8
+        x: 0
+        y: 0
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -358,10 +358,10 @@ TextureImporter:
       name: Flower 02 (White)_9
       rect:
         serializedVersion: 2
-        x: 39
-        y: 18
-        width: 9
-        height: 8
+        x: 16
+        y: 0
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -380,10 +380,10 @@ TextureImporter:
       name: Flower 02 (White)_10
       rect:
         serializedVersion: 2
-        x: 48
-        y: 22
-        width: 9
-        height: 8
+        x: 32
+        y: 0
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -402,10 +402,10 @@ TextureImporter:
       name: Flower 02 (White)_11
       rect:
         serializedVersion: 2
-        x: 55
-        y: 18
-        width: 8
-        height: 8
+        x: 48
+        y: 0
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -420,187 +420,11 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
-    - serializedVersion: 2
-      name: Flower 02 (White)_12
-      rect:
-        serializedVersion: 2
-        x: 1
-        y: 1
-        width: 8
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: fa5e0fe44b6399e90800000000000000
-      internalID: -7018518396233783889
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Flower 02 (White)_13
-      rect:
-        serializedVersion: 2
-        x: 7
-        y: 7
-        width: 9
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3ff6648b5c0defb30800000000000000
-      internalID: 4323122239941013491
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Flower 02 (White)_14
-      rect:
-        serializedVersion: 2
-        x: 16
-        y: 1
-        width: 9
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6874d21e85cf8e2d0800000000000000
-      internalID: -3249069672482650234
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Flower 02 (White)_15
-      rect:
-        serializedVersion: 2
-        x: 24
-        y: 7
-        width: 8
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 99ab9af7178a38480800000000000000
-      internalID: -8898083233327367527
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Flower 02 (White)_16
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 1
-        width: 8
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6904c4cefaa4fd730800000000000000
-      internalID: 4026018711336665238
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Flower 02 (White)_17
-      rect:
-        serializedVersion: 2
-        x: 39
-        y: 7
-        width: 9
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 20906a60328197320800000000000000
-      internalID: 2556100802223933698
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Flower 02 (White)_18
-      rect:
-        serializedVersion: 2
-        x: 48
-        y: 1
-        width: 9
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5b44d47920ee9b270800000000000000
-      internalID: 8266900285911024821
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Flower 02 (White)_19
-      rect:
-        serializedVersion: 2
-        x: 55
-        y: 7
-        width: 8
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7d691a606e7b88db0800000000000000
-      internalID: -4789376005126908201
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 9df0a6d2b9bfdc84785a9222704a3900
     internalID: 0
     vertices: []
     indices: 
@@ -614,14 +438,6 @@ TextureImporter:
       Flower 02 (White)_1: -4659675628640928439
       Flower 02 (White)_10: -731952978350964963
       Flower 02 (White)_11: 3009075279310097509
-      Flower 02 (White)_12: -7018518396233783889
-      Flower 02 (White)_13: 4323122239941013491
-      Flower 02 (White)_14: -3249069672482650234
-      Flower 02 (White)_15: -8898083233327367527
-      Flower 02 (White)_16: 4026018711336665238
-      Flower 02 (White)_17: 2556100802223933698
-      Flower 02 (White)_18: 8266900285911024821
-      Flower 02 (White)_19: -4789376005126908201
       Flower 02 (White)_2: 3952870968151690867
       Flower 02 (White)_3: -3274241910992244735
       Flower 02 (White)_4: 4772188639980023870

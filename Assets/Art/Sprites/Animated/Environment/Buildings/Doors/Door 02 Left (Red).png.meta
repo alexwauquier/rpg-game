@@ -116,9 +116,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 1
-        width: 30
-        height: 15
+        y: 0
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -137,10 +137,10 @@ TextureImporter:
       name: Door 02 Left (Red)_1
       rect:
         serializedVersion: 2
-        x: 31
-        y: 1
-        width: 14
-        height: 15
+        x: 16
+        y: 0
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -159,10 +159,10 @@ TextureImporter:
       name: Door 02 Left (Red)_2
       rect:
         serializedVersion: 2
-        x: 47
-        y: 1
-        width: 11
-        height: 15
+        x: 32
+        y: 0
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -181,10 +181,10 @@ TextureImporter:
       name: Door 02 Left (Red)_3
       rect:
         serializedVersion: 2
-        x: 63
-        y: 1
-        width: 9
-        height: 15
+        x: 48
+        y: 0
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -203,10 +203,10 @@ TextureImporter:
       name: Door 02 Left (Red)_4
       rect:
         serializedVersion: 2
-        x: 79
-        y: 1
-        width: 7
-        height: 15
+        x: 64
+        y: 0
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -221,11 +221,33 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: Door 02 Left (Red)_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dcd544787af9a64c8291f082e9620d3
+      internalID: 1515677590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: a785884f1a69e9744be61fb85badd311
     internalID: 0
     vertices: []
     indices: 
@@ -240,6 +262,7 @@ TextureImporter:
       Door 02 Left (Red)_2: -3148469275667552806
       Door 02 Left (Red)_3: -7639279052973633023
       Door 02 Left (Red)_4: 7080799146395943024
+      Door 02 Left (Red)_5: 1515677590
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
