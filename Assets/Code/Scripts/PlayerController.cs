@@ -4,6 +4,9 @@ using UnityEngine.InputSystem;
 
 public class PlayerController : MonoBehaviour
 {
+    public Rigidbody2D rb;
+    Vector2 velocity;
+
     // InputAction reference
     public InputAction MoveAction;
     // Speed of the player
@@ -22,7 +25,9 @@ public class PlayerController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+        velocity = Vector2.zero;
+        velocity.x = MoveAction.ReadValue<Vector2>().x;
+        velocity.y = MoveAction.ReadValue<Vector2>().y;
 
         // Update the animation
         UpdateAnimation();
@@ -30,7 +35,7 @@ public class PlayerController : MonoBehaviour
 
     void UpdateAnimation()
     {
-        if (MoveAction.ReadValue<Vector2>().x != 0 || MoveAction.ReadValue<Vector2>().y != 0)
+        if (velocity != Vector2.zero)
         {
             UpdateMovement();
 
@@ -47,9 +52,9 @@ public class PlayerController : MonoBehaviour
     void UpdateMovement()
     {
         // Player movement
-        Vector2 move = MoveAction.ReadValue<Vector2>();
-        Debug.Log(move);
-        Vector2 position = (Vector2)transform.position + move * 3.0f * Time.deltaTime;
-        transform.position = position;
+        rb.MovePosition(rb.position + velocity * speed * Time.fixedDeltaTime);
     }
+
+
 }
+
