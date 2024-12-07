@@ -1,0 +1,1680 @@
+fileFormatVersion: 2
+guid: 6f79b548e6a216a4ea7d6e281f1aac12
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3306411874922233518
+    second: Base Steel Shovel_0
+  - first:
+      213: 3920481143146547209
+    second: Base Steel Shovel_1
+  - first:
+      213: -7518311067111475729
+    second: Base Steel Shovel_2
+  - first:
+      213: 1809807011919915411
+    second: Base Steel Shovel_3
+  - first:
+      213: 239873917685555426
+    second: Base Steel Shovel_4
+  - first:
+      213: -3591065134630906141
+    second: Base Steel Shovel_5
+  - first:
+      213: 4460621104836529950
+    second: Base Steel Shovel_6
+  - first:
+      213: 6564144559314475291
+    second: Base Steel Shovel_7
+  - first:
+      213: 3919959511761256211
+    second: Base Steel Shovel_8
+  - first:
+      213: 6299923670492986664
+    second: Base Steel Shovel_9
+  - first:
+      213: 3387730397877849529
+    second: Base Steel Shovel_10
+  - first:
+      213: -372112868411835773
+    second: Base Steel Shovel_11
+  - first:
+      213: -5127439798754913474
+    second: Base Steel Shovel_12
+  - first:
+      213: -912094023897461785
+    second: Base Steel Shovel_13
+  - first:
+      213: -601139331591962107
+    second: Base Steel Shovel_14
+  - first:
+      213: 4232812826541551323
+    second: Base Steel Shovel_15
+  - first:
+      213: 5933898452527478562
+    second: Base Steel Shovel_16
+  - first:
+      213: 4595935083841167697
+    second: Base Steel Shovel_17
+  - first:
+      213: 8862770002089007434
+    second: Base Steel Shovel_18
+  - first:
+      213: -9014669253343603880
+    second: Base Steel Shovel_19
+  - first:
+      213: 1458066894549398842
+    second: Base Steel Shovel_20
+  - first:
+      213: 345257650091887996
+    second: Base Steel Shovel_21
+  - first:
+      213: -7071418646431451432
+    second: Base Steel Shovel_22
+  - first:
+      213: -4099083403911823288
+    second: Base Steel Shovel_23
+  - first:
+      213: 4708202548968029689
+    second: Base Steel Shovel_24
+  - first:
+      213: -7575868709559176870
+    second: Base Steel Shovel_25
+  - first:
+      213: -3531504315363618046
+    second: Base Steel Shovel_26
+  - first:
+      213: 7734490315401504379
+    second: Base Steel Shovel_27
+  - first:
+      213: 3325371195280693650
+    second: Base Steel Shovel_28
+  - first:
+      213: -8786052229102873810
+    second: Base Steel Shovel_29
+  - first:
+      213: 2265626798888350949
+    second: Base Steel Shovel_30
+  - first:
+      213: -444306550195294972
+    second: Base Steel Shovel_31
+  - first:
+      213: 6888928641022789744
+    second: Base Steel Shovel_32
+  - first:
+      213: -4421667660239317124
+    second: Base Steel Shovel_33
+  - first:
+      213: -353587183293587904
+    second: Base Steel Shovel_34
+  - first:
+      213: -4229554715338728725
+    second: Base Steel Shovel_35
+  - first:
+      213: -8069719575440439497
+    second: Base Steel Shovel_36
+  - first:
+      213: -5049266560743954561
+    second: Base Steel Shovel_37
+  - first:
+      213: -201670842279554095
+    second: Base Steel Shovel_38
+  - first:
+      213: -3714248580869676243
+    second: Base Steel Shovel_39
+  - first:
+      213: 8113007786383100110
+    second: Base Steel Shovel_40
+  - first:
+      213: -2302158924408499073
+    second: Base Steel Shovel_41
+  - first:
+      213: -3592904802089275337
+    second: Base Steel Shovel_42
+  - first:
+      213: 8768604455934383248
+    second: Base Steel Shovel_43
+  - first:
+      213: 7087975932255792139
+    second: Base Steel Shovel_44
+  - first:
+      213: -8359879970386947773
+    second: Base Steel Shovel_45
+  - first:
+      213: 1142075736428866515
+    second: Base Steel Shovel_46
+  - first:
+      213: -6444484698815820687
+    second: Base Steel Shovel_47
+  - first:
+      213: 8961714549353290641
+    second: Base Steel Shovel_48
+  - first:
+      213: 1317382271534621989
+    second: Base Steel Shovel_49
+  - first:
+      213: 3009541192588566465
+    second: Base Steel Shovel_50
+  - first:
+      213: 2352594070167209628
+    second: Base Steel Shovel_51
+  - first:
+      213: -5319559954554166938
+    second: Base Steel Shovel_52
+  - first:
+      213: 1938729106201945144
+    second: Base Steel Shovel_53
+  - first:
+      213: 2766045373356986636
+    second: Base Steel Shovel_54
+  - first:
+      213: -279824649855578361
+    second: Base Steel Shovel_55
+  - first:
+      213: 8502666691044108067
+    second: Base Steel Shovel_56
+  - first:
+      213: 3580652934658256153
+    second: Base Steel Shovel_57
+  - first:
+      213: -1987101729656140671
+    second: Base Steel Shovel_58
+  - first:
+      213: -8359946551311454519
+    second: Base Steel Shovel_59
+  - first:
+      213: -4411554337925580819
+    second: Base Steel Shovel_60
+  - first:
+      213: -6039801860542529157
+    second: Base Steel Shovel_61
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Base Steel Shovel_0
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 282
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 251802afae34d12d0800000000000000
+      internalID: -3306411874922233518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Shovel_1
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 281
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9080eddf3d8586630800000000000000
+      internalID: 3920481143146547209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Shovel_2
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 281
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe5beed0be799a790800000000000000
+      internalID: -7518311067111475729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Shovel_3
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 281
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3996f7973e9bd1910800000000000000
+      internalID: 1809807011919915411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Shovel_4
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 284
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e06786ae04345300800000000000000
+      internalID: 239873917685555426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Shovel_5
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 286
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e6d80d4949f92ec0800000000000000
+      internalID: -3591065134630906141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Shovel_6
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 285
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1f446fe24f47ed30800000000000000
+      internalID: 4460621104836529950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Shovel_7
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 284
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b199048c2b6881b50800000000000000
+      internalID: 6564144559314475291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Shovel_8
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 282
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31f7178386e766630800000000000000
+      internalID: 3919959511761256211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Shovel_9
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 281
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82d3fcb2333dd6750800000000000000
+      internalID: 6299923670492986664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Shovel_10
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 280
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bd4d4019d2a30f20800000000000000
+      internalID: 3387730397877849529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Shovel_11
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 186
+        width: 93
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38af5f5515df5daf0800000000000000
+      internalID: -372112868411835773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Shovel_12
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 273
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e33530c5baca7d8b0800000000000000
+      internalID: -5127439798754913474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Shovel_13
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 200
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ebc5d751579753f0800000000000000
+      internalID: -912094023897461785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Shovel_14
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 216
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50202ff76f258a7f0800000000000000
+      internalID: -601139331591962107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Shovel_15
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 201
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdee9bed6d8fdba30800000000000000
+      internalID: 4232812826541551323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Shovel_16
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 214
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 227f3241431795250800000000000000
+      internalID: 5933898452527478562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Shovel_17
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 212
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 151ab13cb9a08cf30800000000000000
+      internalID: 4595935083841167697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Shovel_18
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 191
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a49d0842c52eefa70800000000000000
+      internalID: 8862770002089007434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Shovel_19
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 190
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85391da631675e280800000000000000
+      internalID: -9014669253343603880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Shovel_20
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 188
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a35bf5c8d181c3410800000000000000
+      internalID: 1458066894549398842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Shovel_21
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 198
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7d86b5e00a9ac400800000000000000
+      internalID: 345257650091887996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Shovel_22
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 197
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d6316105364ddd90800000000000000
+      internalID: -7071418646431451432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Shovel_23
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 181
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 840032dac512d17c0800000000000000
+      internalID: -4099083403911823288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Shovel_24
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 181
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fdf3dde545e65140800000000000000
+      internalID: 4708202548968029689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Shovel_25
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 181
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a517abd1c8b1dd690800000000000000
+      internalID: -7575868709559176870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Shovel_26
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 181
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2031eff29839dfec0800000000000000
+      internalID: -3531504315363618046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Shovel_27
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 181
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b76a43876fd665b60800000000000000
+      internalID: 7734490315401504379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Shovel_28
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 115
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2999509cb77162e20800000000000000
+      internalID: 3325371195280693650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Shovel_29
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 118
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e235b425c0ca11680800000000000000
+      internalID: -8786052229102873810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Shovel_30
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 119
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e4785dd19f117f10800000000000000
+      internalID: 2265626798888350949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Shovel_31
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 126
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40dea30fb8185d9f0800000000000000
+      internalID: -444306550195294972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Shovel_32
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 118
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0788d2399146a9f50800000000000000
+      internalID: 6888928641022789744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Shovel_33
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 126
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c775a94a0b413a2c0800000000000000
+      internalID: -4421667660239317124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Shovel_34
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 116
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04e97a6845ec71bf0800000000000000
+      internalID: -353587183293587904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Shovel_35
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 125
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bea1822456a9d45c0800000000000000
+      internalID: -4229554715338728725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Shovel_36
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 112
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7374bd42dc8920090800000000000000
+      internalID: -8069719575440439497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Shovel_37
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 112
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f77299ea0d66de9b0800000000000000
+      internalID: -5049266560743954561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Shovel_38
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 113
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d39f5cff65833df0800000000000000
+      internalID: -201670842279554095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Shovel_39
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 109
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d23a3c93896547cc0800000000000000
+      internalID: -3714248580869676243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Shovel_40
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 109
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec8c75fd891379070800000000000000
+      internalID: 8113007786383100110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Shovel_41
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 109
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f74d226d7a61d00e0800000000000000
+      internalID: -2302158924408499073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Shovel_42
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 109
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7307ca75e10732ec0800000000000000
+      internalID: -3592904802089275337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Shovel_43
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 113
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09450eb6b4750b970800000000000000
+      internalID: 8768604455934383248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Shovel_44
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 109
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0cef928e8c8d5260800000000000000
+      internalID: 7087975932255792139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Shovel_45
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 116
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 341de20a57dbbfb80800000000000000
+      internalID: -8359879970386947773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Shovel_46
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 35
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3db6f60d4d779df00800000000000000
+      internalID: 1142075736428866515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Shovel_47
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 40
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17c84ae8f479096a0800000000000000
+      internalID: -6444484698815820687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Shovel_48
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 46
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19b17a4c6e76e5c70800000000000000
+      internalID: 8961714549353290641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Shovel_49
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 41
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 525e7383238484210800000000000000
+      internalID: 1317382271534621989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Shovel_50
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 46
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cf9529f4c904c920800000000000000
+      internalID: 3009541192588566465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Shovel_51
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 40
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c96c10d97d716a020800000000000000
+      internalID: 2352594070167209628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Shovel_52
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 45
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 661e763d7602d26b0800000000000000
+      internalID: -5319559954554166938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Shovel_53
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 36
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 834a0eaa9dfb7ea10800000000000000
+      internalID: 1938729106201945144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Shovel_54
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 32
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c015e87ac97f26620800000000000000
+      internalID: 2766045373356986636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Shovel_55
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 32
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70fc5f9a6fcdd1cf0800000000000000
+      internalID: -279824649855578361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Shovel_56
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 33
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 327ea337e4a8ff570800000000000000
+      internalID: 8502666691044108067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Shovel_57
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 29
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91de34a7fd801b130800000000000000
+      internalID: 3580652934658256153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Shovel_58
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 29
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18c084741856c64e0800000000000000
+      internalID: -1987101729656140671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Shovel_59
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 29
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ce24db87e08bfb80800000000000000
+      internalID: -8359946551311454519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Shovel_60
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 29
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de7bc9cf3b207c2c0800000000000000
+      internalID: -4411554337925580819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Shovel_61
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 29
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b718e9445305e2ca0800000000000000
+      internalID: -6039801860542529157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

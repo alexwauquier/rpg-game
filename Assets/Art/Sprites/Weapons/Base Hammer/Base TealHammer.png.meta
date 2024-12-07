@@ -1,0 +1,2280 @@
+fileFormatVersion: 2
+guid: be4fb4ff9e9b2f94ca76bedd16aa8eff
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3154921648648578447
+    second: Base TealHammer_0
+  - first:
+      213: 1628871676710831480
+    second: Base TealHammer_1
+  - first:
+      213: -617154640640806539
+    second: Base TealHammer_2
+  - first:
+      213: -8949123586728432211
+    second: Base TealHammer_3
+  - first:
+      213: -7663656574081922382
+    second: Base TealHammer_4
+  - first:
+      213: -1511412252382996929
+    second: Base TealHammer_5
+  - first:
+      213: 2346937019454510446
+    second: Base TealHammer_6
+  - first:
+      213: 698023358073372100
+    second: Base TealHammer_7
+  - first:
+      213: 7625971580173053694
+    second: Base TealHammer_8
+  - first:
+      213: -1809533391944181651
+    second: Base TealHammer_9
+  - first:
+      213: -8152428511677100488
+    second: Base TealHammer_10
+  - first:
+      213: -7190626275124825480
+    second: Base TealHammer_11
+  - first:
+      213: -2382187583410895707
+    second: Base TealHammer_12
+  - first:
+      213: 6418702450285264226
+    second: Base TealHammer_13
+  - first:
+      213: -1457916423895793166
+    second: Base TealHammer_14
+  - first:
+      213: 8341518526931803035
+    second: Base TealHammer_15
+  - first:
+      213: -1642142566622507258
+    second: Base TealHammer_16
+  - first:
+      213: 7944477514418162084
+    second: Base TealHammer_17
+  - first:
+      213: -8660944031779077822
+    second: Base TealHammer_18
+  - first:
+      213: 2103255181125078747
+    second: Base TealHammer_19
+  - first:
+      213: -4643400681230113803
+    second: Base TealHammer_20
+  - first:
+      213: 4250289051359321778
+    second: Base TealHammer_21
+  - first:
+      213: 6784724862495959797
+    second: Base TealHammer_22
+  - first:
+      213: -3327715607931109644
+    second: Base TealHammer_23
+  - first:
+      213: 645635996317178593
+    second: Base TealHammer_24
+  - first:
+      213: -504108852999223943
+    second: Base TealHammer_25
+  - first:
+      213: 1202426133405069117
+    second: Base TealHammer_26
+  - first:
+      213: -4635844950069490062
+    second: Base TealHammer_27
+  - first:
+      213: -3517946083378754602
+    second: Base TealHammer_28
+  - first:
+      213: 838255429895457073
+    second: Base TealHammer_29
+  - first:
+      213: -1293172026543938275
+    second: Base TealHammer_30
+  - first:
+      213: 7575504557674329167
+    second: Base TealHammer_31
+  - first:
+      213: 7087251007610859609
+    second: Base TealHammer_32
+  - first:
+      213: -2945666289103316247
+    second: Base TealHammer_33
+  - first:
+      213: 250151977603497431
+    second: Base TealHammer_34
+  - first:
+      213: 9058932925657825333
+    second: Base TealHammer_35
+  - first:
+      213: 4843172021304614500
+    second: Base TealHammer_36
+  - first:
+      213: 3618676332015440133
+    second: Base TealHammer_37
+  - first:
+      213: -1937837779293071711
+    second: Base TealHammer_38
+  - first:
+      213: 2712130088463600167
+    second: Base TealHammer_39
+  - first:
+      213: -2082088735671916535
+    second: Base TealHammer_40
+  - first:
+      213: 6570547435682385051
+    second: Base TealHammer_41
+  - first:
+      213: -5349135142689412348
+    second: Base TealHammer_42
+  - first:
+      213: -1723559992773270216
+    second: Base TealHammer_43
+  - first:
+      213: 6001345985752019572
+    second: Base TealHammer_44
+  - first:
+      213: -8380799370375285077
+    second: Base TealHammer_45
+  - first:
+      213: 5691599654421725240
+    second: Base TealHammer_46
+  - first:
+      213: 6749071583798838466
+    second: Base TealHammer_47
+  - first:
+      213: -1917265643416020541
+    second: Base TealHammer_48
+  - first:
+      213: -5763648398698352115
+    second: Base TealHammer_49
+  - first:
+      213: 1122920427274505394
+    second: Base TealHammer_50
+  - first:
+      213: -3021111648234042527
+    second: Base TealHammer_51
+  - first:
+      213: 9089451416164336569
+    second: Base TealHammer_52
+  - first:
+      213: 8998454749820732872
+    second: Base TealHammer_53
+  - first:
+      213: 7502966620830722540
+    second: Base TealHammer_54
+  - first:
+      213: 7830575489738831467
+    second: Base TealHammer_55
+  - first:
+      213: -8762456713895233162
+    second: Base TealHammer_56
+  - first:
+      213: -2158835545229710461
+    second: Base TealHammer_57
+  - first:
+      213: -459531023840640102
+    second: Base TealHammer_58
+  - first:
+      213: -3576789977583174357
+    second: Base TealHammer_59
+  - first:
+      213: 331199517874454268
+    second: Base TealHammer_60
+  - first:
+      213: 2197678517393937913
+    second: Base TealHammer_61
+  - first:
+      213: 1015467453552526038
+    second: Base TealHammer_62
+  - first:
+      213: 6292596064301027669
+    second: Base TealHammer_63
+  - first:
+      213: 1356629400036570748
+    second: Base TealHammer_64
+  - first:
+      213: 5757090363551503157
+    second: Base TealHammer_65
+  - first:
+      213: 3128897125642443647
+    second: Base TealHammer_66
+  - first:
+      213: -1950206379731494660
+    second: Base TealHammer_67
+  - first:
+      213: -3003183261900613072
+    second: Base TealHammer_68
+  - first:
+      213: 7970336581984740144
+    second: Base TealHammer_69
+  - first:
+      213: -1257596234966556753
+    second: Base TealHammer_70
+  - first:
+      213: -458363731421956041
+    second: Base TealHammer_71
+  - first:
+      213: -7959478834549399426
+    second: Base TealHammer_72
+  - first:
+      213: -925748068026238772
+    second: Base TealHammer_73
+  - first:
+      213: 6406113261409524282
+    second: Base TealHammer_74
+  - first:
+      213: 7680216185982917754
+    second: Base TealHammer_75
+  - first:
+      213: 6120036532434035618
+    second: Base TealHammer_76
+  - first:
+      213: 5810170045804050370
+    second: Base TealHammer_77
+  - first:
+      213: 8532241047788862123
+    second: Base TealHammer_78
+  - first:
+      213: -6353781998404573378
+    second: Base TealHammer_79
+  - first:
+      213: 2373838147941496512
+    second: Base TealHammer_80
+  - first:
+      213: 510192795480405630
+    second: Base TealHammer_81
+  - first:
+      213: -6096091331562324428
+    second: Base TealHammer_82
+  - first:
+      213: -1358185202227967822
+    second: Base TealHammer_83
+  - first:
+      213: 8020885080115241970
+    second: Base TealHammer_84
+  - first:
+      213: -1738762235096354871
+    second: Base TealHammer_85
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Base TealHammer_0
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 281
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17a9c1ed9777734d0800000000000000
+      internalID: -3154921648648578447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base TealHammer_1
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 276
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8754b0be82aea9610800000000000000
+      internalID: 1628871676710831480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base TealHammer_2
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 275
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 571fe19cf1d6f67f0800000000000000
+      internalID: -617154640640806539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base TealHammer_3
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 279
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dad6bf923835ec380800000000000000
+      internalID: -8949123586728432211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base TealHammer_4
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 280
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ba824d13f835a590800000000000000
+      internalID: -7663656574081922382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base TealHammer_5
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 279
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f36d9837092660be0800000000000000
+      internalID: -1511412252382996929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base TealHammer_6
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 290
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e65dccad8cef19020800000000000000
+      internalID: 2346937019454510446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base TealHammer_7
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 279
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cd73eebb80efa900800000000000000
+      internalID: 698023358073372100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base TealHammer_8
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 281
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efe607f7fb4e4d960800000000000000
+      internalID: 7625971580173053694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base TealHammer_9
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 280
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6895f3a7fe33e6e0800000000000000
+      internalID: -1809533391944181651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base TealHammer_10
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 281
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83e48b84671ccde80800000000000000
+      internalID: -8152428511677100488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base TealHammer_11
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 281
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87238961083c53c90800000000000000
+      internalID: -7190626275124825480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base TealHammer_12
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 272
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a48276a305c0fed0800000000000000
+      internalID: -2382187583410895707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base TealHammer_13
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 268
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26dbe2ceedfc31950800000000000000
+      internalID: 6418702450285264226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base TealHammer_14
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 263
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f1cb71acb074cbe0800000000000000
+      internalID: -1457916423895793166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base TealHammer_15
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 261
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9b1c1da7e603c370800000000000000
+      internalID: 8341518526931803035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base TealHammer_16
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 280
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60fcaed3900f539e0800000000000000
+      internalID: -1642142566622507258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base TealHammer_17
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 260
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a909fc2534704e60800000000000000
+      internalID: 7944477514418162084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base TealHammer_18
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 257
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 241c44e6a452ec780800000000000000
+      internalID: -8660944031779077822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base TealHammer_19
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 256
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdec5f69173403d10800000000000000
+      internalID: 2103255181125078747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base TealHammer_20
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 256
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f3e875aea35f8fb0800000000000000
+      internalID: -4643400681230113803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base TealHammer_21
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 257
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2be110b8f5f0cfa30800000000000000
+      internalID: 4250289051359321778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base TealHammer_22
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 258
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fa25dfb05f282e50800000000000000
+      internalID: 6784724862495959797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base TealHammer_23
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 191
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fe3ebb194491d1d0800000000000000
+      internalID: -3327715607931109644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base TealHammer_24
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 198
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ead0b69482c5f800800000000000000
+      internalID: 645635996317178593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base TealHammer_25
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 201
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9750ad84bab0109f0800000000000000
+      internalID: -504108852999223943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base TealHammer_26
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 202
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3f61469230efa010800000000000000
+      internalID: 1202426133405069117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base TealHammer_27
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 205
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27ec155649b2aafb0800000000000000
+      internalID: -4635844950069490062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base TealHammer_28
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 205
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6db8b311daebd2fc0800000000000000
+      internalID: -3517946083378754602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base TealHammer_29
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 206
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13906f94fd412ab00800000000000000
+      internalID: 838255429895457073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base TealHammer_30
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 202
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d156064b4eabd0ee0800000000000000
+      internalID: -1293172026543938275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base TealHammer_31
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 195
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f44f78a2249912960800000000000000
+      internalID: 7575504557674329167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base TealHammer_32
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 192
+        width: 8
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 950bca6dd39fa5260800000000000000
+      internalID: 7087251007610859609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base TealHammer_33
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 181
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ea572bed14ee17d0800000000000000
+      internalID: -2945666289103316247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base TealHammer_34
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 181
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ddfae4f5e7b87300800000000000000
+      internalID: 250151977603497431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base TealHammer_35
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 183
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 530cce5ef7bc7bd70800000000000000
+      internalID: 9058932925657825333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base TealHammer_36
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 184
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46ed8fb0b47663340800000000000000
+      internalID: 4843172021304614500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base TealHammer_37
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 186
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 501d4ee83fe183230800000000000000
+      internalID: 3618676332015440133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base TealHammer_38
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 180
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a697ec8eca6b15e0800000000000000
+      internalID: -1937837779293071711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base TealHammer_39
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 180
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72a858b22fb63a520800000000000000
+      internalID: 2712130088463600167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base TealHammer_40
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 191
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 908ee67835fea13e0800000000000000
+      internalID: -2082088735671916535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base TealHammer_41
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 181
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9cc3bb94164f2b50800000000000000
+      internalID: 6570547435682385051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base TealHammer_42
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 182
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40b607cbded04c5b0800000000000000
+      internalID: -5349135142689412348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base TealHammer_43
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 182
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 835aca1815fa418e0800000000000000
+      internalID: -1723559992773270216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base TealHammer_44
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 114
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47237f6a060194350800000000000000
+      internalID: 6001345985752019572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base TealHammer_45
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 125
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba6b6f2406b61bb80800000000000000
+      internalID: -8380799370375285077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base TealHammer_46
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 115
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8300b85fabf9cfe40800000000000000
+      internalID: 5691599654421725240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base TealHammer_47
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 109
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c4430ce8d489ad50800000000000000
+      internalID: 6749071583798838466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base TealHammer_48
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 109
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c990203e018465e0800000000000000
+      internalID: -1917265643416020541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base TealHammer_49
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 120
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d02f55981586300b0800000000000000
+      internalID: -5763648398698352115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base TealHammer_50
+      rect:
+        serializedVersion: 2
+        x: 1373
+        y: 110
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bc0abadd2a659f00800000000000000
+      internalID: 1122920427274505394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base TealHammer_51
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 111
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16b073466fad216d0800000000000000
+      internalID: -3021111648234042527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base TealHammer_52
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 112
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b385afa7e7342e70800000000000000
+      internalID: 9089451416164336569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base TealHammer_53
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 112
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c5cd7a4beee0ec70800000000000000
+      internalID: 8998454749820732872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base TealHammer_54
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 112
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce96a34a364ef1860800000000000000
+      internalID: 7502966620830722540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base TealHammer_55
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 112
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6673c47beacbac60800000000000000
+      internalID: 7830575489738831467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base TealHammer_56
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 112
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 679b9805b00856680800000000000000
+      internalID: -8762456713895233162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base TealHammer_57
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 112
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38ba81672864a02e0800000000000000
+      internalID: -2158835545229710461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base TealHammer_58
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 112
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9305b0f7fa6f99f0800000000000000
+      internalID: -459531023840640102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base TealHammer_59
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 112
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2d3afd4770bc5ec0800000000000000
+      internalID: -3576789977583174357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base TealHammer_60
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 110
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfefface438a89400800000000000000
+      internalID: 331199517874454268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base TealHammer_61
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 111
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f5d5cfb7f8bf7e10800000000000000
+      internalID: 2197678517393937913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base TealHammer_62
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 111
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d208f1d44aa71e00800000000000000
+      internalID: 1015467453552526038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base TealHammer_63
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 111
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5511fa7e7cac35750800000000000000
+      internalID: 6292596064301027669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base TealHammer_64
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 112
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c76f7096047b3d210800000000000000
+      internalID: 1356629400036570748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base TealHammer_65
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 31
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 533df4bee2b45ef40800000000000000
+      internalID: 5757090363551503157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base TealHammer_66
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 30
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7b98a0bb531c6b20800000000000000
+      internalID: 3128897125642443647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base TealHammer_67
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 31
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf8576951a97fe4e0800000000000000
+      internalID: -1950206379731494660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base TealHammer_68
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 31
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03ad30f1cbc8256d0800000000000000
+      internalID: -3003183261900613072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base TealHammer_69
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 34
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 033608584e25c9e60800000000000000
+      internalID: 7970336581984740144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base TealHammer_70
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 40
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faf13f723ee1c8ee0800000000000000
+      internalID: -1257596234966556753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base TealHammer_71
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 35
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 738fba26d9093a9f0800000000000000
+      internalID: -458363731421956041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base TealHammer_72
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 29
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e70617dcb204a8190800000000000000
+      internalID: -7959478834549399426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base TealHammer_73
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 29
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc8bac579051723f0800000000000000
+      internalID: -925748068026238772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base TealHammer_74
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 40
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3adb39f11617e850800000000000000
+      internalID: 6406113261409524282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base TealHammer_75
+      rect:
+        serializedVersion: 2
+        x: 1403
+        y: 30
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7c97bbfdeb959a60800000000000000
+      internalID: 7680216185982917754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base TealHammer_76
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 31
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a3e4280dccbee450800000000000000
+      internalID: 6120036532434035618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base TealHammer_77
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 32
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c7f3c08fded1a050800000000000000
+      internalID: 5810170045804050370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base TealHammer_78
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 30
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baa3677f60c986670800000000000000
+      internalID: 8532241047788862123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base TealHammer_79
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 30
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e37e2dcafe4d2d7a0800000000000000
+      internalID: -6353781998404573378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base TealHammer_80
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 30
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c6f25ae73191f020800000000000000
+      internalID: 2373838147941496512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base TealHammer_81
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 30
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e76b295f4a1941700800000000000000
+      internalID: 510192795480405630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base TealHammer_82
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 30
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43eb3ef7b35566ba0800000000000000
+      internalID: -6096091331562324428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base TealHammer_83
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 30
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b8820a21c1c62de0800000000000000
+      internalID: -1358185202227967822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base TealHammer_84
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 31
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f3ef70eb78ef4f60800000000000000
+      internalID: 8020885080115241970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base TealHammer_85
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 31
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cfa734a5fcaed7e0800000000000000
+      internalID: -1738762235096354871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

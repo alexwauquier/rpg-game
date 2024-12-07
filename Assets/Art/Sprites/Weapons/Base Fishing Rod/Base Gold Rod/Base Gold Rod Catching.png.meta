@@ -1,0 +1,1305 @@
+fileFormatVersion: 2
+guid: a035763efc31afe46bc70bb571f50cae
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7651430130481450941
+    second: Base Gold Rod Catching_0
+  - first:
+      213: 2764001359885171376
+    second: Base Gold Rod Catching_1
+  - first:
+      213: -6473590336799611945
+    second: Base Gold Rod Catching_2
+  - first:
+      213: -1856314193441057961
+    second: Base Gold Rod Catching_3
+  - first:
+      213: 6991812662469606830
+    second: Base Gold Rod Catching_4
+  - first:
+      213: 7664488341453671615
+    second: Base Gold Rod Catching_5
+  - first:
+      213: 5439251255846720992
+    second: Base Gold Rod Catching_6
+  - first:
+      213: -7866111204848468173
+    second: Base Gold Rod Catching_7
+  - first:
+      213: 7722159697139666226
+    second: Base Gold Rod Catching_8
+  - first:
+      213: 9073521115540824669
+    second: Base Gold Rod Catching_9
+  - first:
+      213: 7969837944685446537
+    second: Base Gold Rod Catching_10
+  - first:
+      213: 3752507177889827452
+    second: Base Gold Rod Catching_11
+  - first:
+      213: 2560664059565824092
+    second: Base Gold Rod Catching_12
+  - first:
+      213: 5355528883247766699
+    second: Base Gold Rod Catching_13
+  - first:
+      213: -2292136126196579592
+    second: Base Gold Rod Catching_14
+  - first:
+      213: 1593001115833022217
+    second: Base Gold Rod Catching_15
+  - first:
+      213: -7238100657385961093
+    second: Base Gold Rod Catching_16
+  - first:
+      213: 4245071777166773752
+    second: Base Gold Rod Catching_17
+  - first:
+      213: 7434077838970515618
+    second: Base Gold Rod Catching_18
+  - first:
+      213: 4074839845944643507
+    second: Base Gold Rod Catching_19
+  - first:
+      213: 5995921554442875675
+    second: Base Gold Rod Catching_20
+  - first:
+      213: -1233375184914329826
+    second: Base Gold Rod Catching_21
+  - first:
+      213: -909880428269822738
+    second: Base Gold Rod Catching_22
+  - first:
+      213: 4564140683657486035
+    second: Base Gold Rod Catching_23
+  - first:
+      213: -7178253512706567029
+    second: Base Gold Rod Catching_24
+  - first:
+      213: -2201380987786177256
+    second: Base Gold Rod Catching_25
+  - first:
+      213: 1168940141355849347
+    second: Base Gold Rod Catching_26
+  - first:
+      213: -1828270221001945215
+    second: Base Gold Rod Catching_27
+  - first:
+      213: 2961423103127573154
+    second: Base Gold Rod Catching_28
+  - first:
+      213: -1686008656313282068
+    second: Base Gold Rod Catching_29
+  - first:
+      213: 6801457907643919326
+    second: Base Gold Rod Catching_30
+  - first:
+      213: 4507653302418100546
+    second: Base Gold Rod Catching_31
+  - first:
+      213: 4160060155488105073
+    second: Base Gold Rod Catching_32
+  - first:
+      213: -1842412985201329235
+    second: Base Gold Rod Catching_33
+  - first:
+      213: 4380075197548233880
+    second: Base Gold Rod Catching_34
+  - first:
+      213: -3935449785798555145
+    second: Base Gold Rod Catching_35
+  - first:
+      213: -1107569907349318260
+    second: Base Gold Rod Catching_36
+  - first:
+      213: 4433431287707860554
+    second: Base Gold Rod Catching_37
+  - first:
+      213: -6854566013703473938
+    second: Base Gold Rod Catching_38
+  - first:
+      213: -7861503754284202985
+    second: Base Gold Rod Catching_39
+  - first:
+      213: 8714478829685050163
+    second: Base Gold Rod Catching_40
+  - first:
+      213: -8174654066516731328
+    second: Base Gold Rod Catching_41
+  - first:
+      213: -5720024860940858831
+    second: Base Gold Rod Catching_42
+  - first:
+      213: 5346565753305654164
+    second: Base Gold Rod Catching_43
+  - first:
+      213: 5114050458339404832
+    second: Base Gold Rod Catching_44
+  - first:
+      213: 3738131017073554580
+    second: Base Gold Rod Catching_45
+  - first:
+      213: -3184600592840131806
+    second: Base Gold Rod Catching_46
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Base Gold Rod Catching_0
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 284
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 340bee8d5d8a0d590800000000000000
+      internalID: -7651430130481450941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Rod Catching_1
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 286
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0baf6aea794bb5620800000000000000
+      internalID: 2764001359885171376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Rod Catching_2
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 285
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d368a123ef2926a0800000000000000
+      internalID: -6473590336799611945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Rod Catching_3
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 284
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7531e64831c0d36e0800000000000000
+      internalID: -1856314193441057961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Rod Catching_4
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 284
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ead34928298e70160800000000000000
+      internalID: 6991812662469606830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Rod Catching_5
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 295
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbc0871d98bbd5a60800000000000000
+      internalID: 7664488341453671615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Rod Catching_6
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 282
+        width: 11
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e557d4e23a1c7b40800000000000000
+      internalID: 5439251255846720992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Rod Catching_7
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 282
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33f794f1985f5d290800000000000000
+      internalID: -7866111204848468173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Rod Catching_8
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 282
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23d09dea45f9a2b60800000000000000
+      internalID: 7722159697139666226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Rod Catching_9
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 282
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5221d9816f9bed70800000000000000
+      internalID: 9073521115540824669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Rod Catching_10
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 282
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 985c76a726d8a9e60800000000000000
+      internalID: 7969837944685446537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Rod Catching_11
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 180
+        width: 7
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7a0a3b8565931430800000000000000
+      internalID: 3752507177889827452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Rod Catching_12
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 180
+        width: 7
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c58d78b256e498320800000000000000
+      internalID: 2560664059565824092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Rod Catching_13
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 180
+        width: 8
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bacd35ef429a25a40800000000000000
+      internalID: 5355528883247766699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Rod Catching_14
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 180
+        width: 9
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f286356652b030e0800000000000000
+      internalID: -2292136126196579592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Rod Catching_15
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 189
+        width: 8
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9073704231a7b1610800000000000000
+      internalID: 1593001115833022217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Rod Catching_16
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 199
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b790dfb1dc91d8b90800000000000000
+      internalID: -7238100657385961093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Rod Catching_17
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 182
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fdcf0c3a4689ea30800000000000000
+      internalID: 4245071777166773752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Rod Catching_18
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 181
+        width: 19
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a0f07838662b2760800000000000000
+      internalID: 7434077838970515618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Rod Catching_19
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 200
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bf432e104dbc8830800000000000000
+      internalID: 4074839845944643507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Rod Catching_20
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 200
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b13fca1d2eac53350800000000000000
+      internalID: 5995921554442875675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Rod Catching_21
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 180
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1f4664ddcb22eee0800000000000000
+      internalID: -1233375184914329826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Rod Catching_22
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 182
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eec95ec32947f53f0800000000000000
+      internalID: -909880428269822738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Rod Catching_23
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 100
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3de105a15c5175f30800000000000000
+      internalID: 4564140683657486035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Rod Catching_24
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 100
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b84dc635678b16c90800000000000000
+      internalID: -7178253512706567029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Rod Catching_25
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 100
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 815d4bfa7af1371e0800000000000000
+      internalID: -2201380987786177256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Rod Catching_26
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 100
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 386d5318dd8e83010800000000000000
+      internalID: 1168940141355849347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Rod Catching_27
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 100
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18f01cbabeda0a6e0800000000000000
+      internalID: -1828270221001945215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Rod Catching_28
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 110
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a2dd8b3f96191920800000000000000
+      internalID: 2961423103127573154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Rod Catching_29
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 102
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce196385f081a98e0800000000000000
+      internalID: -1686008656313282068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Rod Catching_30
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 117
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edb23eb6ee1a36e50800000000000000
+      internalID: 6801457907643919326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Rod Catching_31
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 102
+        width: 45
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2415f35cbc66e8e30800000000000000
+      internalID: 4507653302418100546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Rod Catching_32
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 101
+        width: 48
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 172ff14aba08bb930800000000000000
+      internalID: 4160060155488105073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Rod Catching_33
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 123
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dabf187c62f6e66e0800000000000000
+      internalID: -1842412985201329235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Rod Catching_34
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 123
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8948c5f7f2729cc30800000000000000
+      internalID: 4380075197548233880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Rod Catching_35
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 20
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f9071e45497269c0800000000000000
+      internalID: -3935449785798555145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Rod Catching_36
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 20
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c851884990f11a0f0800000000000000
+      internalID: -1107569907349318260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Rod Catching_37
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 20
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4efdef4446b68d30800000000000000
+      internalID: 4433431287707860554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Rod Catching_38
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 20
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee43dbf0780bfd0a0800000000000000
+      internalID: -6854566013703473938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Rod Catching_39
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 30
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7148d7dccf356e290800000000000000
+      internalID: -7861503754284202985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Rod Catching_40
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 37
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33b0a06035c00f870800000000000000
+      internalID: 8714478829685050163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Rod Catching_41
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 22
+        width: 45
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04a519b007bcd8e80800000000000000
+      internalID: -8174654066516731328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Rod Catching_42
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 21
+        width: 48
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13a8739e1b36e90b0800000000000000
+      internalID: -5720024860940858831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Rod Catching_43
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 37
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4936d0ea931d23a40800000000000000
+      internalID: 5346565753305654164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Rod Catching_44
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 37
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02c6eb4ebc1c8f640800000000000000
+      internalID: 5114050458339404832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Rod Catching_45
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 20
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 494f984ca5280e330800000000000000
+      internalID: 3738131017073554580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Rod Catching_46
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 22
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22bf34032a60ec3d0800000000000000
+      internalID: -3184600592840131806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

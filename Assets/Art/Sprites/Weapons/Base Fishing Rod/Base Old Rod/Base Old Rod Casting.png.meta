@@ -1,0 +1,1605 @@
+fileFormatVersion: 2
+guid: b299f81f7cbe1f54b91d282b651f6adc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6702806594555374640
+    second: Base Old Rod Casting_0
+  - first:
+      213: -5976503646850913863
+    second: Base Old Rod Casting_1
+  - first:
+      213: -5587336935654506864
+    second: Base Old Rod Casting_2
+  - first:
+      213: -6914178418379989422
+    second: Base Old Rod Casting_3
+  - first:
+      213: 3480452608078472758
+    second: Base Old Rod Casting_4
+  - first:
+      213: -2521471930176525005
+    second: Base Old Rod Casting_5
+  - first:
+      213: -5701039603006671331
+    second: Base Old Rod Casting_6
+  - first:
+      213: 2211862661561784130
+    second: Base Old Rod Casting_7
+  - first:
+      213: 4450415459662171479
+    second: Base Old Rod Casting_8
+  - first:
+      213: -1576171139394813544
+    second: Base Old Rod Casting_9
+  - first:
+      213: 8100872572794485027
+    second: Base Old Rod Casting_10
+  - first:
+      213: -4294422813340252884
+    second: Base Old Rod Casting_11
+  - first:
+      213: -6925425628579360774
+    second: Base Old Rod Casting_12
+  - first:
+      213: -5921773440830673208
+    second: Base Old Rod Casting_13
+  - first:
+      213: -8381562731865276900
+    second: Base Old Rod Casting_14
+  - first:
+      213: -511639221922146737
+    second: Base Old Rod Casting_15
+  - first:
+      213: -981312812379971801
+    second: Base Old Rod Casting_16
+  - first:
+      213: 3724236059582549281
+    second: Base Old Rod Casting_17
+  - first:
+      213: 7221188218786875530
+    second: Base Old Rod Casting_18
+  - first:
+      213: 7677058162271404625
+    second: Base Old Rod Casting_19
+  - first:
+      213: 2517937070938679033
+    second: Base Old Rod Casting_20
+  - first:
+      213: -3242955003665076106
+    second: Base Old Rod Casting_21
+  - first:
+      213: 4904199673192817174
+    second: Base Old Rod Casting_22
+  - first:
+      213: -1527871055816081668
+    second: Base Old Rod Casting_23
+  - first:
+      213: 7271953216346609174
+    second: Base Old Rod Casting_24
+  - first:
+      213: 8973610694731186916
+    second: Base Old Rod Casting_25
+  - first:
+      213: 6387540087263769822
+    second: Base Old Rod Casting_26
+  - first:
+      213: 2374961381370918981
+    second: Base Old Rod Casting_27
+  - first:
+      213: 3495042692942678415
+    second: Base Old Rod Casting_28
+  - first:
+      213: 7829857691655121113
+    second: Base Old Rod Casting_29
+  - first:
+      213: 7171425974844654967
+    second: Base Old Rod Casting_30
+  - first:
+      213: -3302040244871966866
+    second: Base Old Rod Casting_31
+  - first:
+      213: -7853109408267672329
+    second: Base Old Rod Casting_32
+  - first:
+      213: 4932023787933103546
+    second: Base Old Rod Casting_33
+  - first:
+      213: 8852817691466525834
+    second: Base Old Rod Casting_34
+  - first:
+      213: 5793252433361232959
+    second: Base Old Rod Casting_35
+  - first:
+      213: -509705190003990199
+    second: Base Old Rod Casting_36
+  - first:
+      213: 1864724333990808364
+    second: Base Old Rod Casting_37
+  - first:
+      213: -678935599064051752
+    second: Base Old Rod Casting_38
+  - first:
+      213: -4786391913750502123
+    second: Base Old Rod Casting_39
+  - first:
+      213: 334943547837959975
+    second: Base Old Rod Casting_40
+  - first:
+      213: -5865300076430360844
+    second: Base Old Rod Casting_41
+  - first:
+      213: -991375922477543110
+    second: Base Old Rod Casting_42
+  - first:
+      213: 8325500288757348169
+    second: Base Old Rod Casting_43
+  - first:
+      213: -7510435600791491326
+    second: Base Old Rod Casting_44
+  - first:
+      213: -5333150290395818133
+    second: Base Old Rod Casting_45
+  - first:
+      213: 3277186178219240851
+    second: Base Old Rod Casting_46
+  - first:
+      213: -2002197298270914658
+    second: Base Old Rod Casting_47
+  - first:
+      213: 4630467874493558047
+    second: Base Old Rod Casting_48
+  - first:
+      213: 1995634215921802945
+    second: Base Old Rod Casting_49
+  - first:
+      213: -7351233720948637507
+    second: Base Old Rod Casting_50
+  - first:
+      213: -9019436794784623544
+    second: Base Old Rod Casting_51
+  - first:
+      213: -1836467299760539565
+    second: Base Old Rod Casting_52
+  - first:
+      213: 9196873264533541764
+    second: Base Old Rod Casting_53
+  - first:
+      213: -6782645191899883116
+    second: Base Old Rod Casting_54
+  - first:
+      213: 6651923541506859634
+    second: Base Old Rod Casting_55
+  - first:
+      213: 536058055476901765
+    second: Base Old Rod Casting_56
+  - first:
+      213: 8829859583605142769
+    second: Base Old Rod Casting_57
+  - first:
+      213: -2419273436665513883
+    second: Base Old Rod Casting_58
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Base Old Rod Casting_0
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 196
+        width: 7
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03c6e92b517250d50800000000000000
+      internalID: 6702806594555374640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Old Rod Casting_1
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 281
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b9ef9a19913f0da0800000000000000
+      internalID: -5976503646850913863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Old Rod Casting_2
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 284
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09eb4e5f8aac572b0800000000000000
+      internalID: -5587336935654506864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Old Rod Casting_3
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 286
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25ed9c28c57eb00a0800000000000000
+      internalID: -6914178418379989422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Old Rod Casting_4
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 286
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6366912f43d0d4030800000000000000
+      internalID: 3480452608078472758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Old Rod Casting_5
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 284
+        width: 12
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33da5ba83aee10dd0800000000000000
+      internalID: -2521471930176525005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Old Rod Casting_6
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 284
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d167a5cbfa6d1e0b0800000000000000
+      internalID: -5701039603006671331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Old Rod Casting_7
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 285
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 247175a2f5d12be10800000000000000
+      internalID: 2211862661561784130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Old Rod Casting_8
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 285
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75d0210084d03cd30800000000000000
+      internalID: 4450415459662171479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Old Rod Casting_9
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 285
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 891462b13b0502ae0800000000000000
+      internalID: -1576171139394813544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Old Rod Casting_10
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 285
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 329be184fa41c6070800000000000000
+      internalID: 8100872572794485027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Old Rod Casting_11
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 285
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c25458f34352764c0800000000000000
+      internalID: -4294422813340252884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Old Rod Casting_12
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 285
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aff04225512f3ef90800000000000000
+      internalID: -6925425628579360774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Old Rod Casting_13
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 285
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cee1f23e62a1dda0800000000000000
+      internalID: -5921773440830673208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Old Rod Casting_14
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 285
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1e74805a15beab80800000000000000
+      internalID: -8381562731865276900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Old Rod Casting_15
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 198
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f465c24a6da46e8f0800000000000000
+      internalID: -511639221922146737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Old Rod Casting_16
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 200
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72f5d84423da162f0800000000000000
+      internalID: -981312812379971801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Old Rod Casting_17
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 204
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12d4e1fd6f42fa330800000000000000
+      internalID: 3724236059582549281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Old Rod Casting_18
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 204
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a88070dec60d63460800000000000000
+      internalID: 7221188218786875530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Old Rod Casting_19
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 196
+        width: 13
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 152433a49b36a8a60800000000000000
+      internalID: 7677058162271404625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Old Rod Casting_20
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 196
+        width: 10
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f66618ec6281f220800000000000000
+      internalID: 2517937070938679033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Old Rod Casting_21
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 195
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 670b7f72b95bef2d0800000000000000
+      internalID: -3242955003665076106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Old Rod Casting_22
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 196
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 612ae348e973f0440800000000000000
+      internalID: 4904199673192817174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Old Rod Casting_23
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 183
+        width: 7
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfe3b77ae59ebcae0800000000000000
+      internalID: -1527871055816081668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Old Rod Casting_24
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 178
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 616599bfbea2be460800000000000000
+      internalID: 7271953216346609174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Old Rod Casting_25
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 179
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e24914f16ba88c70800000000000000
+      internalID: 8973610694731186916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Old Rod Casting_26
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 179
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed4bce1edd915a850800000000000000
+      internalID: 6387540087263769822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Old Rod Casting_27
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 180
+        width: 7
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54872e31bce85f020800000000000000
+      internalID: 2374961381370918981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Old Rod Casting_28
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 180
+        width: 7
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f894cabcfc2e08030800000000000000
+      internalID: 3495042692942678415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Old Rod Casting_29
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 114
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d8a6f0161e39ac60800000000000000
+      internalID: 7829857691655121113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Old Rod Casting_30
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 120
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77500a3ade5068360800000000000000
+      internalID: 7171425974844654967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Old Rod Casting_31
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 122
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6fcc5a64ebcc22d0800000000000000
+      internalID: -3302040244871966866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Old Rod Casting_32
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 121
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f46de9c996240390800000000000000
+      internalID: -7853109408267672329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Old Rod Casting_33
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 121
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab5778f0181127440800000000000000
+      internalID: 4932023787933103546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Old Rod Casting_34
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 116
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8ce72149c68bda70800000000000000
+      internalID: 8852817691466525834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Old Rod Casting_35
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 114
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f34e9a8e464c56050800000000000000
+      internalID: 5793252433361232959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Old Rod Casting_36
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 114
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 941a3a984d92de8f0800000000000000
+      internalID: -509705190003990199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Old Rod Casting_37
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 111
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2b8c8be6e4d0e910800000000000000
+      internalID: 1864724333990808364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Old Rod Casting_38
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 100
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8df8b687bafe396f0800000000000000
+      internalID: -678935599064051752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Old Rod Casting_39
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 98
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5156911f9e1539db0800000000000000
+      internalID: -4786391913750502123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Old Rod Casting_40
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 99
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72fc0b4d165f5a400800000000000000
+      internalID: 334943547837959975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Old Rod Casting_41
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 99
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fefb4bf7a44a9ea0800000000000000
+      internalID: -5865300076430360844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Old Rod Casting_42
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 100
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a31d9ddd9dced32f0800000000000000
+      internalID: -991375922477543110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Old Rod Casting_43
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 100
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9473bc8f66e1a8370800000000000000
+      internalID: 8325500288757348169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Old Rod Casting_44
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 34
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20d2062fc9295c790800000000000000
+      internalID: -7510435600791491326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Old Rod Casting_45
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 38
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b679f2f2118dcf5b0800000000000000
+      internalID: -5333150290395818133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Old Rod Casting_46
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 41
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39de39f3777ea7d20800000000000000
+      internalID: 3277186178219240851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Old Rod Casting_47
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 41
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e97b0525a24c634e0800000000000000
+      internalID: -2002197298270914658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Old Rod Casting_48
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 41
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1deb03aff9b24040800000000000000
+      internalID: 4630467874493558047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Old Rod Casting_49
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 36
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ce52adfebae1bb10800000000000000
+      internalID: 1995634215921802945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Old Rod Casting_50
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 34
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db0cbf911eb2bf990800000000000000
+      internalID: -7351233720948637507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Old Rod Casting_51
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 34
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84456cca50684d280800000000000000
+      internalID: -9019436794784623544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Old Rod Casting_52
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 31
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 358f62c88be8386e0800000000000000
+      internalID: -1836467299760539565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Old Rod Casting_53
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 20
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4831fc8c18bd1af70800000000000000
+      internalID: 9196873264533541764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Old Rod Casting_54
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 18
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 499db4b42243fd1a0800000000000000
+      internalID: -6782645191899883116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Old Rod Casting_55
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 19
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2722394b731605c50800000000000000
+      internalID: 6651923541506859634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Old Rod Casting_56
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 19
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 587ffa716f5707700800000000000000
+      internalID: 536058055476901765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Old Rod Casting_57
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 20
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f4fc593286f98a70800000000000000
+      internalID: 8829859583605142769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Old Rod Casting_58
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 20
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 568730190a30d6ed0800000000000000
+      internalID: -2419273436665513883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

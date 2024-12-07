@@ -1,0 +1,730 @@
+fileFormatVersion: 2
+guid: 58d3b3919907a994ab54d59a66aa39f6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 444912531182369979
+    second: Base Gold Pickaxe_0
+  - first:
+      213: 6038970821063275055
+    second: Base Gold Pickaxe_1
+  - first:
+      213: -5824969264443773588
+    second: Base Gold Pickaxe_2
+  - first:
+      213: 2842596779993908208
+    second: Base Gold Pickaxe_3
+  - first:
+      213: 5585797157977033162
+    second: Base Gold Pickaxe_4
+  - first:
+      213: 4807342043065313484
+    second: Base Gold Pickaxe_5
+  - first:
+      213: 35694902501839707
+    second: Base Gold Pickaxe_6
+  - first:
+      213: -4668464800460535957
+    second: Base Gold Pickaxe_7
+  - first:
+      213: 6935832665156099733
+    second: Base Gold Pickaxe_8
+  - first:
+      213: -8102151256998003817
+    second: Base Gold Pickaxe_9
+  - first:
+      213: -995903221699569292
+    second: Base Gold Pickaxe_10
+  - first:
+      213: -4948261846865626947
+    second: Base Gold Pickaxe_11
+  - first:
+      213: 7083519180617191446
+    second: Base Gold Pickaxe_12
+  - first:
+      213: 7857857510379685559
+    second: Base Gold Pickaxe_13
+  - first:
+      213: 5477897044211326081
+    second: Base Gold Pickaxe_14
+  - first:
+      213: -296516076031401682
+    second: Base Gold Pickaxe_15
+  - first:
+      213: -2923333001977061453
+    second: Base Gold Pickaxe_16
+  - first:
+      213: 1425583147920289855
+    second: Base Gold Pickaxe_17
+  - first:
+      213: 2860110174153068582
+    second: Base Gold Pickaxe_18
+  - first:
+      213: -955762527838750023
+    second: Base Gold Pickaxe_19
+  - first:
+      213: -3796299566087254903
+    second: Base Gold Pickaxe_20
+  - first:
+      213: -638861621554236779
+    second: Base Gold Pickaxe_21
+  - first:
+      213: 6616400467842951141
+    second: Base Gold Pickaxe_22
+  - first:
+      213: 8297790881381728041
+    second: Base Gold Pickaxe_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Base Gold Pickaxe_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 121
+        width: 333
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbcbe310795ac2600800000000000000
+      internalID: 444912531182369979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Pickaxe_1
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 196
+        width: 86
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f22fc6647fbbec350800000000000000
+      internalID: 6038970821063275055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Pickaxe_2
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 186
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6da245e05d892fa0800000000000000
+      internalID: -5824969264443773588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Pickaxe_3
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 278
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f3c43fe5bee27720800000000000000
+      internalID: 2842596779993908208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Pickaxe_4
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 185
+        width: 179
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac98b9c9becb48d40800000000000000
+      internalID: 5585797157977033162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Pickaxe_5
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 125
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc865b62e1c17b240800000000000000
+      internalID: 4807342043065313484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Pickaxe_6
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 115
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b531aef1350de7000800000000000000
+      internalID: 35694902501839707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Pickaxe_7
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 117
+        width: 36
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b678222aff7463fb0800000000000000
+      internalID: -4668464800460535957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Pickaxe_8
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 110
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59e1e24bf07014060800000000000000
+      internalID: 6935832665156099733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Pickaxe_9
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 110
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79b362adb506f8f80800000000000000
+      internalID: -8102151256998003817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Pickaxe_10
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 109
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4791eefdb47dd22f0800000000000000
+      internalID: -995903221699569292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Pickaxe_11
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 116
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db8b4f9311e345bb0800000000000000
+      internalID: -4948261846865626947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Pickaxe_12
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 109
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6109a582a27bd4260800000000000000
+      internalID: 7083519180617191446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Pickaxe_13
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 108
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b601d1e5c7bc0d60800000000000000
+      internalID: 7857857510379685559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Pickaxe_14
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 38
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18cd06ca656650c40800000000000000
+      internalID: 5477897044211326081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Pickaxe_15
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 38
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e21a4f9233092ebf0800000000000000
+      internalID: -296516076031401682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Pickaxe_16
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 35
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bf1bf88f1c3e67d0800000000000000
+      internalID: -2923333001977061453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Pickaxe_17
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 29
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f307299e150b8c310800000000000000
+      internalID: 1425583147920289855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Pickaxe_18
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 28
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 620dfd4cc0721b720800000000000000
+      internalID: 2860110174153068582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Pickaxe_19
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 37
+        width: 36
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9baba867b037cb2f0800000000000000
+      internalID: -955762527838750023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Pickaxe_20
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 30
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98c466688a5d05bc0800000000000000
+      internalID: -3796299566087254903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Pickaxe_21
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 30
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59231a27dbe4227f0800000000000000
+      internalID: -638861621554236779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Pickaxe_22
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 29
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e7e1899b2d22db50800000000000000
+      internalID: 6616400467842951141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Pickaxe_23
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 36
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92fbb31d7dca72370800000000000000
+      internalID: 8297790881381728041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

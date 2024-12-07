@@ -1,0 +1,1680 @@
+fileFormatVersion: 2
+guid: 11c1e4e25bbe07c49a14caac6a7014db
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2381850233841996960
+    second: Base Purple Shovel_0
+  - first:
+      213: 8574838229304868815
+    second: Base Purple Shovel_1
+  - first:
+      213: 2441419088098870557
+    second: Base Purple Shovel_2
+  - first:
+      213: 4180163826698648916
+    second: Base Purple Shovel_3
+  - first:
+      213: 5668286755334025021
+    second: Base Purple Shovel_4
+  - first:
+      213: -3867703220593147616
+    second: Base Purple Shovel_5
+  - first:
+      213: -8964134445306813000
+    second: Base Purple Shovel_6
+  - first:
+      213: 143567523599429506
+    second: Base Purple Shovel_7
+  - first:
+      213: 6462321429444174890
+    second: Base Purple Shovel_8
+  - first:
+      213: -3147010221332765357
+    second: Base Purple Shovel_9
+  - first:
+      213: 5674176399249476773
+    second: Base Purple Shovel_10
+  - first:
+      213: -7633295014204411451
+    second: Base Purple Shovel_11
+  - first:
+      213: -8821462930181358772
+    second: Base Purple Shovel_12
+  - first:
+      213: 6996378584120747903
+    second: Base Purple Shovel_13
+  - first:
+      213: -5564904098221761648
+    second: Base Purple Shovel_14
+  - first:
+      213: 8795775063976468171
+    second: Base Purple Shovel_15
+  - first:
+      213: -5940044640018426779
+    second: Base Purple Shovel_16
+  - first:
+      213: 5291754906209666421
+    second: Base Purple Shovel_17
+  - first:
+      213: -3333541536623969656
+    second: Base Purple Shovel_18
+  - first:
+      213: 4864524801423900109
+    second: Base Purple Shovel_19
+  - first:
+      213: -1670937445242750386
+    second: Base Purple Shovel_20
+  - first:
+      213: -408747495371868775
+    second: Base Purple Shovel_21
+  - first:
+      213: 2916400358231475319
+    second: Base Purple Shovel_22
+  - first:
+      213: -1022981880932431344
+    second: Base Purple Shovel_23
+  - first:
+      213: 448459860398439508
+    second: Base Purple Shovel_24
+  - first:
+      213: 4338154928477573250
+    second: Base Purple Shovel_25
+  - first:
+      213: 8358028370877755404
+    second: Base Purple Shovel_26
+  - first:
+      213: -3659827674984067807
+    second: Base Purple Shovel_27
+  - first:
+      213: 6062198127683934426
+    second: Base Purple Shovel_28
+  - first:
+      213: 7554792134856804008
+    second: Base Purple Shovel_29
+  - first:
+      213: -1158924772080019184
+    second: Base Purple Shovel_30
+  - first:
+      213: -5155743223678435977
+    second: Base Purple Shovel_31
+  - first:
+      213: -7594735068174548728
+    second: Base Purple Shovel_32
+  - first:
+      213: 321986746180096505
+    second: Base Purple Shovel_33
+  - first:
+      213: -4372312294472028723
+    second: Base Purple Shovel_34
+  - first:
+      213: 3923117743578882227
+    second: Base Purple Shovel_35
+  - first:
+      213: 2976174349416297479
+    second: Base Purple Shovel_36
+  - first:
+      213: 7341243708340286580
+    second: Base Purple Shovel_37
+  - first:
+      213: -4243917383205430735
+    second: Base Purple Shovel_38
+  - first:
+      213: 7388005819703900866
+    second: Base Purple Shovel_39
+  - first:
+      213: -3370302161491022403
+    second: Base Purple Shovel_40
+  - first:
+      213: -7704193638821001041
+    second: Base Purple Shovel_41
+  - first:
+      213: -6613429120097018979
+    second: Base Purple Shovel_42
+  - first:
+      213: -5890298301478788560
+    second: Base Purple Shovel_43
+  - first:
+      213: -1674490237507741121
+    second: Base Purple Shovel_44
+  - first:
+      213: -933410538726022352
+    second: Base Purple Shovel_45
+  - first:
+      213: -898414601783986018
+    second: Base Purple Shovel_46
+  - first:
+      213: 1680180329277947942
+    second: Base Purple Shovel_47
+  - first:
+      213: -433562459242068267
+    second: Base Purple Shovel_48
+  - first:
+      213: 6987538266856096799
+    second: Base Purple Shovel_49
+  - first:
+      213: -7618917125120308001
+    second: Base Purple Shovel_50
+  - first:
+      213: -5059965726803693767
+    second: Base Purple Shovel_51
+  - first:
+      213: -6967367862246568348
+    second: Base Purple Shovel_52
+  - first:
+      213: -4743382461229119774
+    second: Base Purple Shovel_53
+  - first:
+      213: -8138148346203246729
+    second: Base Purple Shovel_54
+  - first:
+      213: -4497642297325990434
+    second: Base Purple Shovel_55
+  - first:
+      213: -64034707862565378
+    second: Base Purple Shovel_56
+  - first:
+      213: -974386259456294350
+    second: Base Purple Shovel_57
+  - first:
+      213: -7015450467765992770
+    second: Base Purple Shovel_58
+  - first:
+      213: 727611633586346382
+    second: Base Purple Shovel_59
+  - first:
+      213: 162129566667806245
+    second: Base Purple Shovel_60
+  - first:
+      213: 8055447895021541966
+    second: Base Purple Shovel_61
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Base Purple Shovel_0
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 282
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a455580b280e0120800000000000000
+      internalID: 2381850233841996960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Shovel_1
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 281
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcff72820f1fff670800000000000000
+      internalID: 8574838229304868815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Shovel_2
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 281
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d15cdf5b9b9a1e120800000000000000
+      internalID: 2441419088098870557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Shovel_3
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 281
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45d7f495adce20a30800000000000000
+      internalID: 4180163826698648916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Shovel_4
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 284
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3f6cb8a5ccc9ae40800000000000000
+      internalID: 5668286755334025021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Shovel_5
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 286
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02149efa968235ac0800000000000000
+      internalID: -3867703220593147616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Shovel_6
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 285
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b5e4ac473ff89380800000000000000
+      internalID: -8964134445306813000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Shovel_7
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 284
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28f2d6de6ed0ef100800000000000000
+      internalID: 143567523599429506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Shovel_8
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 282
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a242a6ae917cea950800000000000000
+      internalID: 6462321429444174890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Shovel_9
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 281
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 355efe490e29354d0800000000000000
+      internalID: -3147010221332765357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Shovel_10
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 280
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ac8b2e3f59bebe40800000000000000
+      internalID: 5674176399249476773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Shovel_11
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 186
+        width: 93
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c1f594a0a6111690800000000000000
+      internalID: -7633295014204411451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Shovel_12
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 273
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4b734ff33ed39580800000000000000
+      internalID: -8821462930181358772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Shovel_13
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 200
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f77eaacf041281160800000000000000
+      internalID: 6996378584120747903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Shovel_14
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 216
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09b5060f43d75c2b0800000000000000
+      internalID: -5564904098221761648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Shovel_15
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 201
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bce5e8491ded01a70800000000000000
+      internalID: 8795775063976468171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Shovel_16
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 214
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5641db12fd8b09da0800000000000000
+      internalID: -5940044640018426779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Shovel_17
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 212
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 575ce0fdc07107940800000000000000
+      internalID: 5291754906209666421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Shovel_18
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 191
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88ab48162a1ecb1d0800000000000000
+      internalID: -3333541536623969656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Shovel_19
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 190
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcdf2f59883428340800000000000000
+      internalID: 4864524801423900109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Shovel_20
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 188
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4a386e1f33afc8e0800000000000000
+      internalID: -1670937445242750386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Shovel_21
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 198
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 995778f8156d35af0800000000000000
+      internalID: -408747495371868775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Shovel_22
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 197
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 774853f8ca2297820800000000000000
+      internalID: 2916400358231475319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Shovel_23
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 181
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01a8c573663adc1f0800000000000000
+      internalID: -1022981880932431344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Shovel_24
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 181
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45cf113fddf393600800000000000000
+      internalID: 448459860398439508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Shovel_25
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 181
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28014844ce8343c30800000000000000
+      internalID: 4338154928477573250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Shovel_26
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 181
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c003ec4458eadf370800000000000000
+      internalID: 8358028370877755404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Shovel_27
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 181
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12d4e65ce1ea53dc0800000000000000
+      internalID: -3659827674984067807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Shovel_28
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 115
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad893a60411412450800000000000000
+      internalID: 6062198127683934426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Shovel_29
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 118
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a60e0e6b6308d860800000000000000
+      internalID: 7554792134856804008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Shovel_30
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 119
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01915ce5f0caaefe0800000000000000
+      internalID: -1158924772080019184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Shovel_31
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 126
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77df487bade1378b0800000000000000
+      internalID: -5155743223678435977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Shovel_32
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 118
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8010142b1b41a9690800000000000000
+      internalID: -7594735068174548728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Shovel_33
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 126
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f1d27c5d3de77400800000000000000
+      internalID: 321986746180096505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Shovel_34
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 116
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcdebe8322d6253c0800000000000000
+      internalID: -4372312294472028723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Shovel_35
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 125
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b02d0e5dc6b17630800000000000000
+      internalID: 3923117743578882227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Shovel_36
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 112
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70476966dce7d4920800000000000000
+      internalID: 2976174349416297479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Shovel_37
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 112
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 474b135d14651e560800000000000000
+      internalID: 7341243708340286580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Shovel_38
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 113
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13a5fed00a39a15c0800000000000000
+      internalID: -4243917383205430735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Shovel_39
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 109
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ca38f15628778660800000000000000
+      internalID: 7388005819703900866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Shovel_40
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 109
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbda89e6a084a31d0800000000000000
+      internalID: -3370302161491022403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Shovel_41
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 109
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa8004d34b4351590800000000000000
+      internalID: -7704193638821001041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Shovel_42
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 109
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9b946531416834a0800000000000000
+      internalID: -6613429120097018979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Shovel_43
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 113
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 032254727e4714ea0800000000000000
+      internalID: -5890298301478788560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Shovel_44
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 109
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3add75300403c8e0800000000000000
+      internalID: -1674490237507741121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Shovel_45
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 116
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03321a97f0cdb03f0800000000000000
+      internalID: -933410538726022352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Shovel_46
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 35
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9834affda03883f0800000000000000
+      internalID: -898414601783986018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Shovel_47
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 40
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62006358b13315710800000000000000
+      internalID: 1680180329277947942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Shovel_48
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 46
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d68eec8d3dabf9f0800000000000000
+      internalID: -433562459242068267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Shovel_49
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 41
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f14086a3809b8f060800000000000000
+      internalID: 6987538266856096799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Shovel_50
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 46
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdc4010dd3b244690800000000000000
+      internalID: -7618917125120308001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Shovel_51
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 40
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93fe636faf367c9b0800000000000000
+      internalID: -5059965726803693767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Shovel_52
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 45
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46e025f08dfee4f90800000000000000
+      internalID: -6967367862246568348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Shovel_53
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 36
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e6ce9478ce1c2eb0800000000000000
+      internalID: -4743382461229119774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Shovel_54
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 32
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77f6f17623d7f0f80800000000000000
+      internalID: -8138148346203246729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Shovel_55
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 32
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eddcc1df82a2591c0800000000000000
+      internalID: -4497642297325990434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Shovel_56
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 33
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efd4e80c5c08c1ff0800000000000000
+      internalID: -64034707862565378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Shovel_57
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 29
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 232061b0cd84a72f0800000000000000
+      internalID: -974386259456294350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Shovel_58
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 29
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb2c57118fc14ae90800000000000000
+      internalID: -7015450467765992770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Shovel_59
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 29
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e891b5afceef81a00800000000000000
+      internalID: 727611633586346382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Shovel_60
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 29
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52692dc5bffff3200800000000000000
+      internalID: 162129566667806245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Shovel_61
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 29
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4a5d615e23bacf60800000000000000
+      internalID: 8055447895021541966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

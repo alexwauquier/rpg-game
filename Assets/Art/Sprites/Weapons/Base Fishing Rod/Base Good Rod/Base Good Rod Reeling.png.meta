@@ -1,0 +1,1130 @@
+fileFormatVersion: 2
+guid: cb0dffb9c0ae8694d97245adda31e8a3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4509555172463930277
+    second: Base Good Rod Reeling_0
+  - first:
+      213: -7209359916392087258
+    second: Base Good Rod Reeling_1
+  - first:
+      213: 4013754728872814933
+    second: Base Good Rod Reeling_2
+  - first:
+      213: -6868276756970086713
+    second: Base Good Rod Reeling_3
+  - first:
+      213: -3688241789610073378
+    second: Base Good Rod Reeling_4
+  - first:
+      213: 4521178369314171384
+    second: Base Good Rod Reeling_5
+  - first:
+      213: 5226527866468779649
+    second: Base Good Rod Reeling_6
+  - first:
+      213: 1327308778717895580
+    second: Base Good Rod Reeling_7
+  - first:
+      213: 3508682732065601754
+    second: Base Good Rod Reeling_8
+  - first:
+      213: -3915517421419661463
+    second: Base Good Rod Reeling_9
+  - first:
+      213: -2094763582651054956
+    second: Base Good Rod Reeling_10
+  - first:
+      213: -8921276928688310197
+    second: Base Good Rod Reeling_11
+  - first:
+      213: 8095766205669858105
+    second: Base Good Rod Reeling_12
+  - first:
+      213: -3727685625003846914
+    second: Base Good Rod Reeling_13
+  - first:
+      213: -4521920259556655252
+    second: Base Good Rod Reeling_14
+  - first:
+      213: 8745165166467736793
+    second: Base Good Rod Reeling_15
+  - first:
+      213: 4246318230389075677
+    second: Base Good Rod Reeling_16
+  - first:
+      213: 6539957894122402033
+    second: Base Good Rod Reeling_17
+  - first:
+      213: 4376591395408432974
+    second: Base Good Rod Reeling_18
+  - first:
+      213: -7029726141364905664
+    second: Base Good Rod Reeling_19
+  - first:
+      213: -4134623725020874592
+    second: Base Good Rod Reeling_20
+  - first:
+      213: 4627387200608880531
+    second: Base Good Rod Reeling_21
+  - first:
+      213: -2550396861180069268
+    second: Base Good Rod Reeling_22
+  - first:
+      213: -1625922413862837587
+    second: Base Good Rod Reeling_23
+  - first:
+      213: -9055330674970657521
+    second: Base Good Rod Reeling_24
+  - first:
+      213: 101956700454190630
+    second: Base Good Rod Reeling_25
+  - first:
+      213: -6712144713217519471
+    second: Base Good Rod Reeling_26
+  - first:
+      213: 4236533057331353717
+    second: Base Good Rod Reeling_27
+  - first:
+      213: -4607388992183090205
+    second: Base Good Rod Reeling_28
+  - first:
+      213: 4922857254755108130
+    second: Base Good Rod Reeling_29
+  - first:
+      213: 4294256226515848445
+    second: Base Good Rod Reeling_30
+  - first:
+      213: -1982542899224026779
+    second: Base Good Rod Reeling_31
+  - first:
+      213: 2475109870558045933
+    second: Base Good Rod Reeling_32
+  - first:
+      213: 3289875141089598506
+    second: Base Good Rod Reeling_33
+  - first:
+      213: 3367204913608806983
+    second: Base Good Rod Reeling_34
+  - first:
+      213: -2748396376325376275
+    second: Base Good Rod Reeling_35
+  - first:
+      213: -568715679864646948
+    second: Base Good Rod Reeling_36
+  - first:
+      213: -8325438607655642462
+    second: Base Good Rod Reeling_37
+  - first:
+      213: -6780747748534896015
+    second: Base Good Rod Reeling_38
+  - first:
+      213: -3152063530782037060
+    second: Base Good Rod Reeling_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Base Good Rod Reeling_0
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 285
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5abecb56988259e30800000000000000
+      internalID: 4509555172463930277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Good Rod Reeling_1
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 285
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62182855a5533fb90800000000000000
+      internalID: -7209359916392087258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Good Rod Reeling_2
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 284
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 559220ef8a8b3b730800000000000000
+      internalID: 4013754728872814933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Good Rod Reeling_3
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 279
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ced9b1edaafea0a0800000000000000
+      internalID: -6868276756970086713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Good Rod Reeling_4
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 279
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed26a8c22abb0dcc0800000000000000
+      internalID: -3688241789610073378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Good Rod Reeling_5
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 282
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f9a62dc5c37ebe30800000000000000
+      internalID: 4521178369314171384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Good Rod Reeling_6
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 279
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1864d89376b588840800000000000000
+      internalID: 5226527866468779649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Good Rod Reeling_7
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 284
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9bdcb64d4c8b6210800000000000000
+      internalID: 1327308778717895580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Good Rod Reeling_8
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 277
+        width: 9
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad83152ea5851b030800000000000000
+      internalID: 3508682732065601754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Good Rod Reeling_9
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 284
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9677d6886a949a9c0800000000000000
+      internalID: -3915517421419661463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Good Rod Reeling_10
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 180
+        width: 7
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 494c8afbe97ede2e0800000000000000
+      internalID: -2094763582651054956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Good Rod Reeling_11
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 180
+        width: 8
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4835aa76e1413480800000000000000
+      internalID: -8921276928688310197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Good Rod Reeling_12
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 180
+        width: 9
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93b50998870f95070800000000000000
+      internalID: 8095766205669858105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Good Rod Reeling_13
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 180
+        width: 10
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef2d0579ca9944cc0800000000000000
+      internalID: -3727685625003846914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Good Rod Reeling_14
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 180
+        width: 11
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6fbb7a6b79ee31c0800000000000000
+      internalID: -4521920259556655252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Good Rod Reeling_15
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 180
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d4ed6192611d5970800000000000000
+      internalID: 8745165166467736793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Good Rod Reeling_16
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 180
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dde2b9dbee3fdea30800000000000000
+      internalID: 4246318230389075677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Good Rod Reeling_17
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 180
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f07d25fd0992ca50800000000000000
+      internalID: 6539957894122402033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Good Rod Reeling_18
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 180
+        width: 9
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4fc95a9fa6ccbc30800000000000000
+      internalID: 4376591395408432974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Good Rod Reeling_19
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 180
+        width: 10
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 049daabc155617e90800000000000000
+      internalID: -7029726141364905664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Good Rod Reeling_20
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 100
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a87a36d0adde96c0800000000000000
+      internalID: -4134623725020874592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Good Rod Reeling_21
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 100
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3974b7a5428c73040800000000000000
+      internalID: 4627387200608880531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Good Rod Reeling_22
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 100
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6a371d319b2b9cd0800000000000000
+      internalID: -2550396861180069268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Good Rod Reeling_23
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 100
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da22c59dd209f69e0800000000000000
+      internalID: -1625922413862837587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Good Rod Reeling_24
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 100
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0dfca27ab0055280800000000000000
+      internalID: -9055330674970657521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Good Rod Reeling_25
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 100
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62efa0134193a6100800000000000000
+      internalID: 101956700454190630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Good Rod Reeling_26
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 100
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19057af12fba9d2a0800000000000000
+      internalID: -6712144713217519471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Good Rod Reeling_27
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 100
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5785f699e503bca30800000000000000
+      internalID: 4236533057331353717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Good Rod Reeling_28
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 100
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e3c1e26f144f00c0800000000000000
+      internalID: -4607388992183090205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Good Rod Reeling_29
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 100
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22502ad3790815440800000000000000
+      internalID: 4922857254755108130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Good Rod Reeling_30
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 20
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfc8cfb3943489b30800000000000000
+      internalID: 4294256226515848445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Good Rod Reeling_31
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 20
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56167c3bcb79c74e0800000000000000
+      internalID: -1982542899224026779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Good Rod Reeling_32
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 20
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de6eca6405b595220800000000000000
+      internalID: 2475109870558045933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Good Rod Reeling_33
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 20
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2c9804a20cf7ad20800000000000000
+      internalID: 3289875141089598506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Good Rod Reeling_34
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 20
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7425a995707babe20800000000000000
+      internalID: 3367204913608806983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Good Rod Reeling_35
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 20
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de6b72fae0cbbd9d0800000000000000
+      internalID: -2748396376325376275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Good Rod Reeling_36
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 20
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd219733a148b18f0800000000000000
+      internalID: -568715679864646948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Good Rod Reeling_37
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 20
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aadc5742b9167c80800000000000000
+      internalID: -8325438607655642462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Good Rod Reeling_38
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 20
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17a3c0149d1f5e1a0800000000000000
+      internalID: -6780747748534896015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Good Rod Reeling_39
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 20
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbbe54a4bee9144d0800000000000000
+      internalID: -3152063530782037060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

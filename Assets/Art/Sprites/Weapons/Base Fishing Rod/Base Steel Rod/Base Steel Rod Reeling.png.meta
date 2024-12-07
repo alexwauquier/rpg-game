@@ -1,0 +1,1130 @@
+fileFormatVersion: 2
+guid: 9ada132822096fe49b65454570db75a5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3272579366119226947
+    second: Base Steel Rod Reeling_0
+  - first:
+      213: -6967359669740565383
+    second: Base Steel Rod Reeling_1
+  - first:
+      213: -7590246301238586939
+    second: Base Steel Rod Reeling_2
+  - first:
+      213: -6465116755039948675
+    second: Base Steel Rod Reeling_3
+  - first:
+      213: 5373883218242268908
+    second: Base Steel Rod Reeling_4
+  - first:
+      213: -1706351592806269032
+    second: Base Steel Rod Reeling_5
+  - first:
+      213: -718474446690616310
+    second: Base Steel Rod Reeling_6
+  - first:
+      213: 1217611921334221615
+    second: Base Steel Rod Reeling_7
+  - first:
+      213: 8622134770273854328
+    second: Base Steel Rod Reeling_8
+  - first:
+      213: 5610495548055725737
+    second: Base Steel Rod Reeling_9
+  - first:
+      213: 919894533929092864
+    second: Base Steel Rod Reeling_10
+  - first:
+      213: -3148591456729486405
+    second: Base Steel Rod Reeling_11
+  - first:
+      213: 3048967649529732078
+    second: Base Steel Rod Reeling_12
+  - first:
+      213: 149550267746008952
+    second: Base Steel Rod Reeling_13
+  - first:
+      213: 40332509464761017
+    second: Base Steel Rod Reeling_14
+  - first:
+      213: 7734480121076090620
+    second: Base Steel Rod Reeling_15
+  - first:
+      213: -59093709950872105
+    second: Base Steel Rod Reeling_16
+  - first:
+      213: 5567439355573714535
+    second: Base Steel Rod Reeling_17
+  - first:
+      213: 3549069515674553143
+    second: Base Steel Rod Reeling_18
+  - first:
+      213: -4703779853592567274
+    second: Base Steel Rod Reeling_19
+  - first:
+      213: 1954612923159115858
+    second: Base Steel Rod Reeling_20
+  - first:
+      213: 4518129129221396768
+    second: Base Steel Rod Reeling_21
+  - first:
+      213: -3429673201757354910
+    second: Base Steel Rod Reeling_22
+  - first:
+      213: -8929430101734443853
+    second: Base Steel Rod Reeling_23
+  - first:
+      213: 3177308564621725511
+    second: Base Steel Rod Reeling_24
+  - first:
+      213: 778320266659729428
+    second: Base Steel Rod Reeling_25
+  - first:
+      213: 2544902323768264402
+    second: Base Steel Rod Reeling_26
+  - first:
+      213: 4540423590613910668
+    second: Base Steel Rod Reeling_27
+  - first:
+      213: 4268747666436349107
+    second: Base Steel Rod Reeling_28
+  - first:
+      213: 8734509233853698255
+    second: Base Steel Rod Reeling_29
+  - first:
+      213: -7891753100097703767
+    second: Base Steel Rod Reeling_30
+  - first:
+      213: -6066131680381486345
+    second: Base Steel Rod Reeling_31
+  - first:
+      213: -3561207004880112513
+    second: Base Steel Rod Reeling_32
+  - first:
+      213: 4561345124804671886
+    second: Base Steel Rod Reeling_33
+  - first:
+      213: 1142779097108136955
+    second: Base Steel Rod Reeling_34
+  - first:
+      213: 6550749662744610226
+    second: Base Steel Rod Reeling_35
+  - first:
+      213: 9208705617680199734
+    second: Base Steel Rod Reeling_36
+  - first:
+      213: -5432903384215933520
+    second: Base Steel Rod Reeling_37
+  - first:
+      213: -6696549666135201237
+    second: Base Steel Rod Reeling_38
+  - first:
+      213: -1251216384294415222
+    second: Base Steel Rod Reeling_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Base Steel Rod Reeling_0
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 285
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db1c037c7667592d0800000000000000
+      internalID: -3272579366119226947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Rod Reeling_1
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 285
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97c0bb68b47fe4f90800000000000000
+      internalID: -6967359669740565383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Rod Reeling_2
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 284
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c193f034370aa690800000000000000
+      internalID: -7590246301238586939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Rod Reeling_3
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 279
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d70fa60a09a4746a0800000000000000
+      internalID: -6465116755039948675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Rod Reeling_4
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 279
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cee63cf905ed39a40800000000000000
+      internalID: 5373883218242268908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Rod Reeling_5
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 282
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89f3cd85442d158e0800000000000000
+      internalID: -1706351592806269032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Rod Reeling_6
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 279
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0c7fc02c477706f0800000000000000
+      internalID: -718474446690616310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Rod Reeling_7
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 284
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2b386d5793d5e010800000000000000
+      internalID: 1217611921334221615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Rod Reeling_8
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 277
+        width: 9
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 873a7bb34e9f7a770800000000000000
+      internalID: 8622134770273854328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Rod Reeling_9
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 284
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a6a5cba9fb7cdd40800000000000000
+      internalID: 5610495548055725737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Rod Reeling_10
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 180
+        width: 7
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 007caad643f14cc00800000000000000
+      internalID: 919894533929092864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Rod Reeling_11
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 180
+        width: 8
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbb2fc680c4fd44d0800000000000000
+      internalID: -3148591456729486405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Rod Reeling_12
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 180
+        width: 9
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeb90e15ceb105a20800000000000000
+      internalID: 3048967649529732078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Rod Reeling_13
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 180
+        width: 10
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87fb0191d2f431200800000000000000
+      internalID: 149550267746008952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Rod Reeling_14
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 180
+        width: 11
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b21c83243a4f8000800000000000000
+      internalID: 40332509464761017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Rod Reeling_15
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 180
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf68f0be0b4665b60800000000000000
+      internalID: 7734480121076090620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Rod Reeling_16
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 180
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d51be9759e0e2ff0800000000000000
+      internalID: -59093709950872105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Rod Reeling_17
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 180
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76e3089a894834d40800000000000000
+      internalID: 5567439355573714535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Rod Reeling_18
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 180
+        width: 9
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73b03f4bbe3d04130800000000000000
+      internalID: 3549069515674553143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Rod Reeling_19
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 180
+        width: 10
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 612e9f41521d8beb0800000000000000
+      internalID: -4703779853592567274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Rod Reeling_20
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 100
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 258794ef81e202b10800000000000000
+      internalID: 1954612923159115858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Rod Reeling_21
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 100
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0291694418e93be30800000000000000
+      internalID: 4518129129221396768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Rod Reeling_22
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 100
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2648399e46a5760d0800000000000000
+      internalID: -3429673201757354910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Rod Reeling_23
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 100
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b43073f1aa441480800000000000000
+      internalID: -8929430101734443853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Rod Reeling_24
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 100
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74f85103e41181c20800000000000000
+      internalID: 3177308564621725511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Rod Reeling_25
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 100
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4109db7a8262dca00800000000000000
+      internalID: 778320266659729428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Rod Reeling_26
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 100
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d606441e2f415320800000000000000
+      internalID: 2544902323768264402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Rod Reeling_27
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 100
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8488501333d20f30800000000000000
+      internalID: 4540423590613910668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Rod Reeling_28
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 100
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bc57b5c263ad3b30800000000000000
+      internalID: 4268747666436349107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Rod Reeling_29
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 100
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc0183beed5373970800000000000000
+      internalID: 8734509233853698255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Rod Reeling_30
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 20
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a0b6952e5cda7290800000000000000
+      internalID: -7891753100097703767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Rod Reeling_31
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 20
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fa3e1e5065c0dba0800000000000000
+      internalID: -6066131680381486345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Rod Reeling_32
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 20
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f74fc7ed81d049ec0800000000000000
+      internalID: -3561207004880112513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Rod Reeling_33
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 20
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8931f559372d4f30800000000000000
+      internalID: 4561345124804671886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Rod Reeling_34
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 20
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf34fdbb887fbdf00800000000000000
+      internalID: 1142779097108136955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Rod Reeling_35
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 20
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b507646c10f8ea50800000000000000
+      internalID: 6550749662744610226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Rod Reeling_36
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 20
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 630f8fe28f4ebcf70800000000000000
+      internalID: 9208705617680199734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Rod Reeling_37
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 20
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bdaac428237a94b0800000000000000
+      internalID: -5432903384215933520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Rod Reeling_38
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 20
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2a2049fe831113a0800000000000000
+      internalID: -6696549666135201237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Rod Reeling_39
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 20
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a849bf4e359c2aee0800000000000000
+      internalID: -1251216384294415222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

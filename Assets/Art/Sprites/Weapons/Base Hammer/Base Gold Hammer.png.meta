@@ -1,0 +1,2280 @@
+fileFormatVersion: 2
+guid: 0081f8bbe15540247b24cbe6d3dcb076
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8869444173647578189
+    second: Base Gold Hammer_0
+  - first:
+      213: -2637993775140831719
+    second: Base Gold Hammer_1
+  - first:
+      213: 557266337929569813
+    second: Base Gold Hammer_2
+  - first:
+      213: -2222616950299711413
+    second: Base Gold Hammer_3
+  - first:
+      213: -1584204765353558515
+    second: Base Gold Hammer_4
+  - first:
+      213: -8987550932305460163
+    second: Base Gold Hammer_5
+  - first:
+      213: -5316923876403329677
+    second: Base Gold Hammer_6
+  - first:
+      213: -3564284393395891140
+    second: Base Gold Hammer_7
+  - first:
+      213: -5000028850693379984
+    second: Base Gold Hammer_8
+  - first:
+      213: -8074866069306437907
+    second: Base Gold Hammer_9
+  - first:
+      213: 6577506820839553453
+    second: Base Gold Hammer_10
+  - first:
+      213: -5854849178603726099
+    second: Base Gold Hammer_11
+  - first:
+      213: -3135511194591888306
+    second: Base Gold Hammer_12
+  - first:
+      213: 9115464976050381923
+    second: Base Gold Hammer_13
+  - first:
+      213: -3997601953852971943
+    second: Base Gold Hammer_14
+  - first:
+      213: 6250743332848398399
+    second: Base Gold Hammer_15
+  - first:
+      213: 769917882667380651
+    second: Base Gold Hammer_16
+  - first:
+      213: 4704542148535406916
+    second: Base Gold Hammer_17
+  - first:
+      213: 563902441895126929
+    second: Base Gold Hammer_18
+  - first:
+      213: -4421409767126966054
+    second: Base Gold Hammer_19
+  - first:
+      213: -5592588568944724735
+    second: Base Gold Hammer_20
+  - first:
+      213: -8846910157784471806
+    second: Base Gold Hammer_21
+  - first:
+      213: -4649292599210361971
+    second: Base Gold Hammer_22
+  - first:
+      213: 8040002165106570901
+    second: Base Gold Hammer_23
+  - first:
+      213: 1904390338222359463
+    second: Base Gold Hammer_24
+  - first:
+      213: -8632668325050199904
+    second: Base Gold Hammer_25
+  - first:
+      213: 6164088578036008363
+    second: Base Gold Hammer_26
+  - first:
+      213: 4889937595222879983
+    second: Base Gold Hammer_27
+  - first:
+      213: -6005122147115940743
+    second: Base Gold Hammer_28
+  - first:
+      213: 7277847991977483959
+    second: Base Gold Hammer_29
+  - first:
+      213: 5642466010754359255
+    second: Base Gold Hammer_30
+  - first:
+      213: 7830550485255708738
+    second: Base Gold Hammer_31
+  - first:
+      213: 2258777856807129198
+    second: Base Gold Hammer_32
+  - first:
+      213: -7601419417677913938
+    second: Base Gold Hammer_33
+  - first:
+      213: -134698786517983116
+    second: Base Gold Hammer_34
+  - first:
+      213: 464181877981390708
+    second: Base Gold Hammer_35
+  - first:
+      213: -3119418311234483660
+    second: Base Gold Hammer_36
+  - first:
+      213: 3045917903565038219
+    second: Base Gold Hammer_37
+  - first:
+      213: -7718306681607132720
+    second: Base Gold Hammer_38
+  - first:
+      213: -4314816572458745922
+    second: Base Gold Hammer_39
+  - first:
+      213: -7851552570951609775
+    second: Base Gold Hammer_40
+  - first:
+      213: 4319850206881048405
+    second: Base Gold Hammer_41
+  - first:
+      213: 7992016656095383815
+    second: Base Gold Hammer_42
+  - first:
+      213: -5168434603585910406
+    second: Base Gold Hammer_43
+  - first:
+      213: 6184623921665971189
+    second: Base Gold Hammer_44
+  - first:
+      213: -1825831079309135861
+    second: Base Gold Hammer_45
+  - first:
+      213: 6273751177675296142
+    second: Base Gold Hammer_46
+  - first:
+      213: -4934630835015188771
+    second: Base Gold Hammer_47
+  - first:
+      213: 2354617952236321122
+    second: Base Gold Hammer_48
+  - first:
+      213: -3026342729261564042
+    second: Base Gold Hammer_49
+  - first:
+      213: 8486813399691913138
+    second: Base Gold Hammer_50
+  - first:
+      213: -1950698788868508970
+    second: Base Gold Hammer_51
+  - first:
+      213: 8098990571779756350
+    second: Base Gold Hammer_52
+  - first:
+      213: -386511347515833599
+    second: Base Gold Hammer_53
+  - first:
+      213: -7188777813139160762
+    second: Base Gold Hammer_54
+  - first:
+      213: -2553836721944079218
+    second: Base Gold Hammer_55
+  - first:
+      213: 617066780752727872
+    second: Base Gold Hammer_56
+  - first:
+      213: 3464455174891697111
+    second: Base Gold Hammer_57
+  - first:
+      213: -472029467625810872
+    second: Base Gold Hammer_58
+  - first:
+      213: 6901321367961132897
+    second: Base Gold Hammer_59
+  - first:
+      213: -7676251834309387869
+    second: Base Gold Hammer_60
+  - first:
+      213: 677475265637807077
+    second: Base Gold Hammer_61
+  - first:
+      213: 5383348357027427203
+    second: Base Gold Hammer_62
+  - first:
+      213: 7828578695229851638
+    second: Base Gold Hammer_63
+  - first:
+      213: 23166072418821213
+    second: Base Gold Hammer_64
+  - first:
+      213: -8945448248119773241
+    second: Base Gold Hammer_65
+  - first:
+      213: -6835685914772047123
+    second: Base Gold Hammer_66
+  - first:
+      213: -5329528734087855937
+    second: Base Gold Hammer_67
+  - first:
+      213: -8284054524625555625
+    second: Base Gold Hammer_68
+  - first:
+      213: 6317430768637439370
+    second: Base Gold Hammer_69
+  - first:
+      213: 7090610369114154860
+    second: Base Gold Hammer_70
+  - first:
+      213: 7263487716123275427
+    second: Base Gold Hammer_71
+  - first:
+      213: 8437535124327936841
+    second: Base Gold Hammer_72
+  - first:
+      213: -6219667303073991339
+    second: Base Gold Hammer_73
+  - first:
+      213: -2984509469291828829
+    second: Base Gold Hammer_74
+  - first:
+      213: 7816921246164593866
+    second: Base Gold Hammer_75
+  - first:
+      213: 7165753716470607260
+    second: Base Gold Hammer_76
+  - first:
+      213: 3752494670917271094
+    second: Base Gold Hammer_77
+  - first:
+      213: -4210148384614910740
+    second: Base Gold Hammer_78
+  - first:
+      213: -4512160125508638764
+    second: Base Gold Hammer_79
+  - first:
+      213: 5315315084086641658
+    second: Base Gold Hammer_80
+  - first:
+      213: 5823696050861144428
+    second: Base Gold Hammer_81
+  - first:
+      213: 3666480375930642579
+    second: Base Gold Hammer_82
+  - first:
+      213: 8117377356028134609
+    second: Base Gold Hammer_83
+  - first:
+      213: -7599944063452894159
+    second: Base Gold Hammer_84
+  - first:
+      213: -6398278370169086129
+    second: Base Gold Hammer_85
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Base Gold Hammer_0
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 281
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bbf392348769e480800000000000000
+      internalID: -8869444173647578189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Hammer_1
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 276
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91ef90163a6f36bd0800000000000000
+      internalID: -2637993775140831719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Hammer_2
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 275
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 516239528cecbb700800000000000000
+      internalID: 557266337929569813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Hammer_3
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 279
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b48af9dd8ada721e0800000000000000
+      internalID: -2222616950299711413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Hammer_4
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 280
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0ebe9dc826c30ae0800000000000000
+      internalID: -1584204765353558515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Hammer_5
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 279
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d34c33f8b0ec54380800000000000000
+      internalID: -8987550932305460163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Hammer_6
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 290
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 375cf2997ed7636b0800000000000000
+      internalID: -5316923876403329677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Hammer_7
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 279
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c345b258a3e198ec0800000000000000
+      internalID: -3564284393395891140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Hammer_8
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 281
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07867b760445c9ab0800000000000000
+      internalID: -5000028850693379984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Hammer_9
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 280
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dee822aa71050ff80800000000000000
+      internalID: -8074866069306437907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Hammer_10
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 281
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da9b9dbba9ff74b50800000000000000
+      internalID: 6577506820839553453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Hammer_11
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 281
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dea56df31b56fbea0800000000000000
+      internalID: -5854849178603726099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Hammer_12
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 272
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4cf6116e2d6c74d0800000000000000
+      internalID: -3135511194591888306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Hammer_13
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 268
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3646ff39913a08e70800000000000000
+      internalID: 9115464976050381923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Hammer_14
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 263
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 954af23043aa588c0800000000000000
+      internalID: -3997601953852971943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Hammer_15
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 261
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f30f19081f91fb650800000000000000
+      internalID: 6250743332848398399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Hammer_16
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 280
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baf2c9e2c3c4faa00800000000000000
+      internalID: 769917882667380651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Hammer_17
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 260
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4415e4a8824e94140800000000000000
+      internalID: 4704542148535406916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Hammer_18
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 257
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1976221884263d700800000000000000
+      internalID: 563902441895126929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Hammer_19
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 256
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad064ff0e3ff3a2c0800000000000000
+      internalID: -4421409767126966054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Hammer_20
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 256
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 105b32dc3522362b0800000000000000
+      internalID: -5592588568944724735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Hammer_21
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 257
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 207267d9516793580800000000000000
+      internalID: -8846910157784471806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Hammer_22
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 258
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8bb63793056a7fb0800000000000000
+      internalID: -4649292599210361971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Hammer_23
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 191
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5967c841f53d39f60800000000000000
+      internalID: 8040002165106570901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Hammer_24
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 198
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a30e673ce0cd6a10800000000000000
+      internalID: 1904390338222359463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Hammer_25
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 201
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a0dd9d65e9923880800000000000000
+      internalID: -8632668325050199904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Hammer_26
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 202
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba501e927ed3b8550800000000000000
+      internalID: 6164088578036008363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Hammer_27
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 205
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fee6619b55c8cd340800000000000000
+      internalID: 4889937595222879983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Hammer_28
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 205
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 974c254493589aca0800000000000000
+      internalID: -6005122147115940743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Hammer_29
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 206
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7be9b13603c100560800000000000000
+      internalID: 7277847991977483959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Hammer_30
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 202
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7df9a3411f01e4e40800000000000000
+      internalID: 5642466010754359255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Hammer_31
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 195
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 240ed65ad24bbac60800000000000000
+      internalID: 7830550485255708738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Hammer_32
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 192
+        width: 8
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e60d1854e7ac85f10800000000000000
+      internalID: 2258777856807129198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Hammer_33
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 181
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea02d8c4055528690800000000000000
+      internalID: -7601419417677913938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Hammer_34
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 181
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4706be5da24712ef0800000000000000
+      internalID: -134698786517983116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Hammer_35
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 183
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 477214c65fa117600800000000000000
+      internalID: 464181877981390708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Hammer_36
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 184
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43a0505c29995b4d0800000000000000
+      internalID: -3119418311234483660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Hammer_37
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 186
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b822ff00236454a20800000000000000
+      internalID: 3045917903565038219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Hammer_38
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 180
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d9684767f013e490800000000000000
+      internalID: -7718306681607132720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Hammer_39
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 180
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebfb0af2031be14c0800000000000000
+      internalID: -4314816572458745922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Hammer_40
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 191
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 152df19398ea90390800000000000000
+      internalID: -7851552570951609775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Hammer_41
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 181
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 557ea0820e033fb30800000000000000
+      internalID: 4319850206881048405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Hammer_42
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 182
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70112912ec859ee60800000000000000
+      internalID: 7992016656095383815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Hammer_43
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 182
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a79cc609c180648b0800000000000000
+      internalID: -5168434603585910406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Hammer_44
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 114
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f3984070b234d550800000000000000
+      internalID: 6184623921665971189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Hammer_45
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 125
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0039e99e4859a6e0800000000000000
+      internalID: -1825831079309135861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Hammer_46
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 115
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8d4682d477d01750800000000000000
+      internalID: 6273751177675296142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Hammer_47
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 109
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddefa3d766ba48bb0800000000000000
+      internalID: -4934630835015188771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Hammer_48
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 109
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 269bdc06d884da020800000000000000
+      internalID: 2354617952236321122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Hammer_49
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 120
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67f37cd62554006d0800000000000000
+      internalID: -3026342729261564042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Hammer_50
+      rect:
+        serializedVersion: 2
+        x: 1373
+        y: 110
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b769ab62d737c570800000000000000
+      internalID: 8486813399691913138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Hammer_51
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 111
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d235b969c9bde4e0800000000000000
+      internalID: -1950698788868508970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Hammer_52
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 112
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e319b26c305656070800000000000000
+      internalID: 8098990571779756350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Hammer_53
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 112
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10349ad2af5d2aaf0800000000000000
+      internalID: -386511347515833599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Hammer_54
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 112
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64181aeaaa45c3c90800000000000000
+      internalID: -7188777813139160762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Hammer_55
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 112
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e84dc2e3803fe8cd0800000000000000
+      internalID: -2553836721944079218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Hammer_56
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 112
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04fc57db7f2409800800000000000000
+      internalID: 617066780752727872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Hammer_57
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 112
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d3fea740a7341030800000000000000
+      internalID: 3464455174891697111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Hammer_58
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 112
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84495aa33b30379f0800000000000000
+      internalID: -472029467625810872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Hammer_59
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 112
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16fd22a283b66cf50800000000000000
+      internalID: 6901321367961132897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Hammer_60
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 110
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a95c8190a9787590800000000000000
+      internalID: -7676251834309387869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Hammer_61
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 111
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e374782a20e66900800000000000000
+      internalID: 677475265637807077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Hammer_62
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 111
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3837dcafece75ba40800000000000000
+      internalID: 5383348357027427203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Hammer_63
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 111
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f7cd5188d2b4ac60800000000000000
+      internalID: 7828578695229851638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Hammer_64
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 112
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d546d5d8b6d425000800000000000000
+      internalID: 23166072418821213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Hammer_65
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 31
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c73e2e96326bd380800000000000000
+      internalID: -8945448248119773241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Hammer_66
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 30
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deafed5a0e3c221a0800000000000000
+      internalID: -6835685914772047123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Hammer_67
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 31
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb0c4787ad5b906b0800000000000000
+      internalID: -5329528734087855937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Hammer_68
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 31
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75fe9b7fc40290d80800000000000000
+      internalID: -8284054524625555625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Hammer_69
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 34
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8de1c910d50ca750800000000000000
+      internalID: 6317430768637439370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Hammer_70
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 40
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6720c32098e66260800000000000000
+      internalID: 7090610369114154860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Hammer_71
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 35
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a0f0fd18971dc460800000000000000
+      internalID: 7263487716123275427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Hammer_72
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 29
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 943b279dd75281570800000000000000
+      internalID: 8437535124327936841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Hammer_73
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 29
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 555b9238a8d4fa9a0800000000000000
+      internalID: -6219667303073991339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Hammer_74
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 40
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a922164374e496d0800000000000000
+      internalID: -2984509469291828829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Hammer_75
+      rect:
+        serializedVersion: 2
+        x: 1403
+        y: 30
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acc28d225784b7c60800000000000000
+      internalID: 7816921246164593866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Hammer_76
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 31
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9d6a221a0fd17360800000000000000
+      internalID: 7165753716470607260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Hammer_77
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 32
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63ef199850a831430800000000000000
+      internalID: 3752494670917271094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Hammer_78
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 30
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce4f75bb95c8295c0800000000000000
+      internalID: -4210148384614910740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Hammer_79
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 30
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d72065b5469161c0800000000000000
+      internalID: -4512160125508638764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Hammer_80
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 30
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af3824048eac3c940800000000000000
+      internalID: 5315315084086641658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Hammer_81
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 30
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c697c67f3bce1d050800000000000000
+      internalID: 5823696050861144428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Hammer_82
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 30
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 390694fd974f1e230800000000000000
+      internalID: 3666480375930642579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Hammer_83
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 30
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d44bd592b7b6a070800000000000000
+      internalID: 8117377356028134609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Hammer_84
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 31
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13c2d09f323978690800000000000000
+      internalID: -7599944063452894159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Hammer_85
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 31
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4f910cc8bfb437a0800000000000000
+      internalID: -6398278370169086129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

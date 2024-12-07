@@ -1,0 +1,1605 @@
+fileFormatVersion: 2
+guid: 6b37269a7a2458649ae87b0409720a6c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8501720443809424666
+    second: Base Purple Rod Casting_0
+  - first:
+      213: 5802449149451273542
+    second: Base Purple Rod Casting_1
+  - first:
+      213: -863321401480037234
+    second: Base Purple Rod Casting_2
+  - first:
+      213: -1404585411705824885
+    second: Base Purple Rod Casting_3
+  - first:
+      213: -4191755048242342234
+    second: Base Purple Rod Casting_4
+  - first:
+      213: 3550561241336163369
+    second: Base Purple Rod Casting_5
+  - first:
+      213: -987406008815557851
+    second: Base Purple Rod Casting_6
+  - first:
+      213: -6682638847235729036
+    second: Base Purple Rod Casting_7
+  - first:
+      213: 8099727355560113491
+    second: Base Purple Rod Casting_8
+  - first:
+      213: 3123209903819515897
+    second: Base Purple Rod Casting_9
+  - first:
+      213: 4280689770621843711
+    second: Base Purple Rod Casting_10
+  - first:
+      213: -5602264697038899224
+    second: Base Purple Rod Casting_11
+  - first:
+      213: -6555095444466268272
+    second: Base Purple Rod Casting_12
+  - first:
+      213: 48179129854972319
+    second: Base Purple Rod Casting_13
+  - first:
+      213: 6279871240541172699
+    second: Base Purple Rod Casting_14
+  - first:
+      213: 5395592780757966433
+    second: Base Purple Rod Casting_15
+  - first:
+      213: -6948299496322441593
+    second: Base Purple Rod Casting_16
+  - first:
+      213: 3718325978176201837
+    second: Base Purple Rod Casting_17
+  - first:
+      213: 9202342738540005083
+    second: Base Purple Rod Casting_18
+  - first:
+      213: -1623006715691925538
+    second: Base Purple Rod Casting_19
+  - first:
+      213: 8757944802903380993
+    second: Base Purple Rod Casting_20
+  - first:
+      213: 1378298558002941445
+    second: Base Purple Rod Casting_21
+  - first:
+      213: 7280904451208008377
+    second: Base Purple Rod Casting_22
+  - first:
+      213: -1052630689641714686
+    second: Base Purple Rod Casting_23
+  - first:
+      213: -7253440853111975098
+    second: Base Purple Rod Casting_24
+  - first:
+      213: -8979319431423292709
+    second: Base Purple Rod Casting_25
+  - first:
+      213: 499125210529799450
+    second: Base Purple Rod Casting_26
+  - first:
+      213: -2673239627361010966
+    second: Base Purple Rod Casting_27
+  - first:
+      213: 8092059891513934092
+    second: Base Purple Rod Casting_28
+  - first:
+      213: -3183843391316077879
+    second: Base Purple Rod Casting_29
+  - first:
+      213: -2665513968619091950
+    second: Base Purple Rod Casting_30
+  - first:
+      213: -6807678687554460915
+    second: Base Purple Rod Casting_31
+  - first:
+      213: -3411465804189314272
+    second: Base Purple Rod Casting_32
+  - first:
+      213: -6809294753377280801
+    second: Base Purple Rod Casting_33
+  - first:
+      213: -3460960306998497397
+    second: Base Purple Rod Casting_34
+  - first:
+      213: -1818388457326135264
+    second: Base Purple Rod Casting_35
+  - first:
+      213: 1696735297239098859
+    second: Base Purple Rod Casting_36
+  - first:
+      213: -5073158743349442204
+    second: Base Purple Rod Casting_37
+  - first:
+      213: -9058555469388101352
+    second: Base Purple Rod Casting_38
+  - first:
+      213: 5964015574173822867
+    second: Base Purple Rod Casting_39
+  - first:
+      213: 1854005016363184838
+    second: Base Purple Rod Casting_40
+  - first:
+      213: 5778240118613016045
+    second: Base Purple Rod Casting_41
+  - first:
+      213: 5342345438477793968
+    second: Base Purple Rod Casting_42
+  - first:
+      213: -8069687695923426380
+    second: Base Purple Rod Casting_43
+  - first:
+      213: 1857664520390643462
+    second: Base Purple Rod Casting_44
+  - first:
+      213: -471360067114422650
+    second: Base Purple Rod Casting_45
+  - first:
+      213: -7985083887572645614
+    second: Base Purple Rod Casting_46
+  - first:
+      213: 8158151843375081950
+    second: Base Purple Rod Casting_47
+  - first:
+      213: -3405153571058871083
+    second: Base Purple Rod Casting_48
+  - first:
+      213: 5401073932417753099
+    second: Base Purple Rod Casting_49
+  - first:
+      213: -3265227288698689854
+    second: Base Purple Rod Casting_50
+  - first:
+      213: 4336203793599635093
+    second: Base Purple Rod Casting_51
+  - first:
+      213: 2989567427772799403
+    second: Base Purple Rod Casting_52
+  - first:
+      213: -6377667223052044859
+    second: Base Purple Rod Casting_53
+  - first:
+      213: -5745651821144089
+    second: Base Purple Rod Casting_54
+  - first:
+      213: -7834721073944878073
+    second: Base Purple Rod Casting_55
+  - first:
+      213: -3081871217587692234
+    second: Base Purple Rod Casting_56
+  - first:
+      213: 1137443432937290751
+    second: Base Purple Rod Casting_57
+  - first:
+      213: -6758839303451168937
+    second: Base Purple Rod Casting_58
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Base Purple Rod Casting_0
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 196
+        width: 7
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ea1017ec42d30a80800000000000000
+      internalID: -8501720443809424666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Rod Casting_1
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 281
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6458f4c32c0768050800000000000000
+      internalID: 5802449149451273542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Rod Casting_2
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 284
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8c3ac962cdd404f0800000000000000
+      internalID: -863321401480037234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Rod Casting_3
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 286
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8914968209e18ce0800000000000000
+      internalID: -1404585411705824885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Rod Casting_4
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 286
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a690141ef4e3d5c0800000000000000
+      internalID: -4191755048242342234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Rod Casting_5
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 284
+        width: 12
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92cac1723a0264130800000000000000
+      internalID: 3550561241336163369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Rod Casting_6
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 284
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 523667b67770c42f0800000000000000
+      internalID: -987406008815557851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Rod Casting_7
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 285
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 479d944ef5f7243a0800000000000000
+      internalID: -6682638847235729036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Rod Casting_8
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 285
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 355bcad9d13086070800000000000000
+      internalID: 8099727355560113491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Rod Casting_9
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 285
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f7e42c2cded75b20800000000000000
+      internalID: 3123209903819515897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Rod Casting_10
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 285
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff830939aa0186b30800000000000000
+      internalID: 4280689770621843711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Rod Casting_11
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 285
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e7f84ba0f1c042b0800000000000000
+      internalID: -5602264697038899224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Rod Casting_12
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 285
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0978ec37c6f9705a0800000000000000
+      internalID: -6555095444466268272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Rod Casting_13
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 285
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f91d790d9aa2ba000800000000000000
+      internalID: 48179129854972319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Rod Casting_14
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 285
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd3f5affe95962750800000000000000
+      internalID: 6279871240541172699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Rod Casting_15
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 198
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16e9db90c0ff0ea40800000000000000
+      internalID: 5395592780757966433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Rod Casting_16
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 200
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78edca8fb6ea29f90800000000000000
+      internalID: -6948299496322441593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Rod Casting_17
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 204
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d64ac40d6c52a9330800000000000000
+      internalID: 3718325978176201837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Rod Casting_18
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 204
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd68210f6f945bf70800000000000000
+      internalID: 9202342738540005083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Rod Casting_19
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 196
+        width: 13
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edffb1bbdfbe979e0800000000000000
+      internalID: -1623006715691925538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Rod Casting_20
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 196
+        width: 10
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 104d88b85687a8970800000000000000
+      internalID: 8757944802903380993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Rod Casting_21
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 195
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50ec2386c33b02310800000000000000
+      internalID: 1378298558002941445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Rod Casting_22
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 196
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b250d1c508fa0560800000000000000
+      internalID: 7280904451208008377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Rod Casting_23
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 183
+        width: 7
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20c2b3007fd4461f0800000000000000
+      internalID: -1052630689641714686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Rod Casting_24
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 178
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64354f679f9965b90800000000000000
+      internalID: -7253440853111975098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Rod Casting_25
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 179
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bda80453d8c036380800000000000000
+      internalID: -8979319431423292709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Rod Casting_26
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 179
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1d12180cbf3de600800000000000000
+      internalID: 499125210529799450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Rod Casting_27
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 180
+        width: 7
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aea36abe8beb6ead0800000000000000
+      internalID: -2673239627361010966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Rod Casting_28
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 180
+        width: 7
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c01cfd60995cc4070800000000000000
+      internalID: 8092059891513934092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Rod Casting_29
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 114
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c25128ed47b0d3d0800000000000000
+      internalID: -3183843391316077879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Rod Casting_30
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 120
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2180e940b21320bd0800000000000000
+      internalID: -2665513968619091950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Rod Casting_31
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 122
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d03a1536d444681a0800000000000000
+      internalID: -6807678687554460915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Rod Casting_32
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 121
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02357e10de908a0d0800000000000000
+      internalID: -3411465804189314272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Rod Casting_33
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 121
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdc140ebf768081a0800000000000000
+      internalID: -6809294753377280801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Rod Casting_34
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 116
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8fa0af00f238ffc0800000000000000
+      internalID: -3460960306998497397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Rod Casting_35
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 114
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 028b7611559c3c6e0800000000000000
+      internalID: -1818388457326135264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Rod Casting_36
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 114
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be5adcd53c30c8710800000000000000
+      internalID: 1696735297239098859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Rod Casting_37
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 111
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4694d7d60058899b0800000000000000
+      internalID: -5073158743349442204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Rod Casting_38
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 100
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81943fc7bcb894280800000000000000
+      internalID: -9058555469388101352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Rod Casting_39
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 98
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39f2785e09074c250800000000000000
+      internalID: 5964015574173822867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Rod Casting_40
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 99
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c2be1c4dbfbab910800000000000000
+      internalID: 1854005016363184838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Rod Casting_41
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 99
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dedf6d006ce603050800000000000000
+      internalID: 5778240118613016045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Rod Casting_42
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 100
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bab5ef0fd2d32a40800000000000000
+      internalID: 5342345438477793968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Rod Casting_43
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 100
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bbc42cabc5b20090800000000000000
+      internalID: -8069687695923426380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Rod Casting_44
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 34
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60f0bb9f900c7c910800000000000000
+      internalID: 1857664520390643462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Rod Casting_45
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 38
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68e275e24846579f0800000000000000
+      internalID: -471360067114422650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Rod Casting_46
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 41
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2198983d2884f2190800000000000000
+      internalID: -7985083887572645614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Rod Casting_47
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 41
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed9e118b0e3973170800000000000000
+      internalID: 8158151843375081950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Rod Casting_48
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 41
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d4126f4ed67eb0d0800000000000000
+      internalID: -3405153571058871083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Rod Casting_49
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 36
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b00e16b102874fa40800000000000000
+      internalID: 5401073932417753099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Rod Casting_50
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 34
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c6e332b4159fa2d0800000000000000
+      internalID: -3265227288698689854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Rod Casting_51
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 34
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59e1537406a4d2c30800000000000000
+      internalID: 4336203793599635093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Rod Casting_52
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 31
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba9d9747cb31d7920800000000000000
+      internalID: 2989567427772799403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Rod Casting_53
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 20
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c5b4527379fd77a0800000000000000
+      internalID: -6377667223052044859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Rod Casting_54
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 18
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e792303c569beff0800000000000000
+      internalID: -5745651821144089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Rod Casting_55
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 19
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 704af3181ba754390800000000000000
+      internalID: -7834721073944878073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Rod Casting_56
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 19
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63d5f20c47efa35d0800000000000000
+      internalID: -3081871217587692234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Rod Casting_57
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 20
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffbf35c96c209cf00800000000000000
+      internalID: 1137443432937290751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Rod Casting_58
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 20
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75f28df9677c332a0800000000000000
+      internalID: -6758839303451168937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

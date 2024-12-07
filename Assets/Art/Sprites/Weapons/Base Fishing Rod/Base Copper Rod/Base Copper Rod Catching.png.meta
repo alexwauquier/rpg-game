@@ -1,0 +1,1305 @@
+fileFormatVersion: 2
+guid: 5f7485259aec11145b43fd68f20ce1aa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 113634056794584582
+    second: Base Copper Rod Catching_0
+  - first:
+      213: 8584090077055393135
+    second: Base Copper Rod Catching_1
+  - first:
+      213: 8294498074321136242
+    second: Base Copper Rod Catching_2
+  - first:
+      213: -8609055432386515756
+    second: Base Copper Rod Catching_3
+  - first:
+      213: -4305887721402135449
+    second: Base Copper Rod Catching_4
+  - first:
+      213: -2113197485476791974
+    second: Base Copper Rod Catching_5
+  - first:
+      213: 8263288050543569818
+    second: Base Copper Rod Catching_6
+  - first:
+      213: 8194445130061318371
+    second: Base Copper Rod Catching_7
+  - first:
+      213: -1632499880939884910
+    second: Base Copper Rod Catching_8
+  - first:
+      213: 5755598986063766526
+    second: Base Copper Rod Catching_9
+  - first:
+      213: 6818199499952599437
+    second: Base Copper Rod Catching_10
+  - first:
+      213: -4932722799621135118
+    second: Base Copper Rod Catching_11
+  - first:
+      213: 8587451750727218029
+    second: Base Copper Rod Catching_12
+  - first:
+      213: 4586293742477929920
+    second: Base Copper Rod Catching_13
+  - first:
+      213: -562192513653459679
+    second: Base Copper Rod Catching_14
+  - first:
+      213: -5944417143181186126
+    second: Base Copper Rod Catching_15
+  - first:
+      213: 8047548279666453107
+    second: Base Copper Rod Catching_16
+  - first:
+      213: -1684274529885000391
+    second: Base Copper Rod Catching_17
+  - first:
+      213: 3944882243171112771
+    second: Base Copper Rod Catching_18
+  - first:
+      213: -3989139790118031103
+    second: Base Copper Rod Catching_19
+  - first:
+      213: 9218616481448780581
+    second: Base Copper Rod Catching_20
+  - first:
+      213: 7647183720714001525
+    second: Base Copper Rod Catching_21
+  - first:
+      213: 1049872241712052717
+    second: Base Copper Rod Catching_22
+  - first:
+      213: -3082069642089077699
+    second: Base Copper Rod Catching_23
+  - first:
+      213: -2149378438860674892
+    second: Base Copper Rod Catching_24
+  - first:
+      213: 6009704570182249410
+    second: Base Copper Rod Catching_25
+  - first:
+      213: -7319190891319260520
+    second: Base Copper Rod Catching_26
+  - first:
+      213: -5006509704352105394
+    second: Base Copper Rod Catching_27
+  - first:
+      213: -41053058054003239
+    second: Base Copper Rod Catching_28
+  - first:
+      213: 3590982155706434576
+    second: Base Copper Rod Catching_29
+  - first:
+      213: 3842764783052927849
+    second: Base Copper Rod Catching_30
+  - first:
+      213: 5167301112959343752
+    second: Base Copper Rod Catching_31
+  - first:
+      213: 6998220639904812235
+    second: Base Copper Rod Catching_32
+  - first:
+      213: -5762524593113314837
+    second: Base Copper Rod Catching_33
+  - first:
+      213: -3811254148774570973
+    second: Base Copper Rod Catching_34
+  - first:
+      213: -1998157698490934923
+    second: Base Copper Rod Catching_35
+  - first:
+      213: 479576689407708698
+    second: Base Copper Rod Catching_36
+  - first:
+      213: 8650811889151246505
+    second: Base Copper Rod Catching_37
+  - first:
+      213: 7998813887005352045
+    second: Base Copper Rod Catching_38
+  - first:
+      213: 5529440968812830389
+    second: Base Copper Rod Catching_39
+  - first:
+      213: -7636166078923586074
+    second: Base Copper Rod Catching_40
+  - first:
+      213: 42124455297383926
+    second: Base Copper Rod Catching_41
+  - first:
+      213: -5387730825766898228
+    second: Base Copper Rod Catching_42
+  - first:
+      213: -3566332301326107889
+    second: Base Copper Rod Catching_43
+  - first:
+      213: -17919647160015682
+    second: Base Copper Rod Catching_44
+  - first:
+      213: 9180542188986594753
+    second: Base Copper Rod Catching_45
+  - first:
+      213: 934698031511913436
+    second: Base Copper Rod Catching_46
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Base Copper Rod Catching_0
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 284
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 606b0a59295b39100800000000000000
+      internalID: 113634056794584582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Rod Catching_1
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 286
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6d97d2d170d02770800000000000000
+      internalID: 8584090077055393135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Rod Catching_2
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 285
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27aa21e6d0afb1370800000000000000
+      internalID: 8294498074321136242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Rod Catching_3
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 284
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dc64fc62bd768880800000000000000
+      internalID: -8609055432386515756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Rod Catching_4
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 284
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76c0c135ee96e34c0800000000000000
+      internalID: -4305887721402135449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Rod Catching_5
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 295
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5938e9451a6ca2e0800000000000000
+      internalID: -2113197485476791974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Rod Catching_6
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 282
+        width: 11
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9b216183b81da270800000000000000
+      internalID: 8263288050543569818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Rod Catching_7
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 282
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e80cb40e6488b170800000000000000
+      internalID: 8194445130061318371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Rod Catching_8
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 282
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29ee5b4f1023859e0800000000000000
+      internalID: -1632499880939884910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Rod Catching_9
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 282
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef3ede988ceffdf40800000000000000
+      internalID: 5755598986063766526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Rod Catching_10
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 282
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d81bb62225c1f9e50800000000000000
+      internalID: 6818199499952599437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Rod Catching_11
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 180
+        width: 7
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f4ac199fb27b8bb0800000000000000
+      internalID: -4932722799621135118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Rod Catching_12
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 180
+        width: 7
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d63f6e77ed1cc2770800000000000000
+      internalID: 8587451750727218029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Rod Catching_13
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 180
+        width: 8
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cd6efb0cd9c5af30800000000000000
+      internalID: 4586293742477929920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Rod Catching_14
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 180
+        width: 9
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1253d4033e0b238f0800000000000000
+      internalID: -562192513653459679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Rod Catching_15
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 189
+        width: 8
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bb61f76a10318da0800000000000000
+      internalID: -5944417143181186126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Rod Catching_16
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 199
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37a235ac582aeaf60800000000000000
+      internalID: 8047548279666453107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Rod Catching_17
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 182
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93d67fd1d3140a8e0800000000000000
+      internalID: -1684274529885000391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Rod Catching_18
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 181
+        width: 19
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 347d5f0df790fb630800000000000000
+      internalID: 3944882243171112771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Rod Catching_19
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 200
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10173aa0f7ab3a8c0800000000000000
+      internalID: -3989139790118031103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Rod Catching_20
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 200
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 523e059f8da1fef70800000000000000
+      internalID: 9218616481448780581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Rod Catching_21
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 180
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57cde45d311402a60800000000000000
+      internalID: 7647183720714001525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Rod Catching_22
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 182
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de93acacd35e19e00800000000000000
+      internalID: 1049872241712052717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Rod Catching_23
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 100
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d34e3427df94a35d0800000000000000
+      internalID: -3082069642089077699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Rod Catching_24
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 100
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b863df92bfdb22e0800000000000000
+      internalID: -2149378438860674892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Rod Catching_25
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 100
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cb21ce3772c66350800000000000000
+      internalID: 6009704570182249410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Rod Catching_26
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 100
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89a04afb9a20d6a90800000000000000
+      internalID: -7319190891319260520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Rod Catching_27
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 100
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4cfb8313fd458ab0800000000000000
+      internalID: -5006509704352105394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Rod Catching_28
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 110
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d56fb116762e6ff0800000000000000
+      internalID: -41053058054003239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Rod Catching_29
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 102
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01406a9ae3bb5d130800000000000000
+      internalID: 3590982155706434576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Rod Catching_30
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 117
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9633049d53e345530800000000000000
+      internalID: 3842764783052927849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Rod Catching_31
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 102
+        width: 45
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88c1c651cf0f5b740800000000000000
+      internalID: 5167301112959343752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Rod Catching_32
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 101
+        width: 48
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcc4555089cae1160800000000000000
+      internalID: 6998220639904812235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Rod Catching_33
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 123
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be9470ae9666700b0800000000000000
+      internalID: -5762524593113314837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Rod Catching_34
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 123
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 324de896b84bb1bc0800000000000000
+      internalID: -3811254148774570973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Rod Catching_35
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 20
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5795c30f82e1544e0800000000000000
+      internalID: -1998157698490934923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Rod Catching_36
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 20
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1e44b6457cc7a600800000000000000
+      internalID: 479576689407708698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Rod Catching_37
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 20
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a00697449bdd0870800000000000000
+      internalID: 8650811889151246505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Rod Catching_38
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 20
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d606a67c9de710f60800000000000000
+      internalID: 7998813887005352045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Rod Catching_39
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 30
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5be9490d3458cbc40800000000000000
+      internalID: 5529440968812830389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Rod Catching_40
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 37
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e54fdbc863e60690800000000000000
+      internalID: -7636166078923586074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Rod Catching_41
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 22
+        width: 45
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fd7b5a08f7a59000800000000000000
+      internalID: 42124455297383926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Rod Catching_42
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 21
+        width: 48
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc5fdb00c5fea35b0800000000000000
+      internalID: -5387730825766898228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Rod Catching_43
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 37
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0bb47ccaa7d18ec0800000000000000
+      internalID: -3566332301326107889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Rod Catching_44
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 37
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb4e6840d2650cff0800000000000000
+      internalID: -17919647160015682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Rod Catching_45
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 20
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c57804fa76d76f70800000000000000
+      internalID: 9180542188986594753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Rod Catching_46
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 22
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd3468c48e6b8fc00800000000000000
+      internalID: 934698031511913436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

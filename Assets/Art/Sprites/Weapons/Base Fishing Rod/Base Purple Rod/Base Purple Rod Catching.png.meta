@@ -1,0 +1,1305 @@
+fileFormatVersion: 2
+guid: d987c2251c114d44cbb6c76589a1fb35
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3101829843405943316
+    second: Base Purple Rod Catching_0
+  - first:
+      213: -7414108260360261055
+    second: Base Purple Rod Catching_1
+  - first:
+      213: 7643058992462130518
+    second: Base Purple Rod Catching_2
+  - first:
+      213: -1219774518650530137
+    second: Base Purple Rod Catching_3
+  - first:
+      213: -5848354644394746113
+    second: Base Purple Rod Catching_4
+  - first:
+      213: -1245209218091802787
+    second: Base Purple Rod Catching_5
+  - first:
+      213: 2922589054070394971
+    second: Base Purple Rod Catching_6
+  - first:
+      213: 6008041824796027906
+    second: Base Purple Rod Catching_7
+  - first:
+      213: -2826231446505434294
+    second: Base Purple Rod Catching_8
+  - first:
+      213: 8649844929941430535
+    second: Base Purple Rod Catching_9
+  - first:
+      213: -917641176570810241
+    second: Base Purple Rod Catching_10
+  - first:
+      213: 6184227099509055083
+    second: Base Purple Rod Catching_11
+  - first:
+      213: -6349568859442645902
+    second: Base Purple Rod Catching_12
+  - first:
+      213: -8863133575948506801
+    second: Base Purple Rod Catching_13
+  - first:
+      213: 1007537278092489321
+    second: Base Purple Rod Catching_14
+  - first:
+      213: -559393003387341175
+    second: Base Purple Rod Catching_15
+  - first:
+      213: 7397122816992815205
+    second: Base Purple Rod Catching_16
+  - first:
+      213: -117813487643997044
+    second: Base Purple Rod Catching_17
+  - first:
+      213: -1339276165948706822
+    second: Base Purple Rod Catching_18
+  - first:
+      213: 6111354363932863813
+    second: Base Purple Rod Catching_19
+  - first:
+      213: 7866044753220643218
+    second: Base Purple Rod Catching_20
+  - first:
+      213: 452784622474344997
+    second: Base Purple Rod Catching_21
+  - first:
+      213: -7020850312303568579
+    second: Base Purple Rod Catching_22
+  - first:
+      213: -7431280524072261542
+    second: Base Purple Rod Catching_23
+  - first:
+      213: 4229214262574594550
+    second: Base Purple Rod Catching_24
+  - first:
+      213: 6520057042902050724
+    second: Base Purple Rod Catching_25
+  - first:
+      213: 3843383492867022745
+    second: Base Purple Rod Catching_26
+  - first:
+      213: 4962399013243741011
+    second: Base Purple Rod Catching_27
+  - first:
+      213: -294372519803584117
+    second: Base Purple Rod Catching_28
+  - first:
+      213: 7206679116825498696
+    second: Base Purple Rod Catching_29
+  - first:
+      213: 1563540430508962347
+    second: Base Purple Rod Catching_30
+  - first:
+      213: -5113273502871725889
+    second: Base Purple Rod Catching_31
+  - first:
+      213: -2787539577981011827
+    second: Base Purple Rod Catching_32
+  - first:
+      213: -6206220402008608308
+    second: Base Purple Rod Catching_33
+  - first:
+      213: -175887744773854705
+    second: Base Purple Rod Catching_34
+  - first:
+      213: -289521870438439944
+    second: Base Purple Rod Catching_35
+  - first:
+      213: 1881345264877240721
+    second: Base Purple Rod Catching_36
+  - first:
+      213: -7985396485671769115
+    second: Base Purple Rod Catching_37
+  - first:
+      213: 699395043333999475
+    second: Base Purple Rod Catching_38
+  - first:
+      213: 3473914196580703101
+    second: Base Purple Rod Catching_39
+  - first:
+      213: 1192172268523592271
+    second: Base Purple Rod Catching_40
+  - first:
+      213: 4439432779410684788
+    second: Base Purple Rod Catching_41
+  - first:
+      213: -9043180244769515520
+    second: Base Purple Rod Catching_42
+  - first:
+      213: -7428102807012549040
+    second: Base Purple Rod Catching_43
+  - first:
+      213: -6302778440024739336
+    second: Base Purple Rod Catching_44
+  - first:
+      213: -8318757700393709247
+    second: Base Purple Rod Catching_45
+  - first:
+      213: -2562410199114697188
+    second: Base Purple Rod Catching_46
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Base Purple Rod Catching_0
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 284
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ced451e013614f4d0800000000000000
+      internalID: -3101829843405943316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Rod Catching_1
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 286
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 142ffee91dbcb1990800000000000000
+      internalID: -7414108260360261055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Rod Catching_2
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 285
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65d6f03b8a9911a60800000000000000
+      internalID: 7643058992462130518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Rod Catching_3
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 284
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a613c5b98d721fe0800000000000000
+      internalID: -1219774518650530137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Rod Catching_4
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 284
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffe5854df6876dea0800000000000000
+      internalID: -5848354644394746113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Rod Catching_5
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 295
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5f989440d028bee0800000000000000
+      internalID: -1245209218091802787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Rod Catching_6
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 282
+        width: 11
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b509f48924f1f8820800000000000000
+      internalID: 2922589054070394971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Rod Catching_7
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 282
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20c28aa253ad06350800000000000000
+      internalID: 6008041824796027906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Rod Catching_8
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 282
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a435102397537c8d0800000000000000
+      internalID: -2826231446505434294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Rod Catching_9
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 282
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7016f5b822c6a0870800000000000000
+      internalID: 8649844929941430535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Rod Catching_10
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 282
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f70b9373632e343f0800000000000000
+      internalID: -917641176570810241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Rod Catching_11
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 180
+        width: 7
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6ed49418c9c2d550800000000000000
+      internalID: 6184227099509055083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Rod Catching_12
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 180
+        width: 7
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 274f90883ccc1e7a0800000000000000
+      internalID: -6349568859442645902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Rod Catching_13
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 180
+        width: 8
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4960c8b8f2dff480800000000000000
+      internalID: -8863133575948506801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Rod Catching_14
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 180
+        width: 9
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 962baa6f0dd7bfd00800000000000000
+      internalID: 1007537278092489321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Rod Catching_15
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 189
+        width: 8
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9863247f603ac38f0800000000000000
+      internalID: -559393003387341175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Rod Catching_16
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 199
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5682bcaa20cd7a660800000000000000
+      internalID: 7397122816992815205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Rod Catching_17
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 182
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8cca37d1417d5ef0800000000000000
+      internalID: -117813487643997044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Rod Catching_18
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 181
+        width: 19
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: affea704c6fe96de0800000000000000
+      internalID: -1339276165948706822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Rod Catching_19
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 200
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54d60c62a64efc450800000000000000
+      internalID: 6111354363932863813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Rod Catching_20
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 200
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 299aa07e60ec92d60800000000000000
+      internalID: 7866044753220643218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Rod Catching_21
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 180
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52ab756173d984600800000000000000
+      internalID: 452784622474344997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Rod Catching_22
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 182
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3994f9c6dde09e90800000000000000
+      internalID: -7020850312303568579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Rod Catching_23
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 100
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a58e4686cb9ced890800000000000000
+      internalID: -7431280524072261542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Rod Catching_24
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 100
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f936c7e6ff21ba30800000000000000
+      internalID: 4229214262574594550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Rod Catching_25
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 100
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a7e575f555eb7a50800000000000000
+      internalID: 6520057042902050724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Rod Catching_26
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 100
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99f50f37ce0765530800000000000000
+      internalID: 3843383492867022745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Rod Catching_27
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 100
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35364225c9bfdd440800000000000000
+      internalID: 4962399013243741011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Rod Catching_28
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 110
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b81887db0cd2aebf0800000000000000
+      internalID: -294372519803584117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Rod Catching_29
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 102
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8441c906974430460800000000000000
+      internalID: 7206679116825498696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Rod Catching_30
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 117
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b22b270dcbfc2b510800000000000000
+      internalID: 1563540430508962347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Rod Catching_31
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 102
+        width: 45
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb8d9e527d00a09b0800000000000000
+      internalID: -5113273502871725889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Rod Catching_32
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 101
+        width: 48
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d887919d58ba059d0800000000000000
+      internalID: -2787539577981011827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Rod Catching_33
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 123
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc1be742d631fd9a0800000000000000
+      internalID: -6206220402008608308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Rod Catching_34
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 123
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0ae86c270f1f8df0800000000000000
+      internalID: -175887744773854705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Rod Catching_35
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 20
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f36fcd84696bfbf0800000000000000
+      internalID: -289521870438439944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Rod Catching_36
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 20
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1910fd4fc81eb1a10800000000000000
+      internalID: 1881345264877240721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Rod Catching_37
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 20
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eba1e8643c2e2190800000000000000
+      internalID: -7985396485671769115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Rod Catching_38
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 20
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37b879b1610c4b900800000000000000
+      internalID: 699395043333999475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Rod Catching_39
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 30
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7b11636e82d53030800000000000000
+      internalID: 3473914196580703101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Rod Catching_40
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 37
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4a9b60ac527b8010800000000000000
+      internalID: 1192172268523592271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Rod Catching_41
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 22
+        width: 45
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47bbffc77980c9d30800000000000000
+      internalID: 4439432779410684788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Rod Catching_42
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 21
+        width: 48
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 008deaeea7b208280800000000000000
+      internalID: -9043180244769515520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Rod Catching_43
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 37
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05e5fe05ad31ae890800000000000000
+      internalID: -7428102807012549040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Rod Catching_44
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 37
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f1b55007680888a0800000000000000
+      internalID: -6302778440024739336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Rod Catching_45
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 20
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 141dc7732f5dd8c80800000000000000
+      internalID: -8318757700393709247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Rod Catching_46
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 22
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c163ee8008d707cd0800000000000000
+      internalID: -2562410199114697188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

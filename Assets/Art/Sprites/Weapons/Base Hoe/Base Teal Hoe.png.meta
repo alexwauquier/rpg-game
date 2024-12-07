@@ -1,0 +1,1855 @@
+fileFormatVersion: 2
+guid: f717b1d6ad7d81b4686f6e8434ba9359
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9071787075222777152
+    second: Base Teal Hoe_0
+  - first:
+      213: -1143209049814361275
+    second: Base Teal Hoe_1
+  - first:
+      213: -1234633573802058250
+    second: Base Teal Hoe_2
+  - first:
+      213: 5910447302562346618
+    second: Base Teal Hoe_3
+  - first:
+      213: -5128140026421147045
+    second: Base Teal Hoe_4
+  - first:
+      213: 3486305556792658695
+    second: Base Teal Hoe_5
+  - first:
+      213: -5014263896595316362
+    second: Base Teal Hoe_6
+  - first:
+      213: 7677342410398483035
+    second: Base Teal Hoe_7
+  - first:
+      213: -1850266978622116196
+    second: Base Teal Hoe_8
+  - first:
+      213: -6523373703643138267
+    second: Base Teal Hoe_9
+  - first:
+      213: 7781935942396786061
+    second: Base Teal Hoe_10
+  - first:
+      213: 6299377467190853430
+    second: Base Teal Hoe_11
+  - first:
+      213: 2194277161653104802
+    second: Base Teal Hoe_12
+  - first:
+      213: 8194286733633716652
+    second: Base Teal Hoe_13
+  - first:
+      213: 4752608638247853768
+    second: Base Teal Hoe_14
+  - first:
+      213: 5048434796785677099
+    second: Base Teal Hoe_15
+  - first:
+      213: -8634658354156962878
+    second: Base Teal Hoe_16
+  - first:
+      213: -233436999283933002
+    second: Base Teal Hoe_17
+  - first:
+      213: -888698533679297215
+    second: Base Teal Hoe_18
+  - first:
+      213: 8361635210716274969
+    second: Base Teal Hoe_19
+  - first:
+      213: 5684790269901601421
+    second: Base Teal Hoe_20
+  - first:
+      213: 7564128006693825314
+    second: Base Teal Hoe_21
+  - first:
+      213: 5282967222012682348
+    second: Base Teal Hoe_22
+  - first:
+      213: -472997873342063797
+    second: Base Teal Hoe_23
+  - first:
+      213: -6566157294544375459
+    second: Base Teal Hoe_24
+  - first:
+      213: 6992731225492962604
+    second: Base Teal Hoe_25
+  - first:
+      213: -4941439365316123776
+    second: Base Teal Hoe_26
+  - first:
+      213: -4354484450994571932
+    second: Base Teal Hoe_27
+  - first:
+      213: 8874192546265300770
+    second: Base Teal Hoe_28
+  - first:
+      213: 4956376645542377501
+    second: Base Teal Hoe_29
+  - first:
+      213: -1346381568178909756
+    second: Base Teal Hoe_30
+  - first:
+      213: 962272778892224769
+    second: Base Teal Hoe_31
+  - first:
+      213: 7069492334956672909
+    second: Base Teal Hoe_32
+  - first:
+      213: -3453186057521523496
+    second: Base Teal Hoe_33
+  - first:
+      213: -8610080403136236297
+    second: Base Teal Hoe_34
+  - first:
+      213: 1116009778044272479
+    second: Base Teal Hoe_35
+  - first:
+      213: -38339608425307167
+    second: Base Teal Hoe_36
+  - first:
+      213: -464469680639826719
+    second: Base Teal Hoe_37
+  - first:
+      213: 6145967184959082229
+    second: Base Teal Hoe_38
+  - first:
+      213: 7187953084718524067
+    second: Base Teal Hoe_39
+  - first:
+      213: 8321554135291078959
+    second: Base Teal Hoe_40
+  - first:
+      213: -5929064874926784684
+    second: Base Teal Hoe_41
+  - first:
+      213: -6032344469175035632
+    second: Base Teal Hoe_42
+  - first:
+      213: 2655429848237581496
+    second: Base Teal Hoe_43
+  - first:
+      213: -3327562589056354477
+    second: Base Teal Hoe_44
+  - first:
+      213: 1276641567216153152
+    second: Base Teal Hoe_45
+  - first:
+      213: -5156989851784755452
+    second: Base Teal Hoe_46
+  - first:
+      213: 3689341394958132456
+    second: Base Teal Hoe_47
+  - first:
+      213: 5164818623260370180
+    second: Base Teal Hoe_48
+  - first:
+      213: 8320814514681069107
+    second: Base Teal Hoe_49
+  - first:
+      213: 6829790021876326856
+    second: Base Teal Hoe_50
+  - first:
+      213: -2061464292617829392
+    second: Base Teal Hoe_51
+  - first:
+      213: -1746182644724783593
+    second: Base Teal Hoe_52
+  - first:
+      213: 6742641385358304219
+    second: Base Teal Hoe_53
+  - first:
+      213: 5977866475129583335
+    second: Base Teal Hoe_54
+  - first:
+      213: -4967272639475111881
+    second: Base Teal Hoe_55
+  - first:
+      213: 1430499122780078549
+    second: Base Teal Hoe_56
+  - first:
+      213: -7315863232972522032
+    second: Base Teal Hoe_57
+  - first:
+      213: 3371320409047702421
+    second: Base Teal Hoe_58
+  - first:
+      213: -6132443833641484189
+    second: Base Teal Hoe_59
+  - first:
+      213: -6307528337257122019
+    second: Base Teal Hoe_60
+  - first:
+      213: -4871449939266032109
+    second: Base Teal Hoe_61
+  - first:
+      213: -753247126192392604
+    second: Base Teal Hoe_62
+  - first:
+      213: -1472288748711055501
+    second: Base Teal Hoe_63
+  - first:
+      213: 149433969677560630
+    second: Base Teal Hoe_64
+  - first:
+      213: 6493433078340550812
+    second: Base Teal Hoe_65
+  - first:
+      213: 2917442359854827284
+    second: Base Teal Hoe_66
+  - first:
+      213: -3382432556221759915
+    second: Base Teal Hoe_67
+  - first:
+      213: -6113055535454043636
+    second: Base Teal Hoe_68
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Base Teal Hoe_0
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 277
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04d22a0d74675ed70800000000000000
+      internalID: 9071787075222777152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Hoe_1
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 282
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54b9dc91d618220f0800000000000000
+      internalID: -1143209049814361275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Hoe_2
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 282
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fdd1c55e43bddee0800000000000000
+      internalID: -1234633573802058250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Hoe_3
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 280
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a76f4ecb180260250800000000000000
+      internalID: 5910447302562346618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Hoe_4
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 278
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5a84b6e0df25d8b0800000000000000
+      internalID: -5128140026421147045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Hoe_5
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 269
+        width: 9
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70bc813ce68d16030800000000000000
+      internalID: 3486305556792658695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Hoe_6
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 278
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 671ce518d81c96ab0800000000000000
+      internalID: -5014263896595316362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Hoe_7
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 279
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b52c7d6fe366b8a60800000000000000
+      internalID: 7677342410398483035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Hoe_8
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 278
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9ee79f6cf78256e0800000000000000
+      internalID: -1850266978622116196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Hoe_9
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 277
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 527f939cd225875a0800000000000000
+      internalID: -6523373703643138267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Hoe_10
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 276
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d85b767528dfefb60800000000000000
+      internalID: 7781935942396786061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Hoe_11
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 275
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63fb20e4e62eb6750800000000000000
+      internalID: 6299377467190853430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Hoe_12
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 279
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a0f517e373a37e10800000000000000
+      internalID: 2194277161653104802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Hoe_13
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 277
+        width: 168
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca10fe97e54f7b170800000000000000
+      internalID: 8194286733633716652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Hoe_14
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 276
+        width: 86
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ce57374068a4f140800000000000000
+      internalID: 4752608638247853768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Hoe_15
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 197
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b23b12e23b4af0640800000000000000
+      internalID: 5048434796785677099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Hoe_16
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 201
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cb7d9ba9f78b2880800000000000000
+      internalID: -8634658354156962878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Hoe_17
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 203
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b08f34394aa2ccf0800000000000000
+      internalID: -233436999283933002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Hoe_18
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 205
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14d82a36465baa3f0800000000000000
+      internalID: -888698533679297215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Hoe_19
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 207
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 911642c1cee7a0470800000000000000
+      internalID: 8361635210716274969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Hoe_20
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 192
+        width: 9
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8af41491ae64ee40800000000000000
+      internalID: 5684790269901601421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Hoe_21
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 178
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22ba19a785e29f860800000000000000
+      internalID: 7564128006693825314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Hoe_22
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 178
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c602914b2bed05940800000000000000
+      internalID: 5282967222012682348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Hoe_23
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 178
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4b5ee3b0f29f69f0800000000000000
+      internalID: -472997873342063797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Hoe_24
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 177
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d51b757cab250e4a0800000000000000
+      internalID: -6566157294544375459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Hoe_25
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 176
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2d3a41200c2b0160800000000000000
+      internalID: 6992731225492962604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Hoe_26
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 175
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 083633ff31b7c6bb0800000000000000
+      internalID: -4941439365316123776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Hoe_27
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 178
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 465b18e7673c193c0800000000000000
+      internalID: -4354484450994571932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Hoe_28
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 178
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22fff847a17772b70800000000000000
+      internalID: 8874192546265300770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Hoe_29
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 178
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1878929c4698c440800000000000000
+      internalID: 4956376645542377501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Hoe_30
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 180
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cd0090e811b05de0800000000000000
+      internalID: -1346381568178909756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Hoe_31
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 182
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10926ea7efdaa5d00800000000000000
+      internalID: 962272778892224769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Hoe_32
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 187
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d877077a2d1eb1260800000000000000
+      internalID: 7069492334956672909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Hoe_33
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 125
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d419129391d310d0800000000000000
+      internalID: -3453186057521523496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Hoe_34
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 122
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f43383dd79d28880800000000000000
+      internalID: -8610080403136236297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Hoe_35
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 117
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5ff032fafcdc7f00800000000000000
+      internalID: 1116009778044272479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Hoe_36
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 117
+        width: 37
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e36bfa445ac77ff0800000000000000
+      internalID: -38339608425307167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Hoe_37
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 109
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e4268c494fdd89f0800000000000000
+      internalID: -464469680639826719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Hoe_38
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 109
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fe81bc879cda4550800000000000000
+      internalID: 6145967184959082229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Hoe_39
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 109
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a622d44f3db0c360800000000000000
+      internalID: 7187953084718524067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Hoe_40
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 115
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f29253585691c7370800000000000000
+      internalID: 8321554135291078959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Hoe_41
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 113
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45f3eb7e8eab7bda0800000000000000
+      internalID: -5929064874926784684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Hoe_42
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 112
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01997008aaec84ca0800000000000000
+      internalID: -6032344469175035632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Hoe_43
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 108
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b4ab2eb06bf9d420800000000000000
+      internalID: 2655429848237581496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Hoe_44
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 107
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 357ba67947f12d1d0800000000000000
+      internalID: -3327562589056354477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Hoe_45
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 107
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 042ba6fcdba87b110800000000000000
+      internalID: 1276641567216153152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Hoe_46
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 109
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 407431e7d01be68b0800000000000000
+      internalID: -5156989851784755452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Hoe_47
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 109
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e4af95a37c233330800000000000000
+      internalID: 3689341394958132456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Hoe_48
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 109
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 405a1c86c2f1da740800000000000000
+      internalID: 5164818623260370180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Hoe_49
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 109
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33eba7d27b8797370800000000000000
+      internalID: 8320814514681069107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Hoe_50
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 109
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c12270d6d948ce50800000000000000
+      internalID: 6829790021876326856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Hoe_51
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 38
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f3cc51e5253463e0800000000000000
+      internalID: -2061464292617829392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Hoe_52
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 38
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7162a34e22054c7e0800000000000000
+      internalID: -1746182644724783593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Hoe_53
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 37
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd3212ead9ca29d50800000000000000
+      internalID: 6742641385358304219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Hoe_54
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 33
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e6b0d413e5a5f250800000000000000
+      internalID: 5977866475129583335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Hoe_55
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 32
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 738a1952ad3b01bb0800000000000000
+      internalID: -4967272639475111881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Hoe_56
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 37
+        width: 37
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d180d08f572ad310800000000000000
+      internalID: 1430499122780078549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Hoe_57
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 29
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ddf4559625d87a90800000000000000
+      internalID: -7315863232972522032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Hoe_58
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 29
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59b105dcc0659ce20800000000000000
+      internalID: 3371320409047702421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Hoe_59
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 29
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 360c3ca03de25eaa0800000000000000
+      internalID: -6132443833641484189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Hoe_60
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 28
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d17341f55682778a0800000000000000
+      internalID: -6307528337257122019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Hoe_61
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 27
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31e23fc1712256cb0800000000000000
+      internalID: -4871449939266032109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Hoe_62
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 27
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 466f737cabdeb85f0800000000000000
+      internalID: -753247126192392604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Hoe_63
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 29
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37fe54efe21619be0800000000000000
+      internalID: -1472288748711055501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Hoe_64
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 29
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63be1085765e21200800000000000000
+      internalID: 149433969677560630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Hoe_65
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 29
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9082472bfe4d1a50800000000000000
+      internalID: 6493433078340550812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Hoe_66
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 29
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41703d77e56dc7820800000000000000
+      internalID: 2917442359854827284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Hoe_67
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 29
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55e7fa1d28f2f01d0800000000000000
+      internalID: -3382432556221759915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Hoe_68
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 35
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c02c60df0601a2ba0800000000000000
+      internalID: -6113055535454043636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

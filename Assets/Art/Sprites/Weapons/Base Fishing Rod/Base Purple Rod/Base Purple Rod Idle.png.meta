@@ -1,0 +1,1130 @@
+fileFormatVersion: 2
+guid: e347cea676a818f47903ace3d9f57da4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7703059717857018126
+    second: Base Purple Rod Idle_0
+  - first:
+      213: 4172529198102007378
+    second: Base Purple Rod Idle_1
+  - first:
+      213: 3258052768868916328
+    second: Base Purple Rod Idle_2
+  - first:
+      213: 2089454231930886864
+    second: Base Purple Rod Idle_3
+  - first:
+      213: -3581657965127663859
+    second: Base Purple Rod Idle_4
+  - first:
+      213: -7142147820976115861
+    second: Base Purple Rod Idle_5
+  - first:
+      213: -3513672800361912790
+    second: Base Purple Rod Idle_6
+  - first:
+      213: -9150444579695341285
+    second: Base Purple Rod Idle_7
+  - first:
+      213: 8715266203204932533
+    second: Base Purple Rod Idle_8
+  - first:
+      213: -809269123077639062
+    second: Base Purple Rod Idle_9
+  - first:
+      213: -3379074229116694228
+    second: Base Purple Rod Idle_10
+  - first:
+      213: 9003705944170874627
+    second: Base Purple Rod Idle_11
+  - first:
+      213: -5989369471691620770
+    second: Base Purple Rod Idle_12
+  - first:
+      213: 5198124364897742034
+    second: Base Purple Rod Idle_13
+  - first:
+      213: -4224006727408829537
+    second: Base Purple Rod Idle_14
+  - first:
+      213: 5287033353098023800
+    second: Base Purple Rod Idle_15
+  - first:
+      213: -8474945722442227714
+    second: Base Purple Rod Idle_16
+  - first:
+      213: 6925779856357698574
+    second: Base Purple Rod Idle_17
+  - first:
+      213: 4815605042316100070
+    second: Base Purple Rod Idle_18
+  - first:
+      213: 4475325320479135826
+    second: Base Purple Rod Idle_19
+  - first:
+      213: 6571793180886447149
+    second: Base Purple Rod Idle_20
+  - first:
+      213: -874676865619364358
+    second: Base Purple Rod Idle_21
+  - first:
+      213: -9016709431009086280
+    second: Base Purple Rod Idle_22
+  - first:
+      213: -4546888777337650185
+    second: Base Purple Rod Idle_23
+  - first:
+      213: -7953938301035930620
+    second: Base Purple Rod Idle_24
+  - first:
+      213: 8930069079365707763
+    second: Base Purple Rod Idle_25
+  - first:
+      213: -1251859752646420449
+    second: Base Purple Rod Idle_26
+  - first:
+      213: -6533164338990854400
+    second: Base Purple Rod Idle_27
+  - first:
+      213: 6012635759497765621
+    second: Base Purple Rod Idle_28
+  - first:
+      213: 5897790614568983545
+    second: Base Purple Rod Idle_29
+  - first:
+      213: 1097288181044630166
+    second: Base Purple Rod Idle_30
+  - first:
+      213: 1533103323499616510
+    second: Base Purple Rod Idle_31
+  - first:
+      213: -997831154426372616
+    second: Base Purple Rod Idle_32
+  - first:
+      213: -1513629033546736683
+    second: Base Purple Rod Idle_33
+  - first:
+      213: 7409766938979567037
+    second: Base Purple Rod Idle_34
+  - first:
+      213: 8417682564681526711
+    second: Base Purple Rod Idle_35
+  - first:
+      213: -8543925482699352609
+    second: Base Purple Rod Idle_36
+  - first:
+      213: -4908022456175218312
+    second: Base Purple Rod Idle_37
+  - first:
+      213: -5007617256279082409
+    second: Base Purple Rod Idle_38
+  - first:
+      213: 6092408416650335514
+    second: Base Purple Rod Idle_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Base Purple Rod Idle_0
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 285
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e010d763004c6ea60800000000000000
+      internalID: 7703059717857018126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Rod Idle_1
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 285
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25ec0dbd23dc7e930800000000000000
+      internalID: 4172529198102007378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Rod Idle_2
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 285
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86cd8eb3bbde63d20800000000000000
+      internalID: 3258052768868916328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Rod Idle_3
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 285
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0da5da4bd8b3ffc10800000000000000
+      internalID: 2089454231930886864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Rod Idle_4
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 285
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0ffd91ae056b4ec0800000000000000
+      internalID: -3581657965127663859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Rod Idle_5
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 286
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6f6365c56ef1ec90800000000000000
+      internalID: -7142147820976115861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Rod Idle_6
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 286
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a26e97d443dec3fc0800000000000000
+      internalID: -3513672800361912790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Rod Idle_7
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 286
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b115c5ac227130180800000000000000
+      internalID: -9150444579695341285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Rod Idle_8
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 286
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b35ff4bf68d2f870800000000000000
+      internalID: 8715266203204932533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Rod Idle_9
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 286
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a64f34f2506e4c4f0800000000000000
+      internalID: -809269123077639062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Rod Idle_10
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 180
+        width: 7
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2192d744ed1b11d0800000000000000
+      internalID: -3379074229116694228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Rod Idle_11
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 180
+        width: 7
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 307c0604ad693fc70800000000000000
+      internalID: 9003705944170874627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Rod Idle_12
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 180
+        width: 7
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5e7043d23c71eca0800000000000000
+      internalID: -5989369471691620770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Rod Idle_13
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 180
+        width: 7
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dc680ca192732840800000000000000
+      internalID: 5198124364897742034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Rod Idle_14
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 180
+        width: 7
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9bbfebd2405165c0800000000000000
+      internalID: -4224006727408829537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Rod Idle_15
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 180
+        width: 7
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 873dc0f92d05f5940800000000000000
+      internalID: 5287033353098023800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Rod Idle_16
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 180
+        width: 7
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eff5d1384c1f26a80800000000000000
+      internalID: -8474945722442227714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Rod Idle_17
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 180
+        width: 7
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0ca1c2c5105d1060800000000000000
+      internalID: 6925779856357698574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Rod Idle_18
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 180
+        width: 7
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e1c4d5954774d240800000000000000
+      internalID: 4815605042316100070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Rod Idle_19
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 180
+        width: 7
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 258587deaac8b1e30800000000000000
+      internalID: 4475325320479135826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Rod Idle_20
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 100
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2432144413b33b50800000000000000
+      internalID: 6571793180886447149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Rod Idle_21
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 100
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af5718366068cd3f0800000000000000
+      internalID: -874676865619364358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Rod Idle_22
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 100
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b4f9c98b863ed280800000000000000
+      internalID: -9016709431009086280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Rod Idle_23
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 100
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f344995fb436e0c0800000000000000
+      internalID: -4546888777337650185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Rod Idle_24
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 100
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40c1169c14fed9190800000000000000
+      internalID: -7953938301035930620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Rod Idle_25
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 100
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f7ea4f938afdeb70800000000000000
+      internalID: 8930069079365707763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Rod Idle_26
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 100
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f18d6e6003080aee0800000000000000
+      internalID: -1251859752646420449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Rod Idle_27
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 100
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00f433bd5a98555a0800000000000000
+      internalID: -6533164338990854400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Rod Idle_28
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 100
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f2eca0fd5c217350800000000000000
+      internalID: 6012635759497765621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Rod Idle_29
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 100
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fb540de05929d150800000000000000
+      internalID: 5897790614568983545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Rod Idle_30
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 20
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 692566779c95a3f00800000000000000
+      internalID: 1097288181044630166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Rod Idle_31
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 20
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef85a29995da64510800000000000000
+      internalID: 1533103323499616510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Rod Idle_32
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 20
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fd199e0addf622f0800000000000000
+      internalID: -997831154426372616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Rod Idle_33
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 20
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5db9abdd9628efae0800000000000000
+      internalID: -1513629033546736683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Rod Idle_34
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 20
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db58f4ab5c7c4d660800000000000000
+      internalID: 7409766938979567037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Rod Idle_35
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 20
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bd67db91bd91d470800000000000000
+      internalID: 8417682564681526711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Rod Idle_36
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 20
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd51c488a01ed6980800000000000000
+      internalID: -8543925482699352609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Rod Idle_37
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 20
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8713906749333ebb0800000000000000
+      internalID: -4908022456175218312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Rod Idle_38
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 20
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75a7e5c03ae518ab0800000000000000
+      internalID: -5007617256279082409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Rod Idle_39
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 20
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a151b0d0d259c8450800000000000000
+      internalID: 6092408416650335514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

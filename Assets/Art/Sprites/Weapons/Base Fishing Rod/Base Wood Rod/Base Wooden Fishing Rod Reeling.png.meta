@@ -1,0 +1,1130 @@
+fileFormatVersion: 2
+guid: 07bbbfd7b22114d41b894cea5f4e8f9d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4901991861229527991
+    second: Base Wooden Fishing Rod Reeling_0
+  - first:
+      213: 2662880275824700257
+    second: Base Wooden Fishing Rod Reeling_1
+  - first:
+      213: 1629028121372635466
+    second: Base Wooden Fishing Rod Reeling_2
+  - first:
+      213: 5586406654429079811
+    second: Base Wooden Fishing Rod Reeling_3
+  - first:
+      213: 112245731315289671
+    second: Base Wooden Fishing Rod Reeling_4
+  - first:
+      213: 6051392603059740683
+    second: Base Wooden Fishing Rod Reeling_5
+  - first:
+      213: -3311737245423073890
+    second: Base Wooden Fishing Rod Reeling_6
+  - first:
+      213: -3116728836984826653
+    second: Base Wooden Fishing Rod Reeling_7
+  - first:
+      213: -3109692485007027349
+    second: Base Wooden Fishing Rod Reeling_8
+  - first:
+      213: 6953447075934211333
+    second: Base Wooden Fishing Rod Reeling_9
+  - first:
+      213: 405107542960702477
+    second: Base Wooden Fishing Rod Reeling_10
+  - first:
+      213: 758403424162642271
+    second: Base Wooden Fishing Rod Reeling_11
+  - first:
+      213: 4511996003552318834
+    second: Base Wooden Fishing Rod Reeling_12
+  - first:
+      213: -6354062207750825862
+    second: Base Wooden Fishing Rod Reeling_13
+  - first:
+      213: 1037995273987470056
+    second: Base Wooden Fishing Rod Reeling_14
+  - first:
+      213: -709287276746730645
+    second: Base Wooden Fishing Rod Reeling_15
+  - first:
+      213: -2104015275581616016
+    second: Base Wooden Fishing Rod Reeling_16
+  - first:
+      213: 158638754258836656
+    second: Base Wooden Fishing Rod Reeling_17
+  - first:
+      213: 2240026856977852944
+    second: Base Wooden Fishing Rod Reeling_18
+  - first:
+      213: 5860725109673988837
+    second: Base Wooden Fishing Rod Reeling_19
+  - first:
+      213: 2360017189410285480
+    second: Base Wooden Fishing Rod Reeling_20
+  - first:
+      213: -3929441591364230497
+    second: Base Wooden Fishing Rod Reeling_21
+  - first:
+      213: 324403985764141336
+    second: Base Wooden Fishing Rod Reeling_22
+  - first:
+      213: -2370617380627426243
+    second: Base Wooden Fishing Rod Reeling_23
+  - first:
+      213: 7977505400671953262
+    second: Base Wooden Fishing Rod Reeling_24
+  - first:
+      213: -5500019605982549822
+    second: Base Wooden Fishing Rod Reeling_25
+  - first:
+      213: 1533087065875247243
+    second: Base Wooden Fishing Rod Reeling_26
+  - first:
+      213: 1159011925783763811
+    second: Base Wooden Fishing Rod Reeling_27
+  - first:
+      213: -7238802630848027362
+    second: Base Wooden Fishing Rod Reeling_28
+  - first:
+      213: -4255987012302356833
+    second: Base Wooden Fishing Rod Reeling_29
+  - first:
+      213: -717671008136395772
+    second: Base Wooden Fishing Rod Reeling_30
+  - first:
+      213: 209680528245917262
+    second: Base Wooden Fishing Rod Reeling_31
+  - first:
+      213: -4974349159879056229
+    second: Base Wooden Fishing Rod Reeling_32
+  - first:
+      213: 4649538839914121604
+    second: Base Wooden Fishing Rod Reeling_33
+  - first:
+      213: -8830298017586464522
+    second: Base Wooden Fishing Rod Reeling_34
+  - first:
+      213: 8599577890979827657
+    second: Base Wooden Fishing Rod Reeling_35
+  - first:
+      213: 953883218710321421
+    second: Base Wooden Fishing Rod Reeling_36
+  - first:
+      213: 3727395161032209035
+    second: Base Wooden Fishing Rod Reeling_37
+  - first:
+      213: -4728979712590816839
+    second: Base Wooden Fishing Rod Reeling_38
+  - first:
+      213: 9122563020872568431
+    second: Base Wooden Fishing Rod Reeling_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Base Wooden Fishing Rod Reeling_0
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 285
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b3217c30af570440800000000000000
+      internalID: 4901991861229527991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wooden Fishing Rod Reeling_1
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 285
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16bece7908374f420800000000000000
+      internalID: 2662880275824700257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wooden Fishing Rod Reeling_2
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 284
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a41b98702787b9610800000000000000
+      internalID: 1629028121372635466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wooden Fishing Rod Reeling_3
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 279
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 309af101147e68d40800000000000000
+      internalID: 5586406654429079811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wooden Fishing Rod Reeling_4
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 279
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74e0a9ed5e6ce8100800000000000000
+      internalID: 112245731315289671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wooden Fishing Rod Reeling_5
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 282
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b006dc5c28ddaf350800000000000000
+      internalID: 6051392603059740683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wooden Fishing Rod Reeling_6
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 279
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e95802985885a02d0800000000000000
+      internalID: -3311737245423073890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wooden Fishing Rod Reeling_7
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 284
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e49d4ac2a72fb4d0800000000000000
+      internalID: -3116728836984826653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wooden Fishing Rod Reeling_8
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 277
+        width: 9
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b635476292728d4d0800000000000000
+      internalID: -3109692485007027349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wooden Fishing Rod Reeling_9
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 284
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50d898d464b9f7060800000000000000
+      internalID: 6953447075934211333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wooden Fishing Rod Reeling_10
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 180
+        width: 7
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d04010af92b3f9500800000000000000
+      internalID: 405107542960702477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wooden Fishing Rod Reeling_11
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 180
+        width: 8
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5977a565e3668a00800000000000000
+      internalID: 758403424162642271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wooden Fishing Rod Reeling_12
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 180
+        width: 9
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 275d7bba574dd9e30800000000000000
+      internalID: 4511996003552318834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wooden Fishing Rod Reeling_13
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 180
+        width: 10
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a78174a5616d1d7a0800000000000000
+      internalID: -6354062207750825862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wooden Fishing Rod Reeling_14
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 180
+        width: 11
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e2be80c333b76e00800000000000000
+      internalID: 1037995273987470056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wooden Fishing Rod Reeling_15
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 180
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b639ec1dafa1826f0800000000000000
+      internalID: -709287276746730645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wooden Fishing Rod Reeling_16
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 180
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07056f021490dc2e0800000000000000
+      internalID: -2104015275581616016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wooden Fishing Rod Reeling_17
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 180
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bc55334b19933200800000000000000
+      internalID: 158638754258836656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wooden Fishing Rod Reeling_18
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 180
+        width: 9
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01aef79ee8c261f10800000000000000
+      internalID: 2240026856977852944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wooden Fishing Rod Reeling_19
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 180
+        width: 10
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e294509f6a755150800000000000000
+      internalID: 5860725109673988837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wooden Fishing Rod Reeling_20
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 100
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a7ad9e312770c020800000000000000
+      internalID: 2360017189410285480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wooden Fishing Rod Reeling_21
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 100
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f92e61511b1d779c0800000000000000
+      internalID: -3929441591364230497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wooden Fishing Rod Reeling_22
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 100
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 819413fc4b3808400800000000000000
+      internalID: 324403985764141336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wooden Fishing Rod Reeling_23
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 100
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d34d5596d00e91fd0800000000000000
+      internalID: -2370617380627426243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wooden Fishing Rod Reeling_24
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 100
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e61efc035eac5be60800000000000000
+      internalID: 7977505400671953262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wooden Fishing Rod Reeling_25
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 100
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c8e9b70f410ca3b0800000000000000
+      internalID: -5500019605982549822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wooden Fishing Rod Reeling_26
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 100
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b807d33509e964510800000000000000
+      internalID: 1533087065875247243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wooden Fishing Rod Reeling_27
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 100
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36b58cea433a51010800000000000000
+      internalID: 1159011925783763811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wooden Fishing Rod Reeling_28
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 100
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e15e32d2c5b9a8b90800000000000000
+      internalID: -7238802630848027362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wooden Fishing Rod Reeling_29
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 100
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9eba0b8c52bfe4c0800000000000000
+      internalID: -4255987012302356833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wooden Fishing Rod Reeling_30
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 20
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4040f6e35025a06f0800000000000000
+      internalID: -717671008136395772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wooden Fishing Rod Reeling_31
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 20
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e460a6a545fe8e200800000000000000
+      internalID: 209680528245917262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wooden Fishing Rod Reeling_32
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 20
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9465a85bcf87fab0800000000000000
+      internalID: -4974349159879056229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wooden Fishing Rod Reeling_33
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 20
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 489867ac0fa768040800000000000000
+      internalID: 4649538839914121604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wooden Fishing Rod Reeling_34
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 20
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f83ce8ecba747580800000000000000
+      internalID: -8830298017586464522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wooden Fishing Rod Reeling_35
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 20
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cfc7228786d75770800000000000000
+      internalID: 8599577890979827657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wooden Fishing Rod Reeling_36
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 20
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d095f68cbbfdc3d00800000000000000
+      internalID: 953883218710321421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wooden Fishing Rod Reeling_37
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 20
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b82b5de762e5ab330800000000000000
+      internalID: 3727395161032209035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wooden Fishing Rod Reeling_38
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 20
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b9def0b10a4f5eb0800000000000000
+      internalID: -4728979712590816839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wooden Fishing Rod Reeling_39
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 20
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6e493cebbad99e70800000000000000
+      internalID: 9122563020872568431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

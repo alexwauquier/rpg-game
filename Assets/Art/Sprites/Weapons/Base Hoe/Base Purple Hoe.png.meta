@@ -1,0 +1,1855 @@
+fileFormatVersion: 2
+guid: e40656c3aac089d45bbf8876bffdefae
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7958278450130519583
+    second: Base Purple Hoe_0
+  - first:
+      213: -3402887093002196111
+    second: Base Purple Hoe_1
+  - first:
+      213: 8542791264216372275
+    second: Base Purple Hoe_2
+  - first:
+      213: 3469270401929682216
+    second: Base Purple Hoe_3
+  - first:
+      213: 8817780340892102026
+    second: Base Purple Hoe_4
+  - first:
+      213: 8954859771439848155
+    second: Base Purple Hoe_5
+  - first:
+      213: -874558691439047258
+    second: Base Purple Hoe_6
+  - first:
+      213: 8387433097392186183
+    second: Base Purple Hoe_7
+  - first:
+      213: -6451306653859307805
+    second: Base Purple Hoe_8
+  - first:
+      213: -8101152043207627515
+    second: Base Purple Hoe_9
+  - first:
+      213: -4850989786997688088
+    second: Base Purple Hoe_10
+  - first:
+      213: 7323356181320093921
+    second: Base Purple Hoe_11
+  - first:
+      213: 3372514129954756343
+    second: Base Purple Hoe_12
+  - first:
+      213: 2328264279438067928
+    second: Base Purple Hoe_13
+  - first:
+      213: -2814925383230210038
+    second: Base Purple Hoe_14
+  - first:
+      213: 8064880599079199324
+    second: Base Purple Hoe_15
+  - first:
+      213: -7412701453039056343
+    second: Base Purple Hoe_16
+  - first:
+      213: 2520081667808323891
+    second: Base Purple Hoe_17
+  - first:
+      213: -2278304716037922582
+    second: Base Purple Hoe_18
+  - first:
+      213: 3080891564919725802
+    second: Base Purple Hoe_19
+  - first:
+      213: 520593818674384791
+    second: Base Purple Hoe_20
+  - first:
+      213: -2306954480583596407
+    second: Base Purple Hoe_21
+  - first:
+      213: 1435534850756724927
+    second: Base Purple Hoe_22
+  - first:
+      213: 8489506112325683860
+    second: Base Purple Hoe_23
+  - first:
+      213: -5460462608248481277
+    second: Base Purple Hoe_24
+  - first:
+      213: 7245958500987970623
+    second: Base Purple Hoe_25
+  - first:
+      213: 6005945437395123596
+    second: Base Purple Hoe_26
+  - first:
+      213: 387523489386524064
+    second: Base Purple Hoe_27
+  - first:
+      213: -2638596046052145469
+    second: Base Purple Hoe_28
+  - first:
+      213: -1397022022296287361
+    second: Base Purple Hoe_29
+  - first:
+      213: 904592170280997262
+    second: Base Purple Hoe_30
+  - first:
+      213: -2297746944219885619
+    second: Base Purple Hoe_31
+  - first:
+      213: 159526822425263955
+    second: Base Purple Hoe_32
+  - first:
+      213: -2354451804159865261
+    second: Base Purple Hoe_33
+  - first:
+      213: 5291011848559207283
+    second: Base Purple Hoe_34
+  - first:
+      213: 2010463888252668427
+    second: Base Purple Hoe_35
+  - first:
+      213: 4944613458037749473
+    second: Base Purple Hoe_36
+  - first:
+      213: -1087546678185294151
+    second: Base Purple Hoe_37
+  - first:
+      213: -7324296576545768328
+    second: Base Purple Hoe_38
+  - first:
+      213: 4851429653800619924
+    second: Base Purple Hoe_39
+  - first:
+      213: -7602007814407106027
+    second: Base Purple Hoe_40
+  - first:
+      213: 1585479167214614868
+    second: Base Purple Hoe_41
+  - first:
+      213: 8920519421108988226
+    second: Base Purple Hoe_42
+  - first:
+      213: -2486921900104072999
+    second: Base Purple Hoe_43
+  - first:
+      213: -5244359332394143058
+    second: Base Purple Hoe_44
+  - first:
+      213: -492302134206897949
+    second: Base Purple Hoe_45
+  - first:
+      213: -2987564410538752595
+    second: Base Purple Hoe_46
+  - first:
+      213: 610578217041757278
+    second: Base Purple Hoe_47
+  - first:
+      213: 4021836756197487626
+    second: Base Purple Hoe_48
+  - first:
+      213: 4233749114220918023
+    second: Base Purple Hoe_49
+  - first:
+      213: -3780253435516828644
+    second: Base Purple Hoe_50
+  - first:
+      213: 1969411110762440650
+    second: Base Purple Hoe_51
+  - first:
+      213: -8358939192447755008
+    second: Base Purple Hoe_52
+  - first:
+      213: -1582517021040197933
+    second: Base Purple Hoe_53
+  - first:
+      213: 4020919760726888462
+    second: Base Purple Hoe_54
+  - first:
+      213: -4707534245318176647
+    second: Base Purple Hoe_55
+  - first:
+      213: -3892228896056062132
+    second: Base Purple Hoe_56
+  - first:
+      213: 6030125766632673512
+    second: Base Purple Hoe_57
+  - first:
+      213: 4785701419370383724
+    second: Base Purple Hoe_58
+  - first:
+      213: 3156363845040885069
+    second: Base Purple Hoe_59
+  - first:
+      213: 6856362573704619833
+    second: Base Purple Hoe_60
+  - first:
+      213: 3540615137889303314
+    second: Base Purple Hoe_61
+  - first:
+      213: 8709282987516046858
+    second: Base Purple Hoe_62
+  - first:
+      213: 1994250494765013648
+    second: Base Purple Hoe_63
+  - first:
+      213: -5616663867197104078
+    second: Base Purple Hoe_64
+  - first:
+      213: 2264018936019179132
+    second: Base Purple Hoe_65
+  - first:
+      213: -8644620352975181381
+    second: Base Purple Hoe_66
+  - first:
+      213: -3338482172460862892
+    second: Base Purple Hoe_67
+  - first:
+      213: 8112445286944528350
+    second: Base Purple Hoe_68
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Base Purple Hoe_0
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 277
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f160dabe51c717e60800000000000000
+      internalID: 7958278450130519583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Hoe_1
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 282
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17ba7dad73486c0d0800000000000000
+      internalID: -3402887093002196111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Hoe_2
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 282
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3345de5a4671e8670800000000000000
+      internalID: 8542791264216372275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Hoe_3
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 280
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82d9bc0bc03552030800000000000000
+      internalID: 3469270401929682216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Hoe_4
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 278
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8deb4e508c0f5a70800000000000000
+      internalID: 8817780340892102026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Hoe_5
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 269
+        width: 9
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bda9b1a648d064c70800000000000000
+      internalID: 8954859771439848155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Hoe_6
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 278
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ad8b85f081fcd3f0800000000000000
+      internalID: -874558691439047258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Hoe_7
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 279
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7436a6ba6f5266470800000000000000
+      internalID: 8387433097392186183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Hoe_8
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 278
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ee1a9f57ca5876a0800000000000000
+      internalID: -6451306653859307805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Hoe_9
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 277
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50ded21732de29f80800000000000000
+      internalID: -8101152043207627515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Hoe_10
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 276
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e874f88d72ddacb0800000000000000
+      internalID: -4850989786997688088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Hoe_11
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 275
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e0de3765a9c1a560800000000000000
+      internalID: 7323356181320093921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Hoe_12
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 279
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f650fb9bb39dce20800000000000000
+      internalID: 3372514129954756343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Hoe_13
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 277
+        width: 168
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d80327c608af4020800000000000000
+      internalID: 2328264279438067928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Hoe_14
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 276
+        width: 86
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a00455f27406fe8d0800000000000000
+      internalID: -2814925383230210038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Hoe_15
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 197
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c522e00ec263cef60800000000000000
+      internalID: 8064880599079199324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Hoe_16
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 201
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92ac5997d4bc02990800000000000000
+      internalID: -7412701453039056343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Hoe_17
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 203
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33960b6cce029f220800000000000000
+      internalID: 2520081667808323891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Hoe_18
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 205
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae066768ee5d160e0800000000000000
+      internalID: -2278304716037922582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Hoe_19
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 207
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aee99861e8681ca20800000000000000
+      internalID: 3080891564919725802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Hoe_20
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 192
+        width: 9
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79fc952e155893700800000000000000
+      internalID: 520593818674384791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Hoe_21
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 178
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 986a1d76f1d0cffd0800000000000000
+      internalID: -2306954480583596407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Hoe_22
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 178
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb84c0a475b0ce310800000000000000
+      internalID: 1435534850756724927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Hoe_23
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 178
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49a0eaf64d8c0d570800000000000000
+      internalID: 8489506112325683860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Hoe_24
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 177
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30adb06403a8834b0800000000000000
+      internalID: -5460462608248481277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Hoe_25
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 176
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f342c9cadd0de8460800000000000000
+      internalID: 7245958500987970623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Hoe_26
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 175
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8d7050fd87695350800000000000000
+      internalID: 6005945437395123596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Hoe_27
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 178
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ade0077f82c06500800000000000000
+      internalID: 387523489386524064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Hoe_28
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 178
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c6cf4140e2d16bd0800000000000000
+      internalID: -2638596046052145469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Hoe_29
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 178
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f77c1a95fd7cc9ce0800000000000000
+      internalID: -1397022022296287361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Hoe_30
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 180
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e81d23049c1cd8c00800000000000000
+      internalID: 904592170280997262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Hoe_31
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 182
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcfc8060453cc10e0800000000000000
+      internalID: -2297746944219885619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Hoe_32
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 187
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35ffdcebcc0c63200800000000000000
+      internalID: 159526822425263955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Hoe_33
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 125
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35e064cfe8e435fd0800000000000000
+      internalID: -2354451804159865261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Hoe_34
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 122
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37321c74e337d6940800000000000000
+      internalID: 5291011848559207283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Hoe_35
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 117
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0a0d05214a96eb10800000000000000
+      internalID: 2010463888252668427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Hoe_36
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 117
+        width: 37
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e6b4fd0ebbce9440800000000000000
+      internalID: 4944613458037749473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Hoe_37
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 109
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b60c1aee0248e0f0800000000000000
+      internalID: -1087546678185294151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Hoe_38
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 109
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87c3165c11fda5a90800000000000000
+      internalID: -7324296576545768328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Hoe_39
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 109
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49f059fe09db35340800000000000000
+      internalID: 4851429653800619924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Hoe_40
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 115
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51255828b2e308690800000000000000
+      internalID: -7602007814407106027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Hoe_41
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 113
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 459fb9007e0c00610800000000000000
+      internalID: 1585479167214614868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Hoe_42
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 112
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 249ac2b862d0ccb70800000000000000
+      internalID: 8920519421108988226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Hoe_43
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 108
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d0482845bdac7dd0800000000000000
+      internalID: -2486921900104072999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Hoe_44
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 107
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea2742619fa4837b0800000000000000
+      internalID: -5244359332394143058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Hoe_45
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 107
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e06e6831ddfa29f0800000000000000
+      internalID: -492302134206897949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Hoe_46
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 109
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da50d365ff90a86d0800000000000000
+      internalID: -2987564410538752595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Hoe_47
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 109
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e548d5647a5397800800000000000000
+      internalID: 610578217041757278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Hoe_48
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 109
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a04b2cd983f60d730800000000000000
+      internalID: 4021836756197487626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Hoe_49
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 109
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7053345536c41ca30800000000000000
+      internalID: 4233749114220918023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Hoe_50
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 109
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c14c11f6787d98bc0800000000000000
+      internalID: -3780253435516828644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Hoe_51
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 38
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac7e3b988f0c45b10800000000000000
+      internalID: 1969411110762440650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Hoe_52
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 38
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00d9f0f87151ffb80800000000000000
+      internalID: -8358939192447755008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Hoe_53
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 37
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3deb3e56725c90ae0800000000000000
+      internalID: -1582517021040197933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Hoe_54
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 33
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e009978f73d2dc730800000000000000
+      internalID: 4020919760726888462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Hoe_55
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 32
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 970d2d3ab8a7baeb0800000000000000
+      internalID: -4707534245318176647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Hoe_56
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 37
+        width: 37
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4f4112e0760cf9c0800000000000000
+      internalID: -3892228896056062132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Hoe_57
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 29
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e0121f8f6f4fa350800000000000000
+      internalID: 6030125766632673512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Hoe_58
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 29
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6987aec51a3a6240800000000000000
+      internalID: 4785701419370383724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Hoe_59
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 29
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4d4c85a138adcb20800000000000000
+      internalID: 3156363845040885069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Hoe_60
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 28
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93762f82f61b62f50800000000000000
+      internalID: 6856362573704619833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Hoe_61
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 27
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21b334c75bac22130800000000000000
+      internalID: 3540615137889303314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Hoe_62
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 27
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0e2f3fbbb69dd870800000000000000
+      internalID: 8709282987516046858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Hoe_63
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 29
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09a9d9d42400dab10800000000000000
+      internalID: 1994250494765013648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Hoe_64
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 29
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 230e1fc98f99d02b0800000000000000
+      internalID: -5616663867197104078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Hoe_65
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 29
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c765e2e1a396b6f10800000000000000
+      internalID: 2264018936019179132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Hoe_66
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 29
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb96dc21793280880800000000000000
+      internalID: -8644620352975181381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Hoe_67
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 29
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 452fe75f6245ba1d0800000000000000
+      internalID: -3338482172460862892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Hoe_68
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 35
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed7de14c102359070800000000000000
+      internalID: 8112445286944528350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

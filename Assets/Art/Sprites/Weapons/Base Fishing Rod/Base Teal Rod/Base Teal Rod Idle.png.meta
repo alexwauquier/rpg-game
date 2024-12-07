@@ -1,0 +1,1130 @@
+fileFormatVersion: 2
+guid: 76699a5bc58ea7e4885cabcbd2cd1849
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5398538161939934906
+    second: Base Teal Rod Idle_0
+  - first:
+      213: 6046485789211516503
+    second: Base Teal Rod Idle_1
+  - first:
+      213: 1283394626085011189
+    second: Base Teal Rod Idle_2
+  - first:
+      213: -8103173378655222941
+    second: Base Teal Rod Idle_3
+  - first:
+      213: 3781511529627067824
+    second: Base Teal Rod Idle_4
+  - first:
+      213: 2493165122050648235
+    second: Base Teal Rod Idle_5
+  - first:
+      213: -8311103926738267451
+    second: Base Teal Rod Idle_6
+  - first:
+      213: -8245464310970430748
+    second: Base Teal Rod Idle_7
+  - first:
+      213: -1181394820262321390
+    second: Base Teal Rod Idle_8
+  - first:
+      213: 7154872512375306339
+    second: Base Teal Rod Idle_9
+  - first:
+      213: -6410426531012145289
+    second: Base Teal Rod Idle_10
+  - first:
+      213: 1594501436245644779
+    second: Base Teal Rod Idle_11
+  - first:
+      213: 1927260838726421268
+    second: Base Teal Rod Idle_12
+  - first:
+      213: -8144929500942762049
+    second: Base Teal Rod Idle_13
+  - first:
+      213: 4662599425708573106
+    second: Base Teal Rod Idle_14
+  - first:
+      213: 5864206694356188528
+    second: Base Teal Rod Idle_15
+  - first:
+      213: 3015249662574617884
+    second: Base Teal Rod Idle_16
+  - first:
+      213: -4610123888800784573
+    second: Base Teal Rod Idle_17
+  - first:
+      213: 8815102297228300938
+    second: Base Teal Rod Idle_18
+  - first:
+      213: 4444247989417819323
+    second: Base Teal Rod Idle_19
+  - first:
+      213: -5159467710262382829
+    second: Base Teal Rod Idle_20
+  - first:
+      213: -2868895746747901580
+    second: Base Teal Rod Idle_21
+  - first:
+      213: 3156986043959061043
+    second: Base Teal Rod Idle_22
+  - first:
+      213: -188172978300699726
+    second: Base Teal Rod Idle_23
+  - first:
+      213: 5004506027016075105
+    second: Base Teal Rod Idle_24
+  - first:
+      213: -536893841651891325
+    second: Base Teal Rod Idle_25
+  - first:
+      213: 9206067529154524503
+    second: Base Teal Rod Idle_26
+  - first:
+      213: -3207173735452044691
+    second: Base Teal Rod Idle_27
+  - first:
+      213: -5084136219535018162
+    second: Base Teal Rod Idle_28
+  - first:
+      213: 249818730235962186
+    second: Base Teal Rod Idle_29
+  - first:
+      213: -2232218441670285847
+    second: Base Teal Rod Idle_30
+  - first:
+      213: -146573276350799247
+    second: Base Teal Rod Idle_31
+  - first:
+      213: -686892263239091116
+    second: Base Teal Rod Idle_32
+  - first:
+      213: 8856769508023027728
+    second: Base Teal Rod Idle_33
+  - first:
+      213: -5435515333796667066
+    second: Base Teal Rod Idle_34
+  - first:
+      213: -5576992578841703018
+    second: Base Teal Rod Idle_35
+  - first:
+      213: -8064818939195170383
+    second: Base Teal Rod Idle_36
+  - first:
+      213: -1407614802803905518
+    second: Base Teal Rod Idle_37
+  - first:
+      213: -3500389759446540326
+    second: Base Teal Rod Idle_38
+  - first:
+      213: 5235617418786867467
+    second: Base Teal Rod Idle_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Base Teal Rod Idle_0
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 285
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abee1d80bd57bea40800000000000000
+      internalID: 5398538161939934906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Rod Idle_1
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 285
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75e56652ace69e350800000000000000
+      internalID: 6046485789211516503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Rod Idle_2
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 285
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fe317adc988fc110800000000000000
+      internalID: 1283394626085011189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Rod Idle_3
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 285
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3638adb9ebebb8f80800000000000000
+      internalID: -8103173378655222941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Rod Idle_4
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 285
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b5277d63b0aa7430800000000000000
+      internalID: 3781511529627067824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Rod Idle_5
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 286
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba8e83a1870899220800000000000000
+      internalID: 2493165122050648235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Rod Idle_6
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 286
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c25963430709ac80800000000000000
+      internalID: -8311103926738267451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Rod Idle_7
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 286
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ea427045e9329d80800000000000000
+      internalID: -8245464310970430748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Rod Idle_8
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 286
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21327c69ba7da9fe0800000000000000
+      internalID: -1181394820262321390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Rod Idle_9
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 286
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 368365154a63b4360800000000000000
+      internalID: 7154872512375306339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Rod Idle_10
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 180
+        width: 7
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77f0840b8079907a0800000000000000
+      internalID: -6410426531012145289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Rod Idle_11
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 180
+        width: 7
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be59545bb9ec02610800000000000000
+      internalID: 1594501436245644779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Rod Idle_12
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 180
+        width: 7
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41b4fc195810fba10800000000000000
+      internalID: 1927260838726421268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Rod Idle_13
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 180
+        width: 7
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbff4b7c5c567fe80800000000000000
+      internalID: -8144929500942762049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Rod Idle_14
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 180
+        width: 7
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b1cc436971e4b040800000000000000
+      internalID: 4662599425708573106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Rod Idle_15
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 180
+        width: 7
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07d719a2be8d16150800000000000000
+      internalID: 5864206694356188528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Rod Idle_16
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 180
+        width: 7
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1560e6b79158d920800000000000000
+      internalID: 3015249662574617884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Rod Idle_17
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 180
+        width: 7
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34f9c75afbc8500c0800000000000000
+      internalID: -4610123888800784573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Rod Idle_18
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 180
+        width: 7
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a82d50db5d8855a70800000000000000
+      internalID: 8815102297228300938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Rod Idle_19
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 180
+        width: 7
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbc3efeeff32dad30800000000000000
+      internalID: 4444247989417819323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Rod Idle_20
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 100
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31f66bb1473e568b0800000000000000
+      internalID: -5159467710262382829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Rod Idle_21
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 100
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4795675b482af28d0800000000000000
+      internalID: -2868895746747901580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Rod Idle_22
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 100
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33aab0f941edfcb20800000000000000
+      internalID: 3156986043959061043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Rod Idle_23
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 100
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bb3f085ca9736df0800000000000000
+      internalID: -188172978300699726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Rod Idle_24
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 100
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 167389077b3937540800000000000000
+      internalID: 5004506027016075105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Rod Idle_25
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 100
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3838e3645e19c88f0800000000000000
+      internalID: -536893841651891325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Rod Idle_26
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 100
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 755738554a582cf70800000000000000
+      internalID: 9206067529154524503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Rod Idle_27
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 100
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d621b6dda74dd73d0800000000000000
+      internalID: -3207173735452044691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Rod Idle_28
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 100
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e47fae49b058179b0800000000000000
+      internalID: -5084136219535018162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Rod Idle_29
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 100
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4324f1cfc8877300800000000000000
+      internalID: 249818730235962186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Rod Idle_30
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 20
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e5aa2377219501e0800000000000000
+      internalID: -2232218441670285847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Rod Idle_31
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 20
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 172ab89b16447fdf0800000000000000
+      internalID: -146573276350799247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Rod Idle_32
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 20
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45c7baa302ba776f0800000000000000
+      internalID: -686892263239091116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Rod Idle_33
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 20
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 018493f31f099ea70800000000000000
+      internalID: 8856769508023027728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Rod Idle_34
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 20
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6416cdd3a9b2194b0800000000000000
+      internalID: -5435515333796667066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Rod Idle_35
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 20
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69d86273cca8a92b0800000000000000
+      internalID: -5576992578841703018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Rod Idle_36
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 20
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b1ed6f67e1041090800000000000000
+      internalID: -8064818939195170383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Rod Idle_37
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 20
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21caa427bc5277ce0800000000000000
+      internalID: -1407614802803905518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Rod Idle_38
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 20
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adf16c44f0e1c6fc0800000000000000
+      internalID: -3500389759446540326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Rod Idle_39
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 20
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0983aa8d46a8a840800000000000000
+      internalID: 5235617418786867467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

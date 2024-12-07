@@ -1,0 +1,1130 @@
+fileFormatVersion: 2
+guid: 7ccc53699ec0ec74e982c96101535437
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4217664994103527827
+    second: Base Gold Rod Idle_0
+  - first:
+      213: 6680449177175660137
+    second: Base Gold Rod Idle_1
+  - first:
+      213: -5729609404594961518
+    second: Base Gold Rod Idle_2
+  - first:
+      213: -6167050997093483415
+    second: Base Gold Rod Idle_3
+  - first:
+      213: -5979870156519796374
+    second: Base Gold Rod Idle_4
+  - first:
+      213: 5499133430388379941
+    second: Base Gold Rod Idle_5
+  - first:
+      213: 3338959182973513732
+    second: Base Gold Rod Idle_6
+  - first:
+      213: -8200536594285313030
+    second: Base Gold Rod Idle_7
+  - first:
+      213: -8305367311152374565
+    second: Base Gold Rod Idle_8
+  - first:
+      213: 4266225356990526565
+    second: Base Gold Rod Idle_9
+  - first:
+      213: -6288040271859947956
+    second: Base Gold Rod Idle_10
+  - first:
+      213: 4813957577378769871
+    second: Base Gold Rod Idle_11
+  - first:
+      213: 5685956485916371697
+    second: Base Gold Rod Idle_12
+  - first:
+      213: 4427284431520230589
+    second: Base Gold Rod Idle_13
+  - first:
+      213: 482962669880491120
+    second: Base Gold Rod Idle_14
+  - first:
+      213: 4766261148080916655
+    second: Base Gold Rod Idle_15
+  - first:
+      213: 260360723112364737
+    second: Base Gold Rod Idle_16
+  - first:
+      213: -3536257991830067163
+    second: Base Gold Rod Idle_17
+  - first:
+      213: -3098940750306221055
+    second: Base Gold Rod Idle_18
+  - first:
+      213: -6378678290322735075
+    second: Base Gold Rod Idle_19
+  - first:
+      213: 653902071749700910
+    second: Base Gold Rod Idle_20
+  - first:
+      213: -7879025714724553366
+    second: Base Gold Rod Idle_21
+  - first:
+      213: 5172370277984826616
+    second: Base Gold Rod Idle_22
+  - first:
+      213: 8825047438435488811
+    second: Base Gold Rod Idle_23
+  - first:
+      213: 1736206333098371351
+    second: Base Gold Rod Idle_24
+  - first:
+      213: 1143888714057747068
+    second: Base Gold Rod Idle_25
+  - first:
+      213: -7882086615358332587
+    second: Base Gold Rod Idle_26
+  - first:
+      213: -7849739437793854243
+    second: Base Gold Rod Idle_27
+  - first:
+      213: -8502882464976483157
+    second: Base Gold Rod Idle_28
+  - first:
+      213: 6195892419254460050
+    second: Base Gold Rod Idle_29
+  - first:
+      213: 6482782795437980147
+    second: Base Gold Rod Idle_30
+  - first:
+      213: 2948791205861132538
+    second: Base Gold Rod Idle_31
+  - first:
+      213: -1830455564074369284
+    second: Base Gold Rod Idle_32
+  - first:
+      213: 8385427591795672805
+    second: Base Gold Rod Idle_33
+  - first:
+      213: 875769617274105467
+    second: Base Gold Rod Idle_34
+  - first:
+      213: -3524477635963867997
+    second: Base Gold Rod Idle_35
+  - first:
+      213: 5856367817230780999
+    second: Base Gold Rod Idle_36
+  - first:
+      213: -4241095144942259163
+    second: Base Gold Rod Idle_37
+  - first:
+      213: 7785489170300831845
+    second: Base Gold Rod Idle_38
+  - first:
+      213: -5219878705891110656
+    second: Base Gold Rod Idle_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Base Gold Rod Idle_0
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 285
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 399042b47f7288a30800000000000000
+      internalID: 4217664994103527827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Rod Idle_1
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 285
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9661b91d129b5bc50800000000000000
+      internalID: 6680449177175660137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Rod Idle_2
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 285
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29341617a965c70b0800000000000000
+      internalID: -5729609404594961518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Rod Idle_3
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 285
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96c3686eacb3a6aa0800000000000000
+      internalID: -6167050997093483415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Rod Idle_4
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 285
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a619dad76cb330da0800000000000000
+      internalID: -5979870156519796374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Rod Idle_5
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 286
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52156c228b8d05c40800000000000000
+      internalID: 5499133430388379941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Rod Idle_6
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 286
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4003aa4bfad565e20800000000000000
+      internalID: 3338959182973513732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Rod Idle_7
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 286
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af348027a67d13e80800000000000000
+      internalID: -8200536594285313030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Rod Idle_8
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 286
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdc1f992f686dbc80800000000000000
+      internalID: -8305367311152374565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Rod Idle_9
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 286
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5643f27db5da43b30800000000000000
+      internalID: 4266225356990526565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Rod Idle_10
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 180
+        width: 7
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c46ef6e20b46cb8a0800000000000000
+      internalID: -6288040271859947956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Rod Idle_11
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 180
+        width: 7
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcb267349ec9ec240800000000000000
+      internalID: 4813957577378769871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Rod Idle_12
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 180
+        width: 7
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1faaf576c4398ee40800000000000000
+      internalID: 5685956485916371697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Rod Idle_13
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 180
+        width: 7
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbc6164dbbfd07d30800000000000000
+      internalID: 4427284431520230589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Rod Idle_14
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 180
+        width: 7
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07c300a4df3d3b600800000000000000
+      internalID: 482962669880491120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Rod Idle_15
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 180
+        width: 7
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa8cb1ee249252240800000000000000
+      internalID: 4766261148080916655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Rod Idle_16
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 180
+        width: 7
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ca839eb2bcfc9300800000000000000
+      internalID: 260360723112364737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Rod Idle_17
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 180
+        width: 7
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52825d2a710bceec0800000000000000
+      internalID: -3536257991830067163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Rod Idle_18
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 180
+        width: 7
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 104e3067ec95ef4d0800000000000000
+      internalID: -3098940750306221055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Rod Idle_19
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 180
+        width: 7
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1041d004e16a77a0800000000000000
+      internalID: -6378678290322735075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Rod Idle_20
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 100
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2d68804870231900800000000000000
+      internalID: 653902071749700910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Rod Idle_21
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 100
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6dbca97bd318a290800000000000000
+      internalID: -7879025714724553366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Rod Idle_22
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 100
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f4f21a0d53f7c740800000000000000
+      internalID: 5172370277984826616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Rod Idle_23
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 100
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b241bed53edd87a70800000000000000
+      internalID: 8825047438435488811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Rod Idle_24
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 100
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 719ac1d067e381810800000000000000
+      internalID: 1736206333098371351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Rod Idle_25
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 100
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7a8dff89b8efdf00800000000000000
+      internalID: 1143888714057747068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Rod Idle_26
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 100
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 551a4b20cf33d9290800000000000000
+      internalID: -7882086615358332587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Rod Idle_27
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 100
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddc3cee229f101390800000000000000
+      internalID: -7849739437793854243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Rod Idle_28
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 100
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baccd24c271bff980800000000000000
+      internalID: -8502882464976483157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Rod Idle_29
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 100
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29e923cf35b3cf550800000000000000
+      internalID: 6195892419254460050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Rod Idle_30
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 20
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f9381eea9877f950800000000000000
+      internalID: 6482782795437980147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Rod Idle_31
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 20
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af806267af53ce820800000000000000
+      internalID: 2948791205861132538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Rod Idle_32
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 20
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfeb536dc5ae896e0800000000000000
+      internalID: -1830455564074369284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Rod Idle_33
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 20
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e68db287f50f5470800000000000000
+      internalID: 8385427591795672805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Rod Idle_34
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 20
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7ee3bea3db572c00800000000000000
+      internalID: 875769617274105467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Rod Idle_35
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 20
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aca099734a861fc0800000000000000
+      internalID: -3524477635963867997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Rod Idle_36
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 20
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74a021c508ff54150800000000000000
+      internalID: 5856367817230780999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Rod Idle_37
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 20
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 524351b9f6a9425c0800000000000000
+      internalID: -4241095144942259163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Rod Idle_38
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 20
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5688e6ea62d9b0c60800000000000000
+      internalID: 7785489170300831845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Rod Idle_39
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 20
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0011cbc19f34f87b0800000000000000
+      internalID: -5219878705891110656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

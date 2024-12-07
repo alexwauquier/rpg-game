@@ -1,0 +1,1680 @@
+fileFormatVersion: 2
+guid: 80a14d9609329dc4597df5e15abb775f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -786817324923213037
+    second: Base Teal Shovel_0
+  - first:
+      213: 5269177220860762471
+    second: Base Teal Shovel_1
+  - first:
+      213: 363733445369705536
+    second: Base Teal Shovel_2
+  - first:
+      213: 1852422453362951416
+    second: Base Teal Shovel_3
+  - first:
+      213: 2312092629101158208
+    second: Base Teal Shovel_4
+  - first:
+      213: -4831901813102368488
+    second: Base Teal Shovel_5
+  - first:
+      213: -1683472607166347926
+    second: Base Teal Shovel_6
+  - first:
+      213: -5753990926620828211
+    second: Base Teal Shovel_7
+  - first:
+      213: -1603548488400903372
+    second: Base Teal Shovel_8
+  - first:
+      213: -8564958521119446482
+    second: Base Teal Shovel_9
+  - first:
+      213: -2455115422680605514
+    second: Base Teal Shovel_10
+  - first:
+      213: -3071132951871863022
+    second: Base Teal Shovel_11
+  - first:
+      213: 1091148750695984733
+    second: Base Teal Shovel_12
+  - first:
+      213: 4295959271363097966
+    second: Base Teal Shovel_13
+  - first:
+      213: 1734921954943292206
+    second: Base Teal Shovel_14
+  - first:
+      213: 3209202422952240617
+    second: Base Teal Shovel_15
+  - first:
+      213: -602613066669585874
+    second: Base Teal Shovel_16
+  - first:
+      213: -8745660195023021262
+    second: Base Teal Shovel_17
+  - first:
+      213: 2068307455396790174
+    second: Base Teal Shovel_18
+  - first:
+      213: -873789372864285677
+    second: Base Teal Shovel_19
+  - first:
+      213: -3809950765292359165
+    second: Base Teal Shovel_20
+  - first:
+      213: -518890674327185400
+    second: Base Teal Shovel_21
+  - first:
+      213: -1164809256644941565
+    second: Base Teal Shovel_22
+  - first:
+      213: -1475788685349449735
+    second: Base Teal Shovel_23
+  - first:
+      213: 4757907167756424441
+    second: Base Teal Shovel_24
+  - first:
+      213: -3228966892578093685
+    second: Base Teal Shovel_25
+  - first:
+      213: 5210397638069718134
+    second: Base Teal Shovel_26
+  - first:
+      213: -6107524371038959348
+    second: Base Teal Shovel_27
+  - first:
+      213: -1914682697806625091
+    second: Base Teal Shovel_28
+  - first:
+      213: 8114083983955210606
+    second: Base Teal Shovel_29
+  - first:
+      213: 2454171192107188524
+    second: Base Teal Shovel_30
+  - first:
+      213: 2526142515129577865
+    second: Base Teal Shovel_31
+  - first:
+      213: 8142160817194373608
+    second: Base Teal Shovel_32
+  - first:
+      213: -1516658577471244831
+    second: Base Teal Shovel_33
+  - first:
+      213: -3441633470108345804
+    second: Base Teal Shovel_34
+  - first:
+      213: -1707557684725981805
+    second: Base Teal Shovel_35
+  - first:
+      213: 1432558488350861511
+    second: Base Teal Shovel_36
+  - first:
+      213: -3163620389053176531
+    second: Base Teal Shovel_37
+  - first:
+      213: -4670797212527651338
+    second: Base Teal Shovel_38
+  - first:
+      213: 5906578615283120892
+    second: Base Teal Shovel_39
+  - first:
+      213: -9186252102935904291
+    second: Base Teal Shovel_40
+  - first:
+      213: -8131783873264860803
+    second: Base Teal Shovel_41
+  - first:
+      213: 2263289826427842867
+    second: Base Teal Shovel_42
+  - first:
+      213: -6090168435157273582
+    second: Base Teal Shovel_43
+  - first:
+      213: -4066646325080263535
+    second: Base Teal Shovel_44
+  - first:
+      213: -1376675072648316442
+    second: Base Teal Shovel_45
+  - first:
+      213: 7747562322124760421
+    second: Base Teal Shovel_46
+  - first:
+      213: -207466178984148414
+    second: Base Teal Shovel_47
+  - first:
+      213: -1507794506909719822
+    second: Base Teal Shovel_48
+  - first:
+      213: -1387476017192808639
+    second: Base Teal Shovel_49
+  - first:
+      213: 6945346281525695898
+    second: Base Teal Shovel_50
+  - first:
+      213: -713089657196408966
+    second: Base Teal Shovel_51
+  - first:
+      213: 5646008370412559021
+    second: Base Teal Shovel_52
+  - first:
+      213: 4379607039382850514
+    second: Base Teal Shovel_53
+  - first:
+      213: 2793845049315470831
+    second: Base Teal Shovel_54
+  - first:
+      213: 3207015611242389313
+    second: Base Teal Shovel_55
+  - first:
+      213: -7367653249917178067
+    second: Base Teal Shovel_56
+  - first:
+      213: 6959875202998344008
+    second: Base Teal Shovel_57
+  - first:
+      213: -3323877050560688711
+    second: Base Teal Shovel_58
+  - first:
+      213: 6978606282538045465
+    second: Base Teal Shovel_59
+  - first:
+      213: -1436196062419004345
+    second: Base Teal Shovel_60
+  - first:
+      213: -3386296815980342344
+    second: Base Teal Shovel_61
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Base Teal Shovel_0
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 282
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31b24dccfc9a415f0800000000000000
+      internalID: -786817324923213037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Shovel_1
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 281
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7695cfbd3c0ef1940800000000000000
+      internalID: 5269177220860762471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Shovel_2
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 281
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 044b03434ad3c0500800000000000000
+      internalID: 363733445369705536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Shovel_3
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 281
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f408a2286025b910800000000000000
+      internalID: 1852422453362951416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Shovel_4
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 284
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04f9f550ff3361020800000000000000
+      internalID: 2312092629101158208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Shovel_5
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 286
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 819a778c6e2a1fcb0800000000000000
+      internalID: -4831901813102368488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Shovel_6
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 285
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a65cfbc459a13a8e0800000000000000
+      internalID: -1683472607166347926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Shovel_7
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 284
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcdd1f9fcb7b520b0800000000000000
+      internalID: -5753990926620828211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Shovel_8
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 282
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 433efb0552d0fb9e0800000000000000
+      internalID: -1603548488400903372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Shovel_9
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 281
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2a68b8aa97232980800000000000000
+      internalID: -8564958521119446482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Shovel_10
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 280
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bc1a84e78dadedd0800000000000000
+      internalID: -2455115422680605514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Shovel_11
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 186
+        width: 93
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2174ea11ad42165d0800000000000000
+      internalID: -3071132951871863022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Shovel_12
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 273
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5e6852f10a842f00800000000000000
+      internalID: 1091148750695984733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Shovel_13
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 200
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e65b42342305e9b30800000000000000
+      internalID: 4295959271363097966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Shovel_14
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 216
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e23db65735ea31810800000000000000
+      internalID: 1734921954943292206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Shovel_15
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 201
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e52460c990698c20800000000000000
+      internalID: 3209202422952240617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Shovel_16
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 214
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2a8620db9613a7f0800000000000000
+      internalID: -602613066669585874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Shovel_17
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 212
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23b116d936c21a680800000000000000
+      internalID: -8745660195023021262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Shovel_18
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 191
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9fb73d1caa14bc10800000000000000
+      internalID: 2068307455396790174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Shovel_19
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 190
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 314b9e5e13dafd3f0800000000000000
+      internalID: -873789372864285677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Shovel_20
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 188
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 302750707f5502bc0800000000000000
+      internalID: -3809950765292359165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Shovel_21
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 198
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 808177f4ea78cc8f0800000000000000
+      internalID: -518890674327185400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Shovel_22
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 197
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 309679a0724c5dfe0800000000000000
+      internalID: -1164809256644941565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Shovel_23
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 181
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ff843e7202f48be0800000000000000
+      internalID: -1475788685349449735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Shovel_24
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 181
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f418605c5b770240800000000000000
+      internalID: 4757907167756424441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Shovel_25
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 181
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b85c26018b76033d0800000000000000
+      internalID: -3228966892578093685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Shovel_26
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 181
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67c0ea3cb0d0f4840800000000000000
+      internalID: 5210397638069718134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Shovel_27
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 181
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c098e2f81f6bd3ba0800000000000000
+      internalID: -6107524371038959348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Shovel_28
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 115
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db646a31b3ead65e0800000000000000
+      internalID: -1914682697806625091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Shovel_29
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 118
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e613655a4640b9070800000000000000
+      internalID: 8114083983955210606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Shovel_30
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 119
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c21cb8b42b7fe0220800000000000000
+      internalID: 2454171192107188524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Shovel_31
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 126
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9817f42cb39ae0320800000000000000
+      internalID: 2526142515129577865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Shovel_32
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 118
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e199fccf14cef070800000000000000
+      internalID: 8142160817194373608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Shovel_33
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 126
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e5f6443f0fb3fae0800000000000000
+      internalID: -1516658577471244831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Shovel_34
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 116
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43ad81fe79cdc30d0800000000000000
+      internalID: -3441633470108345804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Shovel_35
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 125
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39d5b6035598d48e0800000000000000
+      internalID: -1707557684725981805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Shovel_36
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 112
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c8af1aea5871e310800000000000000
+      internalID: 1432558488350861511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Shovel_37
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 112
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d256d4a84009814d0800000000000000
+      internalID: -3163620389053176531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Shovel_38
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 113
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f59761aeaefd2fb0800000000000000
+      internalID: -4670797212527651338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Shovel_39
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 109
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfa7ed9c4f168f150800000000000000
+      internalID: 5906578615283120892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Shovel_40
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 109
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddff15b1260e38080800000000000000
+      internalID: -9186252102935904291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Shovel_41
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 109
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d714ccbb6a9162f80800000000000000
+      internalID: -8131783873264860803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Shovel_42
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 109
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 331bcff0b12d86f10800000000000000
+      internalID: 2263289826427842867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Shovel_43
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 113
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 214772843106b7ba0800000000000000
+      internalID: -6090168435157273582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Shovel_44
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 109
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 194717e96be5097c0800000000000000
+      internalID: -4066646325080263535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Shovel_45
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 116
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e979abb05115ece0800000000000000
+      internalID: -1376675072648316442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Shovel_46
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 35
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 565627532eed48b60800000000000000
+      internalID: 7747562322124760421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Shovel_47
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 40
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2420eb20c9eee1df0800000000000000
+      internalID: -207466178984148414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Shovel_48
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 46
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f26c5572ec331be0800000000000000
+      internalID: -1507794506909719822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Shovel_49
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 41
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14f49dcd9e1bebce0800000000000000
+      internalID: -1387476017192808639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Shovel_50
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 46
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a955b6025a3d26060800000000000000
+      internalID: 6945346281525695898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Shovel_51
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 40
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7f8dc12cb89a16f0800000000000000
+      internalID: -713089657196408966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Shovel_52
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 45
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daa9255f2b6aa5e40800000000000000
+      internalID: 5646008370412559021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Shovel_53
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 36
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2db073ee56d77cc30800000000000000
+      internalID: 4379607039382850514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Shovel_54
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 32
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fedaee9154bb5c620800000000000000
+      internalID: 2793845049315470831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Shovel_55
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 32
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14f1c39f4bb918c20800000000000000
+      internalID: 3207015611242389313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Shovel_56
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 33
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2f2f6a9766d0c990800000000000000
+      internalID: -7367653249917178067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Shovel_57
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 29
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84914c34f91769060800000000000000
+      internalID: 6959875202998344008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Shovel_58
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 29
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bdc144ee673fd1d0800000000000000
+      internalID: -3323877050560688711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Shovel_59
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 29
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9105df1907df8d060800000000000000
+      internalID: 6978606282538045465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Shovel_60
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 29
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74453bf5a4b911ce0800000000000000
+      internalID: -1436196062419004345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Shovel_61
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 29
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b3947bbcf47101d0800000000000000
+      internalID: -3386296815980342344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

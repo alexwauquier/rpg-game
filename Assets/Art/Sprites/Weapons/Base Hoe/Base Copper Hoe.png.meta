@@ -1,0 +1,1855 @@
+fileFormatVersion: 2
+guid: 50c97b0b8ebe1ab42b6ad26814afceee
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7681555235503537923
+    second: Base Copper Hoe_0
+  - first:
+      213: -5915386538629398420
+    second: Base Copper Hoe_1
+  - first:
+      213: 3205908312905554240
+    second: Base Copper Hoe_2
+  - first:
+      213: -586466383069964238
+    second: Base Copper Hoe_3
+  - first:
+      213: 6022880539140552224
+    second: Base Copper Hoe_4
+  - first:
+      213: -8048009799835969619
+    second: Base Copper Hoe_5
+  - first:
+      213: 7252219982930699904
+    second: Base Copper Hoe_6
+  - first:
+      213: 6485931843585023622
+    second: Base Copper Hoe_7
+  - first:
+      213: 1444177421214921687
+    second: Base Copper Hoe_8
+  - first:
+      213: -7150892664205157536
+    second: Base Copper Hoe_9
+  - first:
+      213: -7197278909401856920
+    second: Base Copper Hoe_10
+  - first:
+      213: -644465881929569792
+    second: Base Copper Hoe_11
+  - first:
+      213: 7772488487762412969
+    second: Base Copper Hoe_12
+  - first:
+      213: -8039359230432718475
+    second: Base Copper Hoe_13
+  - first:
+      213: 6054686750063811994
+    second: Base Copper Hoe_14
+  - first:
+      213: -8964784115432821142
+    second: Base Copper Hoe_15
+  - first:
+      213: -1126930603414007860
+    second: Base Copper Hoe_16
+  - first:
+      213: 9002840424719565141
+    second: Base Copper Hoe_17
+  - first:
+      213: 3193863509799908123
+    second: Base Copper Hoe_18
+  - first:
+      213: -123086043294896549
+    second: Base Copper Hoe_19
+  - first:
+      213: 3633076011286576732
+    second: Base Copper Hoe_20
+  - first:
+      213: 487887950893779527
+    second: Base Copper Hoe_21
+  - first:
+      213: 2686271338052484542
+    second: Base Copper Hoe_22
+  - first:
+      213: 7199651791248999650
+    second: Base Copper Hoe_23
+  - first:
+      213: -7879456667130798988
+    second: Base Copper Hoe_24
+  - first:
+      213: 5701831618291990344
+    second: Base Copper Hoe_25
+  - first:
+      213: -6653834796517433387
+    second: Base Copper Hoe_26
+  - first:
+      213: 3343371661389065275
+    second: Base Copper Hoe_27
+  - first:
+      213: 753947496983334619
+    second: Base Copper Hoe_28
+  - first:
+      213: -7497175896467091492
+    second: Base Copper Hoe_29
+  - first:
+      213: -1362608902560426047
+    second: Base Copper Hoe_30
+  - first:
+      213: -4492538762434108599
+    second: Base Copper Hoe_31
+  - first:
+      213: -4666194437462176137
+    second: Base Copper Hoe_32
+  - first:
+      213: -8945054236985639526
+    second: Base Copper Hoe_33
+  - first:
+      213: -5860935132809006183
+    second: Base Copper Hoe_34
+  - first:
+      213: -786907218878181581
+    second: Base Copper Hoe_35
+  - first:
+      213: 2489969117298043601
+    second: Base Copper Hoe_36
+  - first:
+      213: -8990150517374259368
+    second: Base Copper Hoe_37
+  - first:
+      213: 2889077646207802196
+    second: Base Copper Hoe_38
+  - first:
+      213: 2542825912213147410
+    second: Base Copper Hoe_39
+  - first:
+      213: 1248365796480377554
+    second: Base Copper Hoe_40
+  - first:
+      213: 4625632155377792482
+    second: Base Copper Hoe_41
+  - first:
+      213: -4298763793145744424
+    second: Base Copper Hoe_42
+  - first:
+      213: -5171818947718569021
+    second: Base Copper Hoe_43
+  - first:
+      213: -8482102461059390427
+    second: Base Copper Hoe_44
+  - first:
+      213: -5052070577323886498
+    second: Base Copper Hoe_45
+  - first:
+      213: 105416972560597643
+    second: Base Copper Hoe_46
+  - first:
+      213: 1359164661079824852
+    second: Base Copper Hoe_47
+  - first:
+      213: -3583151955783018992
+    second: Base Copper Hoe_48
+  - first:
+      213: -956460079318959135
+    second: Base Copper Hoe_49
+  - first:
+      213: 2404353824008179964
+    second: Base Copper Hoe_50
+  - first:
+      213: 702628355658864759
+    second: Base Copper Hoe_51
+  - first:
+      213: 9180291909167419564
+    second: Base Copper Hoe_52
+  - first:
+      213: -9126944273545154385
+    second: Base Copper Hoe_53
+  - first:
+      213: 4289007027678367951
+    second: Base Copper Hoe_54
+  - first:
+      213: 3181866410770206674
+    second: Base Copper Hoe_55
+  - first:
+      213: -999360671578289520
+    second: Base Copper Hoe_56
+  - first:
+      213: -1520759573705042668
+    second: Base Copper Hoe_57
+  - first:
+      213: 3223712961149085916
+    second: Base Copper Hoe_58
+  - first:
+      213: -8458006110028728557
+    second: Base Copper Hoe_59
+  - first:
+      213: 8056294706812666552
+    second: Base Copper Hoe_60
+  - first:
+      213: 5845745040630107312
+    second: Base Copper Hoe_61
+  - first:
+      213: 8659911498685692967
+    second: Base Copper Hoe_62
+  - first:
+      213: 1143081537178364903
+    second: Base Copper Hoe_63
+  - first:
+      213: -3834419944567434509
+    second: Base Copper Hoe_64
+  - first:
+      213: 3397131938516682023
+    second: Base Copper Hoe_65
+  - first:
+      213: -5956351901011849700
+    second: Base Copper Hoe_66
+  - first:
+      213: -3529430744121433085
+    second: Base Copper Hoe_67
+  - first:
+      213: -2331023151679859481
+    second: Base Copper Hoe_68
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Base Copper Hoe_0
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 277
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df005414632a56590800000000000000
+      internalID: -7681555235503537923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Hoe_1
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 282
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c600edfb84358eda0800000000000000
+      internalID: -5915386538629398420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Hoe_2
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 282
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 049153dff9cad7c20800000000000000
+      internalID: 3205908312905554240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Hoe_3
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 280
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 238186c8ee37cd7f0800000000000000
+      internalID: -586466383069964238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Hoe_4
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 278
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 026f51490f1959350800000000000000
+      internalID: 6022880539140552224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Hoe_5
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 269
+        width: 9
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da71aeb2ab9bf4090800000000000000
+      internalID: -8048009799835969619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Hoe_6
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 278
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 086e29b86af05a460800000000000000
+      internalID: 7252219982930699904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Hoe_7
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 279
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68e9746d5a8a20a50800000000000000
+      internalID: 6485931843585023622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Hoe_8
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 278
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d3b72886bfba0410800000000000000
+      internalID: 1444177421214921687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Hoe_9
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 277
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06bda1b420de2cc90800000000000000
+      internalID: -7150892664205157536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Hoe_10
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 276
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86401b7f6f02e1c90800000000000000
+      internalID: -7197278909401856920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Hoe_11
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 275
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00aaab5e1b56e07f0800000000000000
+      internalID: -644465881929569792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Hoe_12
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 279
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a544e5691d6ddb60800000000000000
+      internalID: 7772488487762412969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Hoe_13
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 277
+        width: 168
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 571dc40df557e6090800000000000000
+      internalID: -8039359230432718475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Hoe_14
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 276
+        width: 86
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9d51d32581960450800000000000000
+      internalID: 6054686750063811994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Hoe_15
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 197
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6eef8f2850b69380800000000000000
+      internalID: -8964784115432821142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Hoe_16
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 201
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccfcdf046965c50f0800000000000000
+      internalID: -1126930603414007860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Hoe_17
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 203
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 551cfeccaa380fc70800000000000000
+      internalID: 9002840424719565141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Hoe_18
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 205
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b13b4bab0f1e25c20800000000000000
+      internalID: 3193863509799908123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Hoe_19
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 207
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5e699055e5ba4ef0800000000000000
+      internalID: -123086043294896549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Hoe_20
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 192
+        width: 9
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5ebab622674b6230800000000000000
+      internalID: 3633076011286576732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Hoe_21
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 178
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74a8733a18355c600800000000000000
+      internalID: 487887950893779527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Hoe_22
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 178
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebd7eeaac8d874520800000000000000
+      internalID: 2686271338052484542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Hoe_23
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 178
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e4c6e3a82d4ae360800000000000000
+      internalID: 7199651791248999650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Hoe_24
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 177
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47cd59c88eb86a290800000000000000
+      internalID: -7879456667130798988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Hoe_25
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 176
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84f7261b5a9f02f40800000000000000
+      internalID: 5701831618291990344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Hoe_26
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 175
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dfd17f8184d8a3a0800000000000000
+      internalID: -6653834796517433387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Hoe_27
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 178
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3ce335efca066e20800000000000000
+      internalID: 3343371661389065275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Hoe_28
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 178
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bde8cf0014f867a00800000000000000
+      internalID: 753947496983334619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Hoe_29
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 178
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdf45707e3ea4f790800000000000000
+      internalID: -7497175896467091492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Hoe_30
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 180
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c7d91b2c6a071de0800000000000000
+      internalID: -1362608902560426047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Hoe_31
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 182
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 943217d4ccb47a1c0800000000000000
+      internalID: -4492538762434108599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Hoe_32
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 187
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77ec926b1e85e3fb0800000000000000
+      internalID: -4666194437462176137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Hoe_33
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 125
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9d3edb7098ccd380800000000000000
+      internalID: -8945054236985639526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Hoe_34
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 122
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 993ff4d9c86c9aea0800000000000000
+      internalID: -5860935132809006183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Hoe_35
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 117
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33f439bbd085415f0800000000000000
+      internalID: -786907218878181581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Hoe_36
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 117
+        width: 37
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1da2e3248b52e8220800000000000000
+      internalID: 2489969117298043601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Hoe_37
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 109
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85fec9e7cb19c3380800000000000000
+      internalID: -8990150517374259368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Hoe_38
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 109
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45bdcbeefc0181820800000000000000
+      internalID: 2889077646207802196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Hoe_39
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 109
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21f8f17d1bee94320800000000000000
+      internalID: 2542825912213147410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Hoe_40
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 115
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d2e5f8e316135110800000000000000
+      internalID: 1248365796480377554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Hoe_41
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 113
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e5faea00fb813040800000000000000
+      internalID: 4625632155377792482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Hoe_42
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 112
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d3bc302b19b754c0800000000000000
+      internalID: -4298763793145744424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Hoe_43
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 108
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c3a99a81120a38b0800000000000000
+      internalID: -5171818947718569021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Hoe_44
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 107
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 524a61470c4894a80800000000000000
+      internalID: -8482102461059390427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Hoe_45
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 107
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e583862b39073e9b0800000000000000
+      internalID: -5052070577323886498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Hoe_46
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 109
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8285c29d24867100800000000000000
+      internalID: 105416972560597643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Hoe_47
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 109
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d95deede09bcd210800000000000000
+      internalID: 1359164661079824852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Hoe_48
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 109
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0169e43d746164ec0800000000000000
+      internalID: -3583151955783018992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Hoe_49
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 109
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ebf95a10a8f9b2f0800000000000000
+      internalID: -956460079318959135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Hoe_50
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 109
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf01c5a601bfd5120800000000000000
+      internalID: 2404353824008179964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Hoe_51
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 38
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 778d92c44cc30c900800000000000000
+      internalID: 702628355658864759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Hoe_52
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 38
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca011542ad2f66f70800000000000000
+      internalID: 9180291909167419564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Hoe_53
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 37
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa03e823a84965180800000000000000
+      internalID: -9126944273545154385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Hoe_54
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 33
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc05ce3ea2d958b30800000000000000
+      internalID: 4289007027678367951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Hoe_55
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 32
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2df84b074a2482c20800000000000000
+      internalID: 3181866410770206674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Hoe_56
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 37
+        width: 37
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09a841893ce8122f0800000000000000
+      internalID: -999360671578289520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Hoe_57
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 29
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 415598c993d25eae0800000000000000
+      internalID: -1520759573705042668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Hoe_58
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 29
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd82d13bbddecbc20800000000000000
+      internalID: 3223712961149085916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Hoe_59
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 29
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31777af51402f9a80800000000000000
+      internalID: -8458006110028728557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Hoe_60
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 28
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b2cd6d0a55bdcf60800000000000000
+      internalID: 8056294706812666552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Hoe_61
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 27
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bc42427422402150800000000000000
+      internalID: 5845745040630107312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Hoe_62
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 27
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72c3b7930af2e2870800000000000000
+      internalID: 8659911498685692967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Hoe_63
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 29
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ebe2dc0a9a0ddf00800000000000000
+      internalID: 1143081537178364903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Hoe_64
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 29
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f29264406769cac0800000000000000
+      internalID: -3834419944567434509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Hoe_65
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 29
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 725cb62df79052f20800000000000000
+      internalID: 3397131938516682023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Hoe_66
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 29
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1e47fe0189c65da0800000000000000
+      internalID: -5956351901011849700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Hoe_67
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 29
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 304ac4d1071f40fc0800000000000000
+      internalID: -3529430744121433085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Hoe_68
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 35
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e419e83bca86afd0800000000000000
+      internalID: -2331023151679859481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

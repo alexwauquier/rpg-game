@@ -1,0 +1,2280 @@
+fileFormatVersion: 2
+guid: 4f3bc392f1414cd4bb16457f471e42da
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8967755349640973044
+    second: Base Steel Hammer_0
+  - first:
+      213: -8573711080224491497
+    second: Base Steel Hammer_1
+  - first:
+      213: -1858947167408515067
+    second: Base Steel Hammer_2
+  - first:
+      213: 6445820444765757687
+    second: Base Steel Hammer_3
+  - first:
+      213: 8280069125514735930
+    second: Base Steel Hammer_4
+  - first:
+      213: 1293748312007259577
+    second: Base Steel Hammer_5
+  - first:
+      213: 3575829307042802273
+    second: Base Steel Hammer_6
+  - first:
+      213: -7176566719583852215
+    second: Base Steel Hammer_7
+  - first:
+      213: 3881749147400450719
+    second: Base Steel Hammer_8
+  - first:
+      213: -111920179797062448
+    second: Base Steel Hammer_9
+  - first:
+      213: 2302636042259510653
+    second: Base Steel Hammer_10
+  - first:
+      213: 3103364610142646421
+    second: Base Steel Hammer_11
+  - first:
+      213: 2627441952107369199
+    second: Base Steel Hammer_12
+  - first:
+      213: -7784260274080934258
+    second: Base Steel Hammer_13
+  - first:
+      213: 5634342315488464347
+    second: Base Steel Hammer_14
+  - first:
+      213: -1241943353566411992
+    second: Base Steel Hammer_15
+  - first:
+      213: -4796271165350107568
+    second: Base Steel Hammer_16
+  - first:
+      213: 2717552907609225967
+    second: Base Steel Hammer_17
+  - first:
+      213: 2775407580266046699
+    second: Base Steel Hammer_18
+  - first:
+      213: 3449479020361969315
+    second: Base Steel Hammer_19
+  - first:
+      213: 7084369143458661361
+    second: Base Steel Hammer_20
+  - first:
+      213: 6596889271137691819
+    second: Base Steel Hammer_21
+  - first:
+      213: -8314605456643045448
+    second: Base Steel Hammer_22
+  - first:
+      213: -609992393282707612
+    second: Base Steel Hammer_23
+  - first:
+      213: 3663070110473027193
+    second: Base Steel Hammer_24
+  - first:
+      213: -4554244223803872315
+    second: Base Steel Hammer_25
+  - first:
+      213: -2155995002779957271
+    second: Base Steel Hammer_26
+  - first:
+      213: -1178366704770144588
+    second: Base Steel Hammer_27
+  - first:
+      213: -1104128842853230177
+    second: Base Steel Hammer_28
+  - first:
+      213: 257989139960528148
+    second: Base Steel Hammer_29
+  - first:
+      213: -5097017184926435279
+    second: Base Steel Hammer_30
+  - first:
+      213: 6747674781223397863
+    second: Base Steel Hammer_31
+  - first:
+      213: -1430587008271257941
+    second: Base Steel Hammer_32
+  - first:
+      213: -7178492343038992166
+    second: Base Steel Hammer_33
+  - first:
+      213: 5353668694389120136
+    second: Base Steel Hammer_34
+  - first:
+      213: -9121330766053041086
+    second: Base Steel Hammer_35
+  - first:
+      213: -2121184913569869001
+    second: Base Steel Hammer_36
+  - first:
+      213: -7461469402809571658
+    second: Base Steel Hammer_37
+  - first:
+      213: -3849454027880247995
+    second: Base Steel Hammer_38
+  - first:
+      213: 4752035569280352472
+    second: Base Steel Hammer_39
+  - first:
+      213: -3231267652658000077
+    second: Base Steel Hammer_40
+  - first:
+      213: 4310472186228619442
+    second: Base Steel Hammer_41
+  - first:
+      213: 2467402944144098943
+    second: Base Steel Hammer_42
+  - first:
+      213: 5836736991632498557
+    second: Base Steel Hammer_43
+  - first:
+      213: -2339650479710217986
+    second: Base Steel Hammer_44
+  - first:
+      213: 3771082771991096721
+    second: Base Steel Hammer_45
+  - first:
+      213: -6911823022507764469
+    second: Base Steel Hammer_46
+  - first:
+      213: -6137523450482799245
+    second: Base Steel Hammer_47
+  - first:
+      213: 3544789141627480433
+    second: Base Steel Hammer_48
+  - first:
+      213: -598162267720378578
+    second: Base Steel Hammer_49
+  - first:
+      213: -9006919041589557892
+    second: Base Steel Hammer_50
+  - first:
+      213: 2551568415140515631
+    second: Base Steel Hammer_51
+  - first:
+      213: -2812179092003973989
+    second: Base Steel Hammer_52
+  - first:
+      213: 7702659772236827656
+    second: Base Steel Hammer_53
+  - first:
+      213: -2057603833508581105
+    second: Base Steel Hammer_54
+  - first:
+      213: 8112714113976791759
+    second: Base Steel Hammer_55
+  - first:
+      213: 7552843512776965375
+    second: Base Steel Hammer_56
+  - first:
+      213: 8627355629270787726
+    second: Base Steel Hammer_57
+  - first:
+      213: 53139493132572856
+    second: Base Steel Hammer_58
+  - first:
+      213: -520448334911293687
+    second: Base Steel Hammer_59
+  - first:
+      213: -5324093139723568899
+    second: Base Steel Hammer_60
+  - first:
+      213: 3256460446810542543
+    second: Base Steel Hammer_61
+  - first:
+      213: -2701978849173636449
+    second: Base Steel Hammer_62
+  - first:
+      213: -6863853541244308314
+    second: Base Steel Hammer_63
+  - first:
+      213: 8000498844233548582
+    second: Base Steel Hammer_64
+  - first:
+      213: 4382126295550713086
+    second: Base Steel Hammer_65
+  - first:
+      213: -6759640517499519094
+    second: Base Steel Hammer_66
+  - first:
+      213: 8968980643342909976
+    second: Base Steel Hammer_67
+  - first:
+      213: 1589998682126252718
+    second: Base Steel Hammer_68
+  - first:
+      213: 6912361200737296705
+    second: Base Steel Hammer_69
+  - first:
+      213: 213613353343749840
+    second: Base Steel Hammer_70
+  - first:
+      213: -977213623555124142
+    second: Base Steel Hammer_71
+  - first:
+      213: 3048464182072652262
+    second: Base Steel Hammer_72
+  - first:
+      213: 2023775810784813776
+    second: Base Steel Hammer_73
+  - first:
+      213: 3307713447877564542
+    second: Base Steel Hammer_74
+  - first:
+      213: 2419430655246385061
+    second: Base Steel Hammer_75
+  - first:
+      213: -7332659579155246949
+    second: Base Steel Hammer_76
+  - first:
+      213: 8925464406649203132
+    second: Base Steel Hammer_77
+  - first:
+      213: 4742259039680870550
+    second: Base Steel Hammer_78
+  - first:
+      213: 7999906467960984521
+    second: Base Steel Hammer_79
+  - first:
+      213: 3826860303279319627
+    second: Base Steel Hammer_80
+  - first:
+      213: 2918617560276425615
+    second: Base Steel Hammer_81
+  - first:
+      213: -2518867600032511104
+    second: Base Steel Hammer_82
+  - first:
+      213: -291612741195408141
+    second: Base Steel Hammer_83
+  - first:
+      213: -2074269148714611033
+    second: Base Steel Hammer_84
+  - first:
+      213: 3966859737419420142
+    second: Base Steel Hammer_85
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Base Steel Hammer_0
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 281
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c057a00d5022c8380800000000000000
+      internalID: -8967755349640973044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Hammer_1
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 276
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7187360b23f040980800000000000000
+      internalID: -8573711080224491497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Hammer_2
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 275
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 508956e7661b336e0800000000000000
+      internalID: -1858947167408515067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Hammer_3
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 279
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f0a6380b87247950800000000000000
+      internalID: 6445820444765757687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Hammer_4
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 280
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a313cfdfff6b8e270800000000000000
+      internalID: 8280069125514735930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Hammer_5
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 279
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b534f53c3154f110800000000000000
+      internalID: 1293748312007259577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Hammer_6
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 290
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16aa7b72fc5ef9130800000000000000
+      internalID: 3575829307042802273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Hammer_7
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 279
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94960547796b76c90800000000000000
+      internalID: -7176566719583852215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Hammer_8
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 281
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f92bafd784ebed530800000000000000
+      internalID: 3881749147400450719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Hammer_9
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 280
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dc8fff7031627ef0800000000000000
+      internalID: -111920179797062448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Hammer_10
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 281
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d75b3e1d74b94ff10800000000000000
+      internalID: 2302636042259510653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Hammer_11
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 281
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 590321cabad511b20800000000000000
+      internalID: 3103364610142646421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Hammer_12
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 272
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe2915fd88c867420800000000000000
+      internalID: 2627441952107369199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Hammer_13
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 268
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8698340680c8f390800000000000000
+      internalID: -7784260274080934258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Hammer_14
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 263
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdd44a1eb74313e40800000000000000
+      internalID: 5634342315488464347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Hammer_15
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 261
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 823448b991bb3cee0800000000000000
+      internalID: -1241943353566411992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Hammer_16
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 280
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 056abde69c8307db0800000000000000
+      internalID: -4796271165350107568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Hammer_17
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 260
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feab064a8ffa6b520800000000000000
+      internalID: 2717552907609225967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Hammer_18
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 257
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be42fa05d7a348620800000000000000
+      internalID: 2775407580266046699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Hammer_19
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 256
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ae66d494e20fdf20800000000000000
+      internalID: 3449479020361969315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Hammer_20
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 256
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f3879d833cb05260800000000000000
+      internalID: 7084369143458661361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Hammer_21
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 257
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba86fbc17dbdc8b50800000000000000
+      internalID: 6596889271137691819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Hammer_22
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 258
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b7444dc3669c9c80800000000000000
+      internalID: -8314605456643045448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Hammer_23
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 191
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46f91b2762fd887f0800000000000000
+      internalID: -609992393282707612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Hammer_24
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 198
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97e78129bd6d5d230800000000000000
+      internalID: 3663070110473027193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Hammer_25
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 201
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cbabc302031cc0c0800000000000000
+      internalID: -4554244223803872315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Hammer_26
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 202
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e788c9c7fd5412e0800000000000000
+      internalID: -2155995002779957271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Hammer_27
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 205
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b6270ba9b995afe0800000000000000
+      internalID: -1178366704770144588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Hammer_28
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 205
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f995877daa85da0f0800000000000000
+      internalID: -1104128842853230177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Hammer_29
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 206
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41d714381cf849300800000000000000
+      internalID: 257989139960528148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Hammer_30
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 202
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 138f56e10e1c349b0800000000000000
+      internalID: -5097017184926435279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Hammer_31
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 195
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e9aeaa767e84ad50800000000000000
+      internalID: 6747674781223397863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Hammer_32
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 192
+        width: 8
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baee3bf02b8852ce0800000000000000
+      internalID: -1430587008271257941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Hammer_33
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 181
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad0ac4e4f3fd06c90800000000000000
+      internalID: -7178492343038992166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Hammer_34
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 181
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88c5136005d0c4a40800000000000000
+      internalID: 5353668694389120136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Hammer_35
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 183
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24c1192cef58a6180800000000000000
+      internalID: -9121330766053041086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Hammer_36
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 184
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73310c34f890092e0800000000000000
+      internalID: -2121184913569869001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Hammer_37
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 186
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b6e6175c19837890800000000000000
+      internalID: -7461469402809571658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Hammer_38
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 180
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54d4009f4fdf39ac0800000000000000
+      internalID: -3849454027880247995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Hammer_39
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 180
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d00af24c2f92f140800000000000000
+      internalID: 4752035569280352472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Hammer_40
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 191
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33f0c1d903b3823d0800000000000000
+      internalID: -3231267652658000077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Hammer_41
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 181
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b8bb529d9fd1db30800000000000000
+      internalID: 4310472186228619442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Hammer_42
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 182
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f764673a7e9fd3220800000000000000
+      internalID: 2467402944144098943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Hammer_43
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 182
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7f13a99e51400150800000000000000
+      internalID: 5836736991632498557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Hammer_44
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 114
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef8dc42e844e78fd0800000000000000
+      internalID: -2339650479710217986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Hammer_45
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 125
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19def131dc3955430800000000000000
+      internalID: 3771082771991096721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Hammer_46
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 115
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b05de09d4954410a0800000000000000
+      internalID: -6911823022507764469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Hammer_47
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 109
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37dc75590f223daa0800000000000000
+      internalID: -6137523450482799245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Hammer_48
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 109
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1792e5671fe913130800000000000000
+      internalID: 3544789141627480433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Hammer_49
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 120
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e271c723696e2b7f0800000000000000
+      internalID: -598162267720378578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Hammer_50
+      rect:
+        serializedVersion: 2
+        x: 1373
+        y: 110
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c754a553adef00380800000000000000
+      internalID: -9006919041589557892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Hammer_51
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 111
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2f8e8c64fdf86320800000000000000
+      internalID: 2551568415140515631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Hammer_52
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 112
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b949250f30229f8d0800000000000000
+      internalID: -2812179092003973989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Hammer_53
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 112
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80c0edd904855ea60800000000000000
+      internalID: 7702659772236827656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Hammer_54
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 112
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f013d3f073ce173e0800000000000000
+      internalID: -2057603833508581105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Hammer_55
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 112
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc272efe086269070800000000000000
+      internalID: 8112714113976791759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Hammer_56
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 112
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffc3f2f782711d860800000000000000
+      internalID: 7552843512776965375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Hammer_57
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 112
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e86e6a13c368ab770800000000000000
+      internalID: 8627355629270787726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Hammer_58
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 112
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b816b3661accb000800000000000000
+      internalID: 53139493132572856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Hammer_59
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 112
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9073ba13ffef6c8f0800000000000000
+      internalID: -520448334911293687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Hammer_60
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 110
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df8bea76f750d16b0800000000000000
+      internalID: -5324093139723568899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Hammer_61
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 111
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc1904dd585413d20800000000000000
+      internalID: 3256460446810542543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Hammer_62
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 111
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9af2686d84a08ad0800000000000000
+      internalID: -2701978849173636449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Hammer_63
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 111
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a473db0291beb0a0800000000000000
+      internalID: -6863853541244308314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Hammer_64
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 112
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 623c6747f4b770f60800000000000000
+      internalID: 8000498844233548582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Hammer_65
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 31
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efcd237f5a070dc30800000000000000
+      internalID: 4382126295550713086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Hammer_66
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 30
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8f7a1173cee032a0800000000000000
+      internalID: -6759640517499519094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Hammer_67
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 31
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8120fcb1068387c70800000000000000
+      internalID: 8968980643342909976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Hammer_68
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 31
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaa7971906fc01610800000000000000
+      internalID: 1589998682126252718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Hammer_69
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 34
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 141a32983e3adef50800000000000000
+      internalID: 6912361200737296705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Hammer_70
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 40
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0de855d8638e6f200800000000000000
+      internalID: 213613353343749840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Hammer_71
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 35
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 254135a036d3072f0800000000000000
+      internalID: -977213623555124142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Hammer_72
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 29
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e131faa5025e4a20800000000000000
+      internalID: 3048464182072652262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Hammer_73
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 29
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d26bd2a065e51c10800000000000000
+      internalID: 2023775810784813776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Hammer_74
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 40
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7856871bdb57ed20800000000000000
+      internalID: 3307713447877564542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Hammer_75
+      rect:
+        serializedVersion: 2
+        x: 1403
+        y: 30
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5afb6acbc5b839120800000000000000
+      internalID: 2419430655246385061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Hammer_76
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 31
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b90169d76f82d3a90800000000000000
+      internalID: -7332659579155246949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Hammer_77
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 32
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb9e7b5b69e9ddb70800000000000000
+      internalID: 8925464406649203132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Hammer_78
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 30
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69830159873efc140800000000000000
+      internalID: 4742259039680870550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Hammer_79
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 30
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c31a2b1c80650f60800000000000000
+      internalID: 7999906467960984521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Hammer_80
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 30
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4ae1069b2dbb1530800000000000000
+      internalID: 3826860303279319627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Hammer_81
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 30
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8b5e732533018820800000000000000
+      internalID: 2918617560276425615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Hammer_82
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 30
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08b42d7634f2b0dd0800000000000000
+      internalID: -2518867600032511104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Hammer_83
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 30
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fcd115c1cbf3fbf0800000000000000
+      internalID: -291612741195408141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Hammer_84
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 31
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ae405ef237b633e0800000000000000
+      internalID: -2074269148714611033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Hammer_85
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 31
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee11fa2f9ed1d0730800000000000000
+      internalID: 3966859737419420142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

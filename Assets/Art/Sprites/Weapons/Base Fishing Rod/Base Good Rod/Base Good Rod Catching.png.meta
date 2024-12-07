@@ -1,0 +1,1305 @@
+fileFormatVersion: 2
+guid: c942db8aea0b6724aa8cd6ba75fb9215
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6422923269854019383
+    second: Base Good Rod Catching_0
+  - first:
+      213: -4589754992184447439
+    second: Base Good Rod Catching_1
+  - first:
+      213: -3763057211204982103
+    second: Base Good Rod Catching_2
+  - first:
+      213: -7330247663910450356
+    second: Base Good Rod Catching_3
+  - first:
+      213: -8210618958303428549
+    second: Base Good Rod Catching_4
+  - first:
+      213: 6593917080129660032
+    second: Base Good Rod Catching_5
+  - first:
+      213: 2093769160045641756
+    second: Base Good Rod Catching_6
+  - first:
+      213: -2282737991959563103
+    second: Base Good Rod Catching_7
+  - first:
+      213: -1265547910691676273
+    second: Base Good Rod Catching_8
+  - first:
+      213: 5600064563321846595
+    second: Base Good Rod Catching_9
+  - first:
+      213: 7383275091130695561
+    second: Base Good Rod Catching_10
+  - first:
+      213: -4730376396254497174
+    second: Base Good Rod Catching_11
+  - first:
+      213: -3404863296029238499
+    second: Base Good Rod Catching_12
+  - first:
+      213: -5920620783133817158
+    second: Base Good Rod Catching_13
+  - first:
+      213: 1105835216609431609
+    second: Base Good Rod Catching_14
+  - first:
+      213: -9183871387901831912
+    second: Base Good Rod Catching_15
+  - first:
+      213: -4128280350636731612
+    second: Base Good Rod Catching_16
+  - first:
+      213: 2069750473869386738
+    second: Base Good Rod Catching_17
+  - first:
+      213: -2239901633131283123
+    second: Base Good Rod Catching_18
+  - first:
+      213: 6456923317919768509
+    second: Base Good Rod Catching_19
+  - first:
+      213: 8074520159820964412
+    second: Base Good Rod Catching_20
+  - first:
+      213: -5853379971888503575
+    second: Base Good Rod Catching_21
+  - first:
+      213: 8612299412268933307
+    second: Base Good Rod Catching_22
+  - first:
+      213: -5079894705282953378
+    second: Base Good Rod Catching_23
+  - first:
+      213: 1861322344630150407
+    second: Base Good Rod Catching_24
+  - first:
+      213: 7056223572153289831
+    second: Base Good Rod Catching_25
+  - first:
+      213: -5965849707161768755
+    second: Base Good Rod Catching_26
+  - first:
+      213: -6982091308615514144
+    second: Base Good Rod Catching_27
+  - first:
+      213: 5659176871872123820
+    second: Base Good Rod Catching_28
+  - first:
+      213: 1387770375801228021
+    second: Base Good Rod Catching_29
+  - first:
+      213: -4392617699714441178
+    second: Base Good Rod Catching_30
+  - first:
+      213: 4463203726463062110
+    second: Base Good Rod Catching_31
+  - first:
+      213: 635720473205717233
+    second: Base Good Rod Catching_32
+  - first:
+      213: 2091332731993759209
+    second: Base Good Rod Catching_33
+  - first:
+      213: 4515025321631067435
+    second: Base Good Rod Catching_34
+  - first:
+      213: 5724029744269597546
+    second: Base Good Rod Catching_35
+  - first:
+      213: -389098021738027073
+    second: Base Good Rod Catching_36
+  - first:
+      213: 70817059854258385
+    second: Base Good Rod Catching_37
+  - first:
+      213: -2903569969132036006
+    second: Base Good Rod Catching_38
+  - first:
+      213: -6990230578239112622
+    second: Base Good Rod Catching_39
+  - first:
+      213: -5467539958655558010
+    second: Base Good Rod Catching_40
+  - first:
+      213: -3384159910559762866
+    second: Base Good Rod Catching_41
+  - first:
+      213: -4431748072774731971
+    second: Base Good Rod Catching_42
+  - first:
+      213: 318760747145449190
+    second: Base Good Rod Catching_43
+  - first:
+      213: 5126066030051990065
+    second: Base Good Rod Catching_44
+  - first:
+      213: -283398600721549359
+    second: Base Good Rod Catching_45
+  - first:
+      213: 6334903995093917787
+    second: Base Good Rod Catching_46
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Base Good Rod Catching_0
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 284
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73f3d3f0faec22950800000000000000
+      internalID: 6422923269854019383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Good Rod Catching_1
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 286
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13e25c4f62aed40c0800000000000000
+      internalID: -4589754992184447439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Good Rod Catching_2
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 285
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aaa7a8676fe6cbc0800000000000000
+      internalID: -3763057211204982103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Good Rod Catching_3
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 284
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4b0bf4469ab54a90800000000000000
+      internalID: -7330247663910450356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Good Rod Catching_4
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 284
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b308c342f850e0e80800000000000000
+      internalID: -8210618958303428549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Good Rod Catching_5
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 295
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0846287f5ac428b50800000000000000
+      internalID: 6593917080129660032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Good Rod Catching_6
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 282
+        width: 11
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c10403235ff8e0d10800000000000000
+      internalID: 2093769160045641756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Good Rod Catching_7
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 282
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a436f904e51250e0800000000000000
+      internalID: -2282737991959563103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Good Rod Catching_8
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 282
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8f1cf061eedf6ee0800000000000000
+      internalID: -1265547910691676273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Good Rod Catching_9
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 282
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34b3d08cc0d67bd40800000000000000
+      internalID: 5600064563321846595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Good Rod Catching_10
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 282
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98fb5ddb399a67660800000000000000
+      internalID: 7383275091130695561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Good Rod Catching_11
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 180
+        width: 7
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a66bb5feab35a5eb0800000000000000
+      internalID: -4730376396254497174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Good Rod Catching_12
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 180
+        width: 7
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1b596b3fde7fb0d0800000000000000
+      internalID: -3404863296029238499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Good Rod Catching_13
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 180
+        width: 8
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab6838b34cab5dda0800000000000000
+      internalID: -5920620783133817158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Good Rod Catching_14
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 180
+        width: 9
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9305f124547b85f00800000000000000
+      internalID: 1105835216609431609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Good Rod Catching_15
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 189
+        width: 8
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 815dc3581a55c8080800000000000000
+      internalID: -9183871387901831912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Good Rod Catching_16
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 199
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4239217c4e665b6c0800000000000000
+      internalID: -4128280350636731612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Good Rod Catching_17
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 182
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f36ea8071b39bc10800000000000000
+      internalID: 2069750473869386738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Good Rod Catching_18
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 181
+        width: 19
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4d746905554ae0e0800000000000000
+      internalID: -2239901633131283123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Good Rod Catching_19
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 200
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbf5b822c899b9950800000000000000
+      internalID: 6456923317919768509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Good Rod Catching_20
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 200
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c32ebd10e457e0070800000000000000
+      internalID: 8074520159820964412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Good Rod Catching_21
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 180
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e423389ded94cea0800000000000000
+      internalID: -5853379971888503575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Good Rod Catching_22
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 182
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb0689f7fa8058770800000000000000
+      internalID: 8612299412268933307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Good Rod Catching_23
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 100
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5fc8331ea69089b0800000000000000
+      internalID: -5079894705282953378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Good Rod Catching_24
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 100
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7056d2c8fceb4d910800000000000000
+      internalID: 1861322344630150407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Good Rod Catching_25
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 100
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76c4fe114fdbce160800000000000000
+      internalID: 7056223572153289831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Good Rod Catching_26
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 100
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcc214dbc4b053da0800000000000000
+      internalID: -5965849707161768755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Good Rod Catching_27
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 100
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e741a092f0aa1f90800000000000000
+      internalID: -6982091308615514144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Good Rod Catching_28
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 110
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca35b01a16f698e40800000000000000
+      internalID: 5659176871872123820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Good Rod Catching_29
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 102
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fa4177ddc9524310800000000000000
+      internalID: 1387770375801228021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Good Rod Catching_30
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 117
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6206d66a9794a03c0800000000000000
+      internalID: -4392617699714441178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Good Rod Catching_31
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 102
+        width: 45
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e50d704642c70fd30800000000000000
+      internalID: 4463203726463062110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Good Rod Catching_32
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 101
+        width: 48
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f8bed5f66882d800800000000000000
+      internalID: 635720473205717233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Good Rod Catching_33
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 123
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ed92a51a08e50d10800000000000000
+      internalID: 2091332731993759209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Good Rod Catching_34
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 123
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2da6bfbb9798ae30800000000000000
+      internalID: 4515025321631067435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Good Rod Catching_35
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 20
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6b95f6a9b6df6f40800000000000000
+      internalID: 5724029744269597546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Good Rod Catching_36
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 20
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb76f772965a99af0800000000000000
+      internalID: -389098021738027073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Good Rod Catching_37
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 20
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d096a0adb79bf000800000000000000
+      internalID: 70817059854258385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Good Rod Catching_38
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 20
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a50a4613f7274b7d0800000000000000
+      internalID: -2903569969132036006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Good Rod Catching_39
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 30
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25afbfd2356bdfe90800000000000000
+      internalID: -6990230578239112622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Good Rod Catching_40
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 37
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68ed41930656f14b0800000000000000
+      internalID: -5467539958655558010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Good Rod Catching_41
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 22
+        width: 45
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e46b7fbcd7c0901d0800000000000000
+      internalID: -3384159910559762866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Good Rod Catching_42
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 21
+        width: 48
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d377d34bb944f72c0800000000000000
+      internalID: -4431748072774731971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Good Rod Catching_43
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 37
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ee41fde5377c6400800000000000000
+      internalID: 318760747145449190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Good Rod Catching_44
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 37
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13a127035e1732740800000000000000
+      internalID: 5126066030051990065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Good Rod Catching_45
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 20
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d73622697a211cf0800000000000000
+      internalID: -283398600721549359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Good Rod Catching_46
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 22
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b50a6c9ae991ae750800000000000000
+      internalID: 6334903995093917787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

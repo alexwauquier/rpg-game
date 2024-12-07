@@ -1,0 +1,1605 @@
+fileFormatVersion: 2
+guid: 5e9f72c485e58c042a4df9b5f90329bf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5906598490644684419
+    second: Base Good Rod Casting_0
+  - first:
+      213: 1328161141813202966
+    second: Base Good Rod Casting_1
+  - first:
+      213: 7403195637978305427
+    second: Base Good Rod Casting_2
+  - first:
+      213: -4259239774123811574
+    second: Base Good Rod Casting_3
+  - first:
+      213: 1322400277424347002
+    second: Base Good Rod Casting_4
+  - first:
+      213: 5055368010126589365
+    second: Base Good Rod Casting_5
+  - first:
+      213: -8651544781719517366
+    second: Base Good Rod Casting_6
+  - first:
+      213: -7627193353212123895
+    second: Base Good Rod Casting_7
+  - first:
+      213: -4576787999856938345
+    second: Base Good Rod Casting_8
+  - first:
+      213: 1614459842522708400
+    second: Base Good Rod Casting_9
+  - first:
+      213: -1009733951707554109
+    second: Base Good Rod Casting_10
+  - first:
+      213: -4263758968001257650
+    second: Base Good Rod Casting_11
+  - first:
+      213: 9132475761236798500
+    second: Base Good Rod Casting_12
+  - first:
+      213: -7100210094012732105
+    second: Base Good Rod Casting_13
+  - first:
+      213: -1510195620919689068
+    second: Base Good Rod Casting_14
+  - first:
+      213: -458317618345054060
+    second: Base Good Rod Casting_15
+  - first:
+      213: -1522664460436113510
+    second: Base Good Rod Casting_16
+  - first:
+      213: -8932052273931117943
+    second: Base Good Rod Casting_17
+  - first:
+      213: 8737801565054756453
+    second: Base Good Rod Casting_18
+  - first:
+      213: 9086046653939772268
+    second: Base Good Rod Casting_19
+  - first:
+      213: -8300010698993064694
+    second: Base Good Rod Casting_20
+  - first:
+      213: -204253950260621152
+    second: Base Good Rod Casting_21
+  - first:
+      213: -5880954568718936601
+    second: Base Good Rod Casting_22
+  - first:
+      213: 2856741300316738586
+    second: Base Good Rod Casting_23
+  - first:
+      213: -1605523799138952825
+    second: Base Good Rod Casting_24
+  - first:
+      213: 4929486454251377972
+    second: Base Good Rod Casting_25
+  - first:
+      213: 818375618972531074
+    second: Base Good Rod Casting_26
+  - first:
+      213: -234860507086246771
+    second: Base Good Rod Casting_27
+  - first:
+      213: 1938530976205204280
+    second: Base Good Rod Casting_28
+  - first:
+      213: 5438664033084745646
+    second: Base Good Rod Casting_29
+  - first:
+      213: 1330156267277949162
+    second: Base Good Rod Casting_30
+  - first:
+      213: -3633986470641047518
+    second: Base Good Rod Casting_31
+  - first:
+      213: -4998893781729901013
+    second: Base Good Rod Casting_32
+  - first:
+      213: 5540266134207829772
+    second: Base Good Rod Casting_33
+  - first:
+      213: 1826716686895600154
+    second: Base Good Rod Casting_34
+  - first:
+      213: -1555957562651993090
+    second: Base Good Rod Casting_35
+  - first:
+      213: -680057791384636244
+    second: Base Good Rod Casting_36
+  - first:
+      213: -7537578482576085929
+    second: Base Good Rod Casting_37
+  - first:
+      213: -1635519287094711255
+    second: Base Good Rod Casting_38
+  - first:
+      213: -454877711494376461
+    second: Base Good Rod Casting_39
+  - first:
+      213: -2566273561601418242
+    second: Base Good Rod Casting_40
+  - first:
+      213: 2721968710646511239
+    second: Base Good Rod Casting_41
+  - first:
+      213: 5876867450035380711
+    second: Base Good Rod Casting_42
+  - first:
+      213: -8517865828645046305
+    second: Base Good Rod Casting_43
+  - first:
+      213: -7926446289319603898
+    second: Base Good Rod Casting_44
+  - first:
+      213: -9142066055006860614
+    second: Base Good Rod Casting_45
+  - first:
+      213: 8440660046044679309
+    second: Base Good Rod Casting_46
+  - first:
+      213: -1818720451958944355
+    second: Base Good Rod Casting_47
+  - first:
+      213: -6620690625300006111
+    second: Base Good Rod Casting_48
+  - first:
+      213: 3846721512671634453
+    second: Base Good Rod Casting_49
+  - first:
+      213: -1782364539119352754
+    second: Base Good Rod Casting_50
+  - first:
+      213: 3740068758878567264
+    second: Base Good Rod Casting_51
+  - first:
+      213: -804508284300574793
+    second: Base Good Rod Casting_52
+  - first:
+      213: -2887479328133203474
+    second: Base Good Rod Casting_53
+  - first:
+      213: 3376043248152317105
+    second: Base Good Rod Casting_54
+  - first:
+      213: 4122826111418415272
+    second: Base Good Rod Casting_55
+  - first:
+      213: -8385404806825940243
+    second: Base Good Rod Casting_56
+  - first:
+      213: -3688395750785409044
+    second: Base Good Rod Casting_57
+  - first:
+      213: 944265193158053039
+    second: Base Good Rod Casting_58
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Base Good Rod Casting_0
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 196
+        width: 7
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d71e34e97fb870ea0800000000000000
+      internalID: -5906598490644684419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Good Rod Casting_1
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 281
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 610d04685839e6210800000000000000
+      internalID: 1328161141813202966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Good Rod Casting_2
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 284
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3931b6c753f6db660800000000000000
+      internalID: 7403195637978305427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Good Rod Casting_3
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 286
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0d922aedf324e4c0800000000000000
+      internalID: -4259239774123811574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Good Rod Casting_4
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 286
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7791c2cb0c1a5210800000000000000
+      internalID: 1322400277424347002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Good Rod Casting_5
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 284
+        width: 12
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bdf774bb66482640800000000000000
+      internalID: 5055368010126589365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Good Rod Casting_6
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 284
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a47493fdbd98fe780800000000000000
+      internalID: -8651544781719517366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Good Rod Casting_7
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 285
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 905229c4e04c62690800000000000000
+      internalID: -7627193353212123895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Good Rod Casting_8
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 285
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 792b140209bfb70c0800000000000000
+      internalID: -4576787999856938345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Good Rod Casting_9
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 285
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b9f2b94ca6b76610800000000000000
+      internalID: 1614459842522708400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Good Rod Casting_10
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 285
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ced1da1254bcf1f0800000000000000
+      internalID: -1009733951707554109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Good Rod Casting_11
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 285
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4f16681fc514d4c0800000000000000
+      internalID: -4263758968001257650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Good Rod Casting_12
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 285
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42c6264a1521dbe70800000000000000
+      internalID: 9132475761236798500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Good Rod Casting_13
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 285
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73d6abbb98cf67d90800000000000000
+      internalID: -7100210094012732105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Good Rod Casting_14
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 285
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4904bb98515ba0be0800000000000000
+      internalID: -1510195620919689068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Good Rod Casting_15
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 198
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4907d3ced8ab3a9f0800000000000000
+      internalID: -458317618345054060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Good Rod Casting_16
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 200
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a97f79b9db86edae0800000000000000
+      internalID: -1522664460436113510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Good Rod Casting_17
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 204
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98a9d19e7c9fa0480800000000000000
+      internalID: -8932052273931117943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Good Rod Casting_18
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 204
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 566e0f28a38e24970800000000000000
+      internalID: 8737801565054756453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Good Rod Casting_19
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 196
+        width: 13
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6be4b4ba4f181e70800000000000000
+      internalID: 9086046653939772268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Good Rod Casting_20
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 196
+        width: 10
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a05a39e9e3070dc80800000000000000
+      internalID: -8300010698993064694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Good Rod Casting_21
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 195
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a0deba4d185a2df0800000000000000
+      internalID: -204253950260621152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Good Rod Casting_22
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 196
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e51c477af6a26ea0800000000000000
+      internalID: -5880954568718936601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Good Rod Casting_23
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 183
+        width: 7
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a141194b31f25a720800000000000000
+      internalID: 2856741300316738586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Good Rod Casting_24
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 178
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78913e17c9808b9e0800000000000000
+      internalID: -1605523799138952825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Good Rod Casting_25
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 179
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 435d0c600dd096440800000000000000
+      internalID: 4929486454251377972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Good Rod Casting_26
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 179
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 289b2bd1a447b5b00800000000000000
+      internalID: 818375618972531074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Good Rod Casting_27
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 180
+        width: 7
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8c2b57fc9b9dbcf0800000000000000
+      internalID: -234860507086246771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Good Rod Casting_28
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 180
+        width: 7
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83b6dcee6ab07ea10800000000000000
+      internalID: 1938530976205204280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Good Rod Casting_29
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 114
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea7a5b07f140a7b40800000000000000
+      internalID: 5438664033084745646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Good Rod Casting_30
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 120
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae89cded31aa57210800000000000000
+      internalID: 1330156267277949162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Good Rod Casting_31
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 122
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2286dd20f8c719dc0800000000000000
+      internalID: -3633986470641047518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Good Rod Casting_32
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 121
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b26841e379c50aab0800000000000000
+      internalID: -4998893781729901013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Good Rod Casting_33
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 121
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c07959a02baf2ec40800000000000000
+      internalID: 5540266134207829772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Good Rod Casting_34
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 116
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a12d0bbf52dc95910800000000000000
+      internalID: 1826716686895600154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Good Rod Casting_35
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 114
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efb9b8037d0286ae0800000000000000
+      internalID: -1555957562651993090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Good Rod Casting_36
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 114
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca438c5ba03ff86f0800000000000000
+      internalID: -680057791384636244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Good Rod Casting_37
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 111
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75cac6f4e44256790800000000000000
+      internalID: -7537578482576085929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Good Rod Casting_38
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 100
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92c6b6dafd77d49e0800000000000000
+      internalID: -1635519287094711255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Good Rod Casting_39
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 98
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f39226a123ffa9f0800000000000000
+      internalID: -454877711494376461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Good Rod Casting_40
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 99
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efb554cdac3c26cd0800000000000000
+      internalID: -2566273561601418242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Good Rod Casting_41
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 99
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78630d7ee1066c520800000000000000
+      internalID: 2721968710646511239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Good Rod Casting_42
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 100
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e12a6f0fc3de8150800000000000000
+      internalID: 5876867450035380711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Good Rod Casting_43
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 100
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd77c2f88267ac980800000000000000
+      internalID: -8517865828645046305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Good Rod Casting_44
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 34
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64154e1981b9ff190800000000000000
+      internalID: -7926446289319603898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Good Rod Casting_45
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 38
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abac8261c5bd02180800000000000000
+      internalID: -9142066055006860614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Good Rod Casting_46
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 41
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8c4352679f332570800000000000000
+      internalID: 8440660046044679309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Good Rod Casting_47
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 41
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9dcf3b826b92c6e0800000000000000
+      internalID: -1818720451958944355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Good Rod Casting_48
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 41
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12bfb3744f49e14a0800000000000000
+      internalID: -6620690625300006111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Good Rod Casting_49
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 36
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51465a0c5dc426530800000000000000
+      internalID: 3846721512671634453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Good Rod Casting_50
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 34
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e44c98125e4c347e0800000000000000
+      internalID: -1782364539119352754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Good Rod Casting_51
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 34
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06b3e7078b467e330800000000000000
+      internalID: 3740068758878567264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Good Rod Casting_52
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 31
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bfb7675affc5d4f0800000000000000
+      internalID: -804508284300574793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Good Rod Casting_53
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 20
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee9365e79dc9de7d0800000000000000
+      internalID: -2887479328133203474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Good Rod Casting_54
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 18
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bc8978727d1ade20800000000000000
+      internalID: 3376043248152317105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Good Rod Casting_55
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 19
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a8bcc13188373930800000000000000
+      internalID: 4122826111418415272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Good Rod Casting_56
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 19
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dea694781ce01ab80800000000000000
+      internalID: -8385404806825940243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Good Rod Casting_57
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 20
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cef106b4b9f20dcc0800000000000000
+      internalID: -3688395750785409044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Good Rod Casting_58
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 20
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fac83f3b034ba1d00800000000000000
+      internalID: 944265193158053039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

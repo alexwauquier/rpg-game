@@ -1,0 +1,1605 @@
+fileFormatVersion: 2
+guid: 4fa4a959c81fb314c81aae89e8118ce1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7501667943644252347
+    second: Base Teal Rod Casting_0
+  - first:
+      213: 4870124633323095168
+    second: Base Teal Rod Casting_1
+  - first:
+      213: 3965661724679037975
+    second: Base Teal Rod Casting_2
+  - first:
+      213: -2087028806415857113
+    second: Base Teal Rod Casting_3
+  - first:
+      213: -6090357568799465194
+    second: Base Teal Rod Casting_4
+  - first:
+      213: -6005402254195560519
+    second: Base Teal Rod Casting_5
+  - first:
+      213: 7244036816844360905
+    second: Base Teal Rod Casting_6
+  - first:
+      213: 7305964228075002432
+    second: Base Teal Rod Casting_7
+  - first:
+      213: -7562162385088213846
+    second: Base Teal Rod Casting_8
+  - first:
+      213: 6859647854900865139
+    second: Base Teal Rod Casting_9
+  - first:
+      213: 6499314172442516251
+    second: Base Teal Rod Casting_10
+  - first:
+      213: 4445425687448709049
+    second: Base Teal Rod Casting_11
+  - first:
+      213: -6265046856400755689
+    second: Base Teal Rod Casting_12
+  - first:
+      213: 7192970537032239603
+    second: Base Teal Rod Casting_13
+  - first:
+      213: 2503107941504813873
+    second: Base Teal Rod Casting_14
+  - first:
+      213: -1715705932657332842
+    second: Base Teal Rod Casting_15
+  - first:
+      213: -210655179361471103
+    second: Base Teal Rod Casting_16
+  - first:
+      213: 1354028146055150988
+    second: Base Teal Rod Casting_17
+  - first:
+      213: 8654124757973070615
+    second: Base Teal Rod Casting_18
+  - first:
+      213: -527986331145655097
+    second: Base Teal Rod Casting_19
+  - first:
+      213: 3669388676636200073
+    second: Base Teal Rod Casting_20
+  - first:
+      213: 2341879675707346676
+    second: Base Teal Rod Casting_21
+  - first:
+      213: 7283099373516976628
+    second: Base Teal Rod Casting_22
+  - first:
+      213: 5168078698463893103
+    second: Base Teal Rod Casting_23
+  - first:
+      213: 2929047672127541784
+    second: Base Teal Rod Casting_24
+  - first:
+      213: 2560532019329760636
+    second: Base Teal Rod Casting_25
+  - first:
+      213: -741259329726215483
+    second: Base Teal Rod Casting_26
+  - first:
+      213: -2263949194147031422
+    second: Base Teal Rod Casting_27
+  - first:
+      213: 7308958450696566346
+    second: Base Teal Rod Casting_28
+  - first:
+      213: -7335060709500532532
+    second: Base Teal Rod Casting_29
+  - first:
+      213: -8624167613341925180
+    second: Base Teal Rod Casting_30
+  - first:
+      213: -7468197705918005062
+    second: Base Teal Rod Casting_31
+  - first:
+      213: 8242450476919034970
+    second: Base Teal Rod Casting_32
+  - first:
+      213: -3914802564169187357
+    second: Base Teal Rod Casting_33
+  - first:
+      213: -2011920741553336099
+    second: Base Teal Rod Casting_34
+  - first:
+      213: -5886725800584323394
+    second: Base Teal Rod Casting_35
+  - first:
+      213: -4894537369725901824
+    second: Base Teal Rod Casting_36
+  - first:
+      213: 6602285765312579979
+    second: Base Teal Rod Casting_37
+  - first:
+      213: 7653681290274071788
+    second: Base Teal Rod Casting_38
+  - first:
+      213: 6251929671899471886
+    second: Base Teal Rod Casting_39
+  - first:
+      213: -7259336183171510167
+    second: Base Teal Rod Casting_40
+  - first:
+      213: 8463571384310917414
+    second: Base Teal Rod Casting_41
+  - first:
+      213: 2382651777154428672
+    second: Base Teal Rod Casting_42
+  - first:
+      213: -625262346085229999
+    second: Base Teal Rod Casting_43
+  - first:
+      213: -4925552129906294464
+    second: Base Teal Rod Casting_44
+  - first:
+      213: 3436644776468484796
+    second: Base Teal Rod Casting_45
+  - first:
+      213: -4505833508631402694
+    second: Base Teal Rod Casting_46
+  - first:
+      213: 8501358668846261225
+    second: Base Teal Rod Casting_47
+  - first:
+      213: 7369230494693256271
+    second: Base Teal Rod Casting_48
+  - first:
+      213: -1900834754586933793
+    second: Base Teal Rod Casting_49
+  - first:
+      213: 5363529769637948449
+    second: Base Teal Rod Casting_50
+  - first:
+      213: -4328121199525764501
+    second: Base Teal Rod Casting_51
+  - first:
+      213: -5267175400921325658
+    second: Base Teal Rod Casting_52
+  - first:
+      213: 7042364029918334167
+    second: Base Teal Rod Casting_53
+  - first:
+      213: 2667573150987055190
+    second: Base Teal Rod Casting_54
+  - first:
+      213: 1556874455306852869
+    second: Base Teal Rod Casting_55
+  - first:
+      213: 7004447907000130109
+    second: Base Teal Rod Casting_56
+  - first:
+      213: 2932012785097165315
+    second: Base Teal Rod Casting_57
+  - first:
+      213: 8527621412913427236
+    second: Base Teal Rod Casting_58
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Base Teal Rod Casting_0
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 196
+        width: 7
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb8c9dbcf374b1860800000000000000
+      internalID: 7501667943644252347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Rod Casting_1
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 281
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0844a1d0d88269340800000000000000
+      internalID: 4870124633323095168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Rod Casting_2
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 284
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7146bded35cd80730800000000000000
+      internalID: 3965661724679037975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Rod Casting_3
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 286
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72a439dab526903e0800000000000000
+      internalID: -2087028806415857113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Rod Casting_4
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 286
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 611a89c2f04ba7ba0800000000000000
+      internalID: -6090357568799465194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Rod Casting_5
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 284
+        width: 12
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bfe751c77688aca0800000000000000
+      internalID: -6005402254195560519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Rod Casting_6
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 284
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cc0cd7ba1df78460800000000000000
+      internalID: 7244036816844360905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Rod Casting_7
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 285
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04a1f1cb1cff36560800000000000000
+      internalID: 7305964228075002432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Rod Casting_8
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 285
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aac0ff6706dcd0790800000000000000
+      internalID: -7562162385088213846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Rod Casting_9
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 285
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 378e2ab416d523f50800000000000000
+      internalID: 6859647854900865139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Rod Casting_10
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 285
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1b19141ec3323a50800000000000000
+      internalID: 6499314172442516251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Rod Casting_11
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 285
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b7e6cf1c1351bd30800000000000000
+      internalID: 4445425687448709049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Rod Casting_12
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 285
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7142e07e3151e09a0800000000000000
+      internalID: -6265046856400755689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Rod Casting_13
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 285
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f948abe79092d360800000000000000
+      internalID: 7192970537032239603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Rod Casting_14
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 285
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13b8ad72963dcb220800000000000000
+      internalID: 2503107941504813873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Rod Casting_15
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 198
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69dede06b869038e0800000000000000
+      internalID: -1715705932657332842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Rod Casting_16
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 200
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18530100b3a931df0800000000000000
+      internalID: -210655179361471103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Rod Casting_17
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 204
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8d7f75cc697ac210800000000000000
+      internalID: 1354028146055150988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Rod Casting_18
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 204
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 713f5e8ad90a91870800000000000000
+      internalID: 8654124757973070615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Rod Casting_19
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 196
+        width: 13
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cc2dcdaa373ca8f0800000000000000
+      internalID: -527986331145655097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Rod Casting_20
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 196
+        width: 10
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98ccdb56f894ce230800000000000000
+      internalID: 3669388676636200073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Rod Casting_21
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 195
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fe4e314827008020800000000000000
+      internalID: 2341879675707346676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Rod Casting_22
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 196
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f1795eea44c21560800000000000000
+      internalID: 7283099373516976628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Rod Casting_23
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 183
+        width: 7
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f661431d134b8b740800000000000000
+      internalID: 5168078698463893103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Rod Casting_24
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 178
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 812d85bc65116a820800000000000000
+      internalID: 2929047672127541784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Rod Casting_25
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 179
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7df9282e46d88320800000000000000
+      internalID: 2560532019329760636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Rod Casting_26
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 179
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ca8935219486b5f0800000000000000
+      internalID: -741259329726215483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Rod Casting_27
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 180
+        width: 7
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 286955de336d490e0800000000000000
+      internalID: -2263949194147031422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Rod Casting_28
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 180
+        width: 7
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a46bbd38cf2ae6560800000000000000
+      internalID: 7308958450696566346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Rod Casting_29
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 114
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc8cb44c521a43a90800000000000000
+      internalID: -7335060709500532532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Rod Casting_30
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 120
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c0835b9f3dc05880800000000000000
+      internalID: -8624167613341925180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Rod Casting_31
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 122
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab0ce5231c1ab5890800000000000000
+      internalID: -7468197705918005062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Rod Casting_32
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 121
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a541283d901136270800000000000000
+      internalID: 8242450476919034970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Rod Casting_33
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 121
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ef38e43fc3dba9c0800000000000000
+      internalID: -3914802564169187357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Rod Casting_34
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 116
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd01973ceb83414e0800000000000000
+      internalID: -2011920741553336099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Rod Casting_35
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 114
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebe5b06d2162e4ea0800000000000000
+      internalID: -5886725800584323394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Rod Casting_36
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 114
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 004ec91d13c131cb0800000000000000
+      internalID: -4894537369725901824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Rod Casting_37
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 111
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8903135ce700ab50800000000000000
+      internalID: 6602285765312579979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Rod Casting_38
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 100
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce4e6d22596573a60800000000000000
+      internalID: 7653681290274071788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Rod Casting_39
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 98
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e00ea4699e053c650800000000000000
+      internalID: 6251929671899471886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Rod Casting_40
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 99
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9601ce8f338a14b90800000000000000
+      internalID: -7259336183171510167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Rod Casting_41
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 99
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62963050555a47570800000000000000
+      internalID: 8463571384310917414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Rod Casting_42
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 100
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00f2eb0ea21e01120800000000000000
+      internalID: 2382651777154428672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Rod Casting_43
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 100
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15a9922853f9257f0800000000000000
+      internalID: -625262346085229999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Rod Casting_44
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 34
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 041444e3f6ce4abb0800000000000000
+      internalID: -4925552129906294464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Rod Casting_45
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 38
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb21b90573a61bf20800000000000000
+      internalID: 3436644776468484796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Rod Casting_46
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 41
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3729fcfb401871c0800000000000000
+      internalID: -4505833508631402694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Rod Casting_47
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 41
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e3e4cccaa4eaf570800000000000000
+      internalID: 8501358668846261225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Rod Casting_48
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 41
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4cea205714c44660800000000000000
+      internalID: 7369230494693256271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Rod Casting_49
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 36
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd5012c9cd0ee95e0800000000000000
+      internalID: -1900834754586933793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Rod Casting_50
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 34
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12ca08588e51f6a40800000000000000
+      internalID: 5363529769637948449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Rod Casting_51
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 34
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b62ed6d43bc6fe3c0800000000000000
+      internalID: -4328121199525764501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Rod Casting_52
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 31
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6af986a21eb37e6b0800000000000000
+      internalID: -5267175400921325658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Rod Casting_53
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 20
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dc454ee5c08bb160800000000000000
+      internalID: 7042364029918334167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Rod Casting_54
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 18
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 650f3fcb5af150520800000000000000
+      internalID: 2667573150987055190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Rod Casting_55
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 19
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50ad17481112b9510800000000000000
+      internalID: 1556874455306852869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Rod Casting_56
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 19
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3a9870a24cc43160800000000000000
+      internalID: 7004447907000130109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Rod Casting_57
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 20
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30ace94f71a90b820800000000000000
+      internalID: 2932012785097165315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Teal Rod Casting_58
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 20
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42338b76e72385670800000000000000
+      internalID: 8527621412913427236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1680 @@
+fileFormatVersion: 2
+guid: 37356f02ad5d29142ab87b0cb0e458e6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3368835913101497388
+    second: Base Gold Shovel_0
+  - first:
+      213: -4898738578410899751
+    second: Base Gold Shovel_1
+  - first:
+      213: 2650577299698560242
+    second: Base Gold Shovel_2
+  - first:
+      213: -1599285805326201426
+    second: Base Gold Shovel_3
+  - first:
+      213: -4298856351059477498
+    second: Base Gold Shovel_4
+  - first:
+      213: 2381883471271744200
+    second: Base Gold Shovel_5
+  - first:
+      213: -758930337570352680
+    second: Base Gold Shovel_6
+  - first:
+      213: -1527675013904883775
+    second: Base Gold Shovel_7
+  - first:
+      213: -2916052416585676066
+    second: Base Gold Shovel_8
+  - first:
+      213: 6915391485709970660
+    second: Base Gold Shovel_9
+  - first:
+      213: -1909151783428884159
+    second: Base Gold Shovel_10
+  - first:
+      213: -1726136919965819217
+    second: Base Gold Shovel_11
+  - first:
+      213: -6497772464901961482
+    second: Base Gold Shovel_12
+  - first:
+      213: 3134056821157951780
+    second: Base Gold Shovel_13
+  - first:
+      213: -2605612205690299660
+    second: Base Gold Shovel_14
+  - first:
+      213: -1169383255476487022
+    second: Base Gold Shovel_15
+  - first:
+      213: -3026876662364112049
+    second: Base Gold Shovel_16
+  - first:
+      213: -692054251157309858
+    second: Base Gold Shovel_17
+  - first:
+      213: 5873396712107642535
+    second: Base Gold Shovel_18
+  - first:
+      213: -8420788904506639073
+    second: Base Gold Shovel_19
+  - first:
+      213: -2393987928396491171
+    second: Base Gold Shovel_20
+  - first:
+      213: 4455070101199811120
+    second: Base Gold Shovel_21
+  - first:
+      213: -774058117434967936
+    second: Base Gold Shovel_22
+  - first:
+      213: -2930572648673931695
+    second: Base Gold Shovel_23
+  - first:
+      213: -7023800739952436962
+    second: Base Gold Shovel_24
+  - first:
+      213: -8057990121222320980
+    second: Base Gold Shovel_25
+  - first:
+      213: 9062874654368173050
+    second: Base Gold Shovel_26
+  - first:
+      213: 8606572288864173939
+    second: Base Gold Shovel_27
+  - first:
+      213: -3852963720310750510
+    second: Base Gold Shovel_28
+  - first:
+      213: 5995591208930399079
+    second: Base Gold Shovel_29
+  - first:
+      213: 5652731921319386784
+    second: Base Gold Shovel_30
+  - first:
+      213: 1959745424360471205
+    second: Base Gold Shovel_31
+  - first:
+      213: 5664416701303471079
+    second: Base Gold Shovel_32
+  - first:
+      213: -9062239681479933824
+    second: Base Gold Shovel_33
+  - first:
+      213: -4028163168984029075
+    second: Base Gold Shovel_34
+  - first:
+      213: 6276876426303797594
+    second: Base Gold Shovel_35
+  - first:
+      213: -8659648703326922646
+    second: Base Gold Shovel_36
+  - first:
+      213: -7872907463456180985
+    second: Base Gold Shovel_37
+  - first:
+      213: 4659593801791760307
+    second: Base Gold Shovel_38
+  - first:
+      213: 1459048508156590562
+    second: Base Gold Shovel_39
+  - first:
+      213: -3228132332332958914
+    second: Base Gold Shovel_40
+  - first:
+      213: 5687437431177783609
+    second: Base Gold Shovel_41
+  - first:
+      213: -2473645709916946564
+    second: Base Gold Shovel_42
+  - first:
+      213: -6907898432942470384
+    second: Base Gold Shovel_43
+  - first:
+      213: 5937278349756351826
+    second: Base Gold Shovel_44
+  - first:
+      213: -8179528493071728563
+    second: Base Gold Shovel_45
+  - first:
+      213: -1366111644214061359
+    second: Base Gold Shovel_46
+  - first:
+      213: 7898506261664572037
+    second: Base Gold Shovel_47
+  - first:
+      213: -2490240999266883117
+    second: Base Gold Shovel_48
+  - first:
+      213: -7799053227384742602
+    second: Base Gold Shovel_49
+  - first:
+      213: 4319915769137000716
+    second: Base Gold Shovel_50
+  - first:
+      213: 8934490966087032439
+    second: Base Gold Shovel_51
+  - first:
+      213: -1697055584016910683
+    second: Base Gold Shovel_52
+  - first:
+      213: 6066318330721098834
+    second: Base Gold Shovel_53
+  - first:
+      213: 3186819288552089721
+    second: Base Gold Shovel_54
+  - first:
+      213: -456652730422012025
+    second: Base Gold Shovel_55
+  - first:
+      213: 651322805018754874
+    second: Base Gold Shovel_56
+  - first:
+      213: -1179087947975195593
+    second: Base Gold Shovel_57
+  - first:
+      213: -1855173419781836826
+    second: Base Gold Shovel_58
+  - first:
+      213: 8341531184568862717
+    second: Base Gold Shovel_59
+  - first:
+      213: -4552871207186084642
+    second: Base Gold Shovel_60
+  - first:
+      213: 9175294245380024737
+    second: Base Gold Shovel_61
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Base Gold Shovel_0
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 282
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dba10df59d7f31d0800000000000000
+      internalID: -3368835913101497388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Shovel_1
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 281
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d6f052b73f240cb0800000000000000
+      internalID: -4898738578410899751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Shovel_2
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 281
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fc2f3eb20eb8c420800000000000000
+      internalID: 2650577299698560242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Shovel_3
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 281
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ead053f88023ec9e0800000000000000
+      internalID: -1599285805326201426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Shovel_4
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 284
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60cfaaecce46754c0800000000000000
+      internalID: -4298856351059477498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Shovel_5
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 286
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c2d689b5662e0120800000000000000
+      internalID: 2381883471271744200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Shovel_6
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 285
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d11ad301ecb775f0800000000000000
+      internalID: -758930337570352680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Shovel_7
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 284
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cf95f73bab9ccae0800000000000000
+      internalID: -1527675013904883775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Shovel_8
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 282
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edacdfae6c91887d0800000000000000
+      internalID: -2916052416585676066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Shovel_9
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 281
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ece08cbae768ff50800000000000000
+      internalID: 6915391485709970660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Shovel_10
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 280
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 149fa6e61945185e0800000000000000
+      internalID: -1909151783428884159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Shovel_11
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 186
+        width: 93
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fae10c3ed978b08e0800000000000000
+      internalID: -1726136919965819217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Shovel_12
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 273
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f8443eae5643d5a0800000000000000
+      internalID: -6497772464901961482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Shovel_13
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 200
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 429720be2186e7b20800000000000000
+      internalID: 3134056821157951780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Shovel_14
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 216
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fa5869018107dbd0800000000000000
+      internalID: -2605612205690299660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Shovel_15
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 201
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29cb803ff1485cfe0800000000000000
+      internalID: -1169383255476487022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Shovel_16
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 214
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4bfdd076bf5ef5d0800000000000000
+      internalID: -3026876662364112049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Shovel_17
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 212
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e56387243545566f0800000000000000
+      internalID: -692054251157309858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Shovel_18
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 191
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ae8f1ae03f728150800000000000000
+      internalID: 5873396712107642535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Shovel_19
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 190
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1db45a4b19532b80800000000000000
+      internalID: -8420788904506639073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Shovel_20
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 188
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d569a5bb9a8d6ced0800000000000000
+      internalID: -2393987928396491171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Shovel_21
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 198
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0327a7f27a693dd30800000000000000
+      internalID: 4455070101199811120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Shovel_22
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 197
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 088f7ca4e3ef145f0800000000000000
+      internalID: -774058117434967936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Shovel_23
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 181
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15e805fe3b38457d0800000000000000
+      internalID: -2930572648673931695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Shovel_24
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 181
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e195202d072768e90800000000000000
+      internalID: -7023800739952436962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Shovel_25
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 181
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caccfe48da44c2090800000000000000
+      internalID: -8057990121222320980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Shovel_26
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 181
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afb81812b7cc5cd70800000000000000
+      internalID: 9062874654368173050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Shovel_27
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 181
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37f387ba5efa07770800000000000000
+      internalID: 8606572288864173939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Shovel_28
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 115
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d2096609e5878ac0800000000000000
+      internalID: -3852963720310750510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Shovel_29
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 118
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76350c2407e943350800000000000000
+      internalID: 5995591208930399079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Shovel_30
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 119
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aed0c4abb9827e40800000000000000
+      internalID: 5652731921319386784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Shovel_31
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 126
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aaf33d841a623b10800000000000000
+      internalID: 1959745424360471205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Shovel_32
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 118
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ebbbfc7afc0c9e40800000000000000
+      internalID: 5664416701303471079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Shovel_33
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 126
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08080f306057c3280800000000000000
+      internalID: -9062239681479933824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Shovel_34
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 116
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d68256f90f61918c0800000000000000
+      internalID: -4028163168984029075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Shovel_35
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 125
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a597cd87ad1fb1750800000000000000
+      internalID: 6276876426303797594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Shovel_36
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 112
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a68d686926fb2d780800000000000000
+      internalID: -8659648703326922646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Shovel_37
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 112
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7053c2bdf50ddb290800000000000000
+      internalID: -7872907463456180985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Shovel_38
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 113
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b7e86900e33aa040800000000000000
+      internalID: 4659593801791760307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Shovel_39
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 109
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e9bcb643e49f3410800000000000000
+      internalID: 1459048508156590562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Shovel_40
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 109
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3b37534fbe5333d0800000000000000
+      internalID: -3228132332332958914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Shovel_41
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 109
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 939ac97d536ddee40800000000000000
+      internalID: 5687437431177783609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Shovel_42
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 109
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7f3b303558dbadd0800000000000000
+      internalID: -2473645709916946564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Shovel_43
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 113
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01b8cff89f63220a0800000000000000
+      internalID: -6907898432942470384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Shovel_44
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 109
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25548d9b333756250800000000000000
+      internalID: 5937278349756351826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Shovel_45
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 116
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d40064c2c2a7c7e80800000000000000
+      internalID: -8179528493071728563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Shovel_46
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 35
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d6981392b89a0de0800000000000000
+      internalID: -1366111644214061359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Shovel_47
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 40
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58227bec8912d9d60800000000000000
+      internalID: 7898506261664572037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Shovel_48
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 46
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d965994103e07dd0800000000000000
+      internalID: -2490240999266883117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Shovel_49
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 41
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63d5e5d296234c390800000000000000
+      internalID: -7799053227384742602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Shovel_50
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 46
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c01f40f018c63fb30800000000000000
+      internalID: 4319915769137000716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Shovel_51
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 40
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77edd8a5230bdfb70800000000000000
+      internalID: 8934490966087032439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Shovel_52
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 45
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a6349e00f8d278e0800000000000000
+      internalID: -1697055584016910683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Shovel_53
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 36
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25c521d8164ef2450800000000000000
+      internalID: 6066318330721098834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Shovel_54
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 32
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 978a289224bd93c20800000000000000
+      internalID: 3186819288552089721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Shovel_55
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 32
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 787db79d2c4a9a9f0800000000000000
+      internalID: -456652730422012025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Shovel_56
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 33
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3ff04be3a6f90900800000000000000
+      internalID: 651322805018754874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Shovel_57
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 29
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7348ef522c903afe0800000000000000
+      internalID: -1179087947975195593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Shovel_58
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 29
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ef28259a991146e0800000000000000
+      internalID: -1855173419781836826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Shovel_59
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 29
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df70213ca6213c370800000000000000
+      internalID: 8341531184568862717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Shovel_60
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 29
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edcc19b52c3f0d0c0800000000000000
+      internalID: -4552871207186084642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Shovel_61
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 29
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a9ef8dd081355f70800000000000000
+      internalID: 9175294245380024737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

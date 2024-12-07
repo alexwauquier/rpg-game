@@ -1,0 +1,1130 @@
+fileFormatVersion: 2
+guid: fc0d90696b0e9f04f956c5c3cdaf05d4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6660066983918902809
+    second: Base Steel Rod Idle_0
+  - first:
+      213: -8332879241308341488
+    second: Base Steel Rod Idle_1
+  - first:
+      213: 890076435336374234
+    second: Base Steel Rod Idle_2
+  - first:
+      213: -7520394545632404514
+    second: Base Steel Rod Idle_3
+  - first:
+      213: 7056343672972992160
+    second: Base Steel Rod Idle_4
+  - first:
+      213: -6656613946941534052
+    second: Base Steel Rod Idle_5
+  - first:
+      213: -5782459308243578232
+    second: Base Steel Rod Idle_6
+  - first:
+      213: -2065040584294588457
+    second: Base Steel Rod Idle_7
+  - first:
+      213: -6330805230542060222
+    second: Base Steel Rod Idle_8
+  - first:
+      213: 7928464262459749036
+    second: Base Steel Rod Idle_9
+  - first:
+      213: -1912704105881553840
+    second: Base Steel Rod Idle_10
+  - first:
+      213: 7863026229774156708
+    second: Base Steel Rod Idle_11
+  - first:
+      213: -5274408928915667650
+    second: Base Steel Rod Idle_12
+  - first:
+      213: 4683592009342338187
+    second: Base Steel Rod Idle_13
+  - first:
+      213: -7220034030533286933
+    second: Base Steel Rod Idle_14
+  - first:
+      213: 5880789439659710712
+    second: Base Steel Rod Idle_15
+  - first:
+      213: 3978835567798811243
+    second: Base Steel Rod Idle_16
+  - first:
+      213: 7125206693234459716
+    second: Base Steel Rod Idle_17
+  - first:
+      213: -116215274812328230
+    second: Base Steel Rod Idle_18
+  - first:
+      213: 6806992322705949726
+    second: Base Steel Rod Idle_19
+  - first:
+      213: 8591470544358911396
+    second: Base Steel Rod Idle_20
+  - first:
+      213: -3876614965899643675
+    second: Base Steel Rod Idle_21
+  - first:
+      213: -7739055679767019467
+    second: Base Steel Rod Idle_22
+  - first:
+      213: -4698320120656100959
+    second: Base Steel Rod Idle_23
+  - first:
+      213: 6881869905378450268
+    second: Base Steel Rod Idle_24
+  - first:
+      213: -6106731808315284731
+    second: Base Steel Rod Idle_25
+  - first:
+      213: 4972684910179658472
+    second: Base Steel Rod Idle_26
+  - first:
+      213: 570880041894185029
+    second: Base Steel Rod Idle_27
+  - first:
+      213: -8398068610864463679
+    second: Base Steel Rod Idle_28
+  - first:
+      213: -519130840533883926
+    second: Base Steel Rod Idle_29
+  - first:
+      213: -4645194380199272745
+    second: Base Steel Rod Idle_30
+  - first:
+      213: -4715116628418811344
+    second: Base Steel Rod Idle_31
+  - first:
+      213: 1991532786796543749
+    second: Base Steel Rod Idle_32
+  - first:
+      213: 363711337397297731
+    second: Base Steel Rod Idle_33
+  - first:
+      213: 680437993845785091
+    second: Base Steel Rod Idle_34
+  - first:
+      213: -7637046126744701421
+    second: Base Steel Rod Idle_35
+  - first:
+      213: -5966003904499488524
+    second: Base Steel Rod Idle_36
+  - first:
+      213: 6525968311077521737
+    second: Base Steel Rod Idle_37
+  - first:
+      213: -6364762999203116346
+    second: Base Steel Rod Idle_38
+  - first:
+      213: -4430559829297707250
+    second: Base Steel Rod Idle_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Base Steel Rod Idle_0
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 285
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e1e43b5d50b293a0800000000000000
+      internalID: -6660066983918902809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Rod Idle_1
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 285
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01bf691ca7aab5c80800000000000000
+      internalID: -8332879241308341488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Rod Idle_2
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 285
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad7ab275dcf2a5c00800000000000000
+      internalID: 890076435336374234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Rod Idle_3
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 285
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edb9bc8610132a790800000000000000
+      internalID: -7520394545632404514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Rod Idle_4
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 285
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ae51a83f2b2de160800000000000000
+      internalID: 7056343672972992160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Rod Idle_5
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 286
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9093ad22e4fe93a0800000000000000
+      internalID: -6656613946941534052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Rod Idle_6
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 286
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8829dfb55e390cfa0800000000000000
+      internalID: -5782459308243578232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Rod Idle_7
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 286
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7df1b5697808753e0800000000000000
+      internalID: -2065040584294588457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Rod Idle_8
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 286
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2450b535f267428a0800000000000000
+      internalID: -6330805230542060222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Rod Idle_9
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 286
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca2fa4a6d30970e60800000000000000
+      internalID: 7928464262459749036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Rod Idle_10
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 180
+        width: 7
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 054bf78efb5b475e0800000000000000
+      internalID: -1912704105881553840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Rod Idle_11
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 180
+        width: 7
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a3844522b41f1d60800000000000000
+      internalID: 7863026229774156708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Rod Idle_12
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 180
+        width: 7
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3545df26098dc6b0800000000000000
+      internalID: -5274408928915667650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Rod Idle_13
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 180
+        width: 7
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8445b52e167ff040800000000000000
+      internalID: 4683592009342338187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Rod Idle_14
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 180
+        width: 7
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be3e4d77d494dcb90800000000000000
+      internalID: -7220034030533286933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Rod Idle_15
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 180
+        width: 7
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f819cd66d2cc9150800000000000000
+      internalID: 5880789439659710712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Rod Idle_16
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 180
+        width: 7
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6a765e3ed9a73730800000000000000
+      internalID: 3978835567798811243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Rod Idle_17
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 180
+        width: 7
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 444c97d8cb1d1e260800000000000000
+      internalID: 7125206693234459716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Rod Idle_18
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 180
+        width: 7
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad63653c2de136ef0800000000000000
+      internalID: -116215274812328230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Rod Idle_19
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 180
+        width: 7
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1403b7d37b477e50800000000000000
+      internalID: 6806992322705949726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Rod Idle_20
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 100
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4adaeb6c0f80b3770800000000000000
+      internalID: 8591470544358911396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Rod Idle_21
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 100
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e4b69a4a3f733ac0800000000000000
+      internalID: -3876614965899643675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Rod Idle_22
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 100
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 530848eccd9599490800000000000000
+      internalID: -7739055679767019467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Rod Idle_23
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 100
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a109373eb63cceb0800000000000000
+      internalID: -4698320120656100959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Rod Idle_24
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 100
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5b988c9730518f50800000000000000
+      internalID: 6881869905378450268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Rod Idle_25
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 100
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 503e9c276c7804ba0800000000000000
+      internalID: -6106731808315284731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Rod Idle_26
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 100
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ea24335496820540800000000000000
+      internalID: 4972684910179658472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Rod Idle_27
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 100
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 548867a9f5c2ce700800000000000000
+      internalID: 570880041894185029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Rod Idle_28
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 100
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c0c012e711147b80800000000000000
+      internalID: -8398068610864463679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Rod Idle_29
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 100
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae32702404dabc8f0800000000000000
+      internalID: -519130840533883926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Rod Idle_30
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 20
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ded49f8254f88fb0800000000000000
+      internalID: -4645194380199272745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Rod Idle_31
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 20
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03a2f80886a809eb0800000000000000
+      internalID: -4715116628418811344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Rod Idle_32
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 20
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50f3d8b948853ab10800000000000000
+      internalID: 1991532786796543749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Rod Idle_33
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 20
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 342295ac8892c0500800000000000000
+      internalID: 363711337397297731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Rod Idle_34
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 20
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3028bd210c6617900800000000000000
+      internalID: 680437993845785091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Rod Idle_35
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 20
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 316fb12b203c30690800000000000000
+      internalID: -7637046126744701421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Rod Idle_36
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 20
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f8e6bfde0f743da0800000000000000
+      internalID: -5966003904499488524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Rod Idle_37
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 20
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9494b355a95e09a50800000000000000
+      internalID: 6525968311077521737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Rod Idle_38
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 20
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cac2f036c1dba7a0800000000000000
+      internalID: -6364762999203116346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Rod Idle_39
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 20
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0748923f4d7382c0800000000000000
+      internalID: -4430559829297707250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

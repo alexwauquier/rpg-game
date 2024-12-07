@@ -1,0 +1,1605 @@
+fileFormatVersion: 2
+guid: d00b58d47acc4c64eb0a584415ac60b4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4763046865933993404
+    second: Base Copper Rod Casting_0
+  - first:
+      213: 3022022017235209442
+    second: Base Copper Rod Casting_1
+  - first:
+      213: -4935957589071901767
+    second: Base Copper Rod Casting_2
+  - first:
+      213: 8064943488547031380
+    second: Base Copper Rod Casting_3
+  - first:
+      213: -3963981804546523046
+    second: Base Copper Rod Casting_4
+  - first:
+      213: 2083465327240343838
+    second: Base Copper Rod Casting_5
+  - first:
+      213: -9214524450244859563
+    second: Base Copper Rod Casting_6
+  - first:
+      213: 1998831970973096253
+    second: Base Copper Rod Casting_7
+  - first:
+      213: 3597551441692068110
+    second: Base Copper Rod Casting_8
+  - first:
+      213: -7431805796639263455
+    second: Base Copper Rod Casting_9
+  - first:
+      213: 7988327879980353770
+    second: Base Copper Rod Casting_10
+  - first:
+      213: -27839912663797655
+    second: Base Copper Rod Casting_11
+  - first:
+      213: -5750703601421004580
+    second: Base Copper Rod Casting_12
+  - first:
+      213: 8477648152256929626
+    second: Base Copper Rod Casting_13
+  - first:
+      213: 3216381761859879606
+    second: Base Copper Rod Casting_14
+  - first:
+      213: 7747627386181068786
+    second: Base Copper Rod Casting_15
+  - first:
+      213: 3983148613451493971
+    second: Base Copper Rod Casting_16
+  - first:
+      213: -5349153885669400182
+    second: Base Copper Rod Casting_17
+  - first:
+      213: 1917421881673807766
+    second: Base Copper Rod Casting_18
+  - first:
+      213: -952521416762206776
+    second: Base Copper Rod Casting_19
+  - first:
+      213: 696341904641376965
+    second: Base Copper Rod Casting_20
+  - first:
+      213: 1759843134134839396
+    second: Base Copper Rod Casting_21
+  - first:
+      213: 4970751750495309756
+    second: Base Copper Rod Casting_22
+  - first:
+      213: 6438905540601978028
+    second: Base Copper Rod Casting_23
+  - first:
+      213: 7978265473909261016
+    second: Base Copper Rod Casting_24
+  - first:
+      213: -5569407551917553475
+    second: Base Copper Rod Casting_25
+  - first:
+      213: 6543516153762831808
+    second: Base Copper Rod Casting_26
+  - first:
+      213: 7194586175449529426
+    second: Base Copper Rod Casting_27
+  - first:
+      213: -8358654446532321172
+    second: Base Copper Rod Casting_28
+  - first:
+      213: -4768028099734836517
+    second: Base Copper Rod Casting_29
+  - first:
+      213: 8271959831105368301
+    second: Base Copper Rod Casting_30
+  - first:
+      213: -5011851100111371383
+    second: Base Copper Rod Casting_31
+  - first:
+      213: 8543225052402463719
+    second: Base Copper Rod Casting_32
+  - first:
+      213: -190125504541708783
+    second: Base Copper Rod Casting_33
+  - first:
+      213: 4902595572913204674
+    second: Base Copper Rod Casting_34
+  - first:
+      213: 6509004856529545944
+    second: Base Copper Rod Casting_35
+  - first:
+      213: 2860214196094113760
+    second: Base Copper Rod Casting_36
+  - first:
+      213: 4180192337468762711
+    second: Base Copper Rod Casting_37
+  - first:
+      213: -2872313621352073069
+    second: Base Copper Rod Casting_38
+  - first:
+      213: 4688924713308531156
+    second: Base Copper Rod Casting_39
+  - first:
+      213: 8118657664579097016
+    second: Base Copper Rod Casting_40
+  - first:
+      213: 2104307287730387362
+    second: Base Copper Rod Casting_41
+  - first:
+      213: 4611864120350866372
+    second: Base Copper Rod Casting_42
+  - first:
+      213: -2516627008885842168
+    second: Base Copper Rod Casting_43
+  - first:
+      213: 3717197828888782140
+    second: Base Copper Rod Casting_44
+  - first:
+      213: -4967002111913957400
+    second: Base Copper Rod Casting_45
+  - first:
+      213: -8258859340603272523
+    second: Base Copper Rod Casting_46
+  - first:
+      213: 147667996278814337
+    second: Base Copper Rod Casting_47
+  - first:
+      213: -821576213764447245
+    second: Base Copper Rod Casting_48
+  - first:
+      213: 8191998836118115736
+    second: Base Copper Rod Casting_49
+  - first:
+      213: 6279134609602332273
+    second: Base Copper Rod Casting_50
+  - first:
+      213: -3040304179726874713
+    second: Base Copper Rod Casting_51
+  - first:
+      213: -1374473495081356561
+    second: Base Copper Rod Casting_52
+  - first:
+      213: -3265860262612927901
+    second: Base Copper Rod Casting_53
+  - first:
+      213: 4059986262357515888
+    second: Base Copper Rod Casting_54
+  - first:
+      213: 8962067961412039787
+    second: Base Copper Rod Casting_55
+  - first:
+      213: -681812869171888082
+    second: Base Copper Rod Casting_56
+  - first:
+      213: -3137691450516072191
+    second: Base Copper Rod Casting_57
+  - first:
+      213: -5494918577739257657
+    second: Base Copper Rod Casting_58
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Base Copper Rod Casting_0
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 196
+        width: 7
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb5888c83edb91240800000000000000
+      internalID: 4763046865933993404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Rod Casting_1
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 281
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ecc6b8630160f920800000000000000
+      internalID: 3022022017235209442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Rod Casting_2
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 284
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bbc9fc79b4ff7bb0800000000000000
+      internalID: -4935957589071901767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Rod Casting_3
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 286
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45902787f5f6cef60800000000000000
+      internalID: 8064943488547031380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Rod Casting_4
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 286
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5084e30d8b1df8c0800000000000000
+      internalID: -3963981804546523046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Rod Casting_5
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 284
+        width: 12
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e11f00c2da4f9ec10800000000000000
+      internalID: 2083465327240343838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Rod Casting_6
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 284
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 559e00945de6f1080800000000000000
+      internalID: -9214524450244859563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Rod Casting_7
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 285
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d399b8b56174dbb10800000000000000
+      internalID: 1998831970973096253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Rod Casting_8
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 285
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e09004fb9f11de130800000000000000
+      internalID: 3597551441692068110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Rod Casting_9
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 285
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 125b0abd00cecd890800000000000000
+      internalID: -7431805796639263455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Rod Casting_10
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 285
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae8049302ed3cde60800000000000000
+      internalID: 7988327879980353770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Rod Casting_11
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 285
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 960b8173fb71d9ff0800000000000000
+      internalID: -27839912663797655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Rod Casting_12
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 285
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd0ddb40b856130b0800000000000000
+      internalID: -5750703601421004580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Rod Casting_13
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 285
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5f5506f318a6a570800000000000000
+      internalID: 8477648152256929626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Rod Casting_14
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 285
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b204b9db22e2ac20800000000000000
+      internalID: 3216381761859879606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Rod Casting_15
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 198
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f7296d1f0a158b60800000000000000
+      internalID: 7747627386181068786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Rod Casting_16
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 200
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 352bd507f8cf64730800000000000000
+      internalID: 3983148613451493971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Rod Casting_17
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 204
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8166cbc1ecf3c5b0800000000000000
+      internalID: -5349153885669400182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Rod Casting_18
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 204
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6977abdda0d0c9a10800000000000000
+      internalID: 1917421881673807766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Rod Casting_19
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 196
+        width: 13
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c5dfe071d6f7c2f0800000000000000
+      internalID: -952521416762206776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Rod Casting_20
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 196
+        width: 10
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c24e5cd547e9a900800000000000000
+      internalID: 696341904641376965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Rod Casting_21
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 195
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4686486a1083c6810800000000000000
+      internalID: 1759843134134839396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Rod Casting_22
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 196
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbf8ce28168abf440800000000000000
+      internalID: 4970751750495309756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Rod Casting_23
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 183
+        width: 7
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cac10e179769b5950800000000000000
+      internalID: 6438905540601978028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Rod Casting_24
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 178
+        width: 13
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d200288d2e78be60800000000000000
+      internalID: 7978265473909261016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Rod Casting_25
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 179
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db8839ae65d75b2b0800000000000000
+      internalID: -5569407551917553475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Rod Casting_26
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 179
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cd5017d54d3fca50800000000000000
+      internalID: 6543516153762831808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Rod Casting_27
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 180
+        width: 7
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25cfa9d020e48d360800000000000000
+      internalID: 7194586175449529426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Rod Casting_28
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 180
+        width: 7
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c60a3322118100c80800000000000000
+      internalID: -8358654446532321172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Rod Casting_29
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 114
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bda693494bf84ddb0800000000000000
+      internalID: -4768028099734836517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Rod Casting_30
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 120
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de0f551c3a7ebc270800000000000000
+      internalID: 8271959831105368301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Rod Casting_31
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 122
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98306b67af3527ab0800000000000000
+      internalID: -5011851100111371383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Rod Casting_32
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 121
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e3baa4dbe1af8670800000000000000
+      internalID: 8543225052402463719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Rod Casting_33
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 121
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11eac076cd98c5df0800000000000000
+      internalID: -190125504541708783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Rod Casting_34
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 116
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cde4e0d2b4890440800000000000000
+      internalID: 4902595572913204674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Rod Casting_35
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 114
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8da6cba4e61a45a50800000000000000
+      internalID: 6509004856529545944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Rod Casting_36
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 114
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e718b348a581b720800000000000000
+      internalID: 2860214196094113760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Rod Casting_37
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 111
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75aa2a788c6030a30800000000000000
+      internalID: 4180192337468762711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Rod Casting_38
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 100
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3983bc3cafd7328d0800000000000000
+      internalID: -2872313621352073069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Rod Casting_39
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 98
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d92e4b0f28621140800000000000000
+      internalID: 4688924713308531156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Rod Casting_40
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 99
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b15d36a1244ba070800000000000000
+      internalID: 8118657664579097016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Rod Casting_41
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 99
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a97f6f3450043d10800000000000000
+      internalID: 2104307287730387362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Rod Casting_42
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 100
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cbf1e59bf1a00040800000000000000
+      internalID: 4611864120350866372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Rod Casting_43
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 100
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80f943fa115231dd0800000000000000
+      internalID: -2516627008885842168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Rod Casting_44
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 34
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c35e4c61bb3269330800000000000000
+      internalID: 3717197828888782140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Rod Casting_45
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 38
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e7e0c045e9a11bb0800000000000000
+      internalID: -4967002111913957400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Rod Casting_46
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 41
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b2dc61ef23a26d80800000000000000
+      internalID: -8258859340603272523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Rod Casting_47
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 41
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18674ee924f9c0200800000000000000
+      internalID: 147667996278814337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Rod Casting_48
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 41
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f3e8a659cc2994f0800000000000000
+      internalID: -821576213764447245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Rod Casting_49
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 36
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 895db33d983dfa170800000000000000
+      internalID: 8191998836118115736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Rod Casting_50
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 34
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 176453eb8a7f32750800000000000000
+      internalID: 6279134609602332273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Rod Casting_51
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 34
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a78e3ee47baec5d0800000000000000
+      internalID: -3040304179726874713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Rod Casting_52
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 31
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe27c7473a3ecece0800000000000000
+      internalID: -1374473495081356561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Rod Casting_53
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 20
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36a74e8f4655da2d0800000000000000
+      internalID: -3265860262612927901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Rod Casting_54
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 18
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07e19c0bef7f75830800000000000000
+      internalID: 4059986262357515888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Rod Casting_55
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 19
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b64bfdce359af5c70800000000000000
+      internalID: 8962067961412039787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Rod Casting_56
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 19
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2048b1dec6b986f0800000000000000
+      internalID: -681812869171888082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Rod Casting_57
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 20
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 109953dff3ea474d0800000000000000
+      internalID: -3137691450516072191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Rod Casting_58
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 20
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c82828baa02eb3b0800000000000000
+      internalID: -5494918577739257657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

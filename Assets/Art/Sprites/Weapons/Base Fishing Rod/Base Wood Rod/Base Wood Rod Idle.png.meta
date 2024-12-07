@@ -1,0 +1,1130 @@
+fileFormatVersion: 2
+guid: e54bef6c5e923344ab28993c1be1396b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9201411886219127312
+    second: Base Wood Rod Idle_0
+  - first:
+      213: 6484792620576012420
+    second: Base Wood Rod Idle_1
+  - first:
+      213: -40227955486014769
+    second: Base Wood Rod Idle_2
+  - first:
+      213: 449326858273090346
+    second: Base Wood Rod Idle_3
+  - first:
+      213: -5834878597776939479
+    second: Base Wood Rod Idle_4
+  - first:
+      213: 4204295927527158904
+    second: Base Wood Rod Idle_5
+  - first:
+      213: -5820962231696236086
+    second: Base Wood Rod Idle_6
+  - first:
+      213: 4918510685305505601
+    second: Base Wood Rod Idle_7
+  - first:
+      213: 5314758163838689364
+    second: Base Wood Rod Idle_8
+  - first:
+      213: -7813259176884489746
+    second: Base Wood Rod Idle_9
+  - first:
+      213: -2344123304578222298
+    second: Base Wood Rod Idle_10
+  - first:
+      213: 7447740145465385373
+    second: Base Wood Rod Idle_11
+  - first:
+      213: 8597460372390343412
+    second: Base Wood Rod Idle_12
+  - first:
+      213: 7824298970334376239
+    second: Base Wood Rod Idle_13
+  - first:
+      213: 1172818636801163238
+    second: Base Wood Rod Idle_14
+  - first:
+      213: -5130546363395114871
+    second: Base Wood Rod Idle_15
+  - first:
+      213: 8711194676506303593
+    second: Base Wood Rod Idle_16
+  - first:
+      213: 8131566475179216231
+    second: Base Wood Rod Idle_17
+  - first:
+      213: -6703634552243226197
+    second: Base Wood Rod Idle_18
+  - first:
+      213: 4971630447206085474
+    second: Base Wood Rod Idle_19
+  - first:
+      213: 8700577868626506915
+    second: Base Wood Rod Idle_20
+  - first:
+      213: 9141510093524726836
+    second: Base Wood Rod Idle_21
+  - first:
+      213: -5220437493208379355
+    second: Base Wood Rod Idle_22
+  - first:
+      213: -1109423174525060885
+    second: Base Wood Rod Idle_23
+  - first:
+      213: 2099486822530462801
+    second: Base Wood Rod Idle_24
+  - first:
+      213: 7147210734052622761
+    second: Base Wood Rod Idle_25
+  - first:
+      213: 4360586237890078112
+    second: Base Wood Rod Idle_26
+  - first:
+      213: -164919392540088320
+    second: Base Wood Rod Idle_27
+  - first:
+      213: 3763814493663650209
+    second: Base Wood Rod Idle_28
+  - first:
+      213: -3181917471332128530
+    second: Base Wood Rod Idle_29
+  - first:
+      213: -5168669194550027049
+    second: Base Wood Rod Idle_30
+  - first:
+      213: -8591545155788786761
+    second: Base Wood Rod Idle_31
+  - first:
+      213: -4734028351624963112
+    second: Base Wood Rod Idle_32
+  - first:
+      213: -1136114035948290541
+    second: Base Wood Rod Idle_33
+  - first:
+      213: 4400261538704532324
+    second: Base Wood Rod Idle_34
+  - first:
+      213: 4878619591578604864
+    second: Base Wood Rod Idle_35
+  - first:
+      213: -4743887879828432992
+    second: Base Wood Rod Idle_36
+  - first:
+      213: 3031352455052968316
+    second: Base Wood Rod Idle_37
+  - first:
+      213: -6048554471645815591
+    second: Base Wood Rod Idle_38
+  - first:
+      213: 4049631004981268079
+    second: Base Wood Rod Idle_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Base Wood Rod Idle_0
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 285
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f51ad104a40e4080800000000000000
+      internalID: -9201411886219127312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wood Rod Idle_1
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 285
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 488f18fc78c9ef950800000000000000
+      internalID: 6484792620576012420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wood Rod Idle_2
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 285
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc2473b33e4117ff0800000000000000
+      internalID: -40227955486014769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wood Rod Idle_3
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 285
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2be86f95645c3600800000000000000
+      internalID: 449326858273090346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wood Rod Idle_4
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 285
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 926e9ff64d8560fa0800000000000000
+      internalID: -5834878597776939479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wood Rod Idle_5
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 286
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 874b0eaeed8a85a30800000000000000
+      internalID: 4204295927527158904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wood Rod Idle_6
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 286
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac1e7c8e0b9c73fa0800000000000000
+      internalID: -5820962231696236086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wood Rod Idle_7
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 286
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 147099da86f024440800000000000000
+      internalID: 4918510685305505601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wood Rod Idle_8
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 286
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45066b62460d1c940800000000000000
+      internalID: 5314758163838689364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wood Rod Idle_9
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 286
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee13dbfcc2ab19390800000000000000
+      internalID: -7813259176884489746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wood Rod Idle_10
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 180
+        width: 7
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62776e03640087fd0800000000000000
+      internalID: -2344123304578222298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wood Rod Idle_11
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 180
+        width: 7
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9161e5d330bb5760800000000000000
+      internalID: 7447740145465385373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wood Rod Idle_12
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 180
+        width: 7
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f2f2da48a0505770800000000000000
+      internalID: 8597460372390343412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wood Rod Idle_13
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 180
+        width: 7
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f213c37657e759c60800000000000000
+      internalID: 7824298970334376239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wood Rod Idle_14
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 180
+        width: 7
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6efbd781650b64010800000000000000
+      internalID: 1172818636801163238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wood Rod Idle_15
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 180
+        width: 7
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 988792ae343acc8b0800000000000000
+      internalID: -5130546363395114871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wood Rod Idle_16
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 180
+        width: 7
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96c9e66876164e870800000000000000
+      internalID: 8711194676506303593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wood Rod Idle_17
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 180
+        width: 7
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76d488450a029d070800000000000000
+      internalID: 8131566475179216231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wood Rod Idle_18
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 180
+        width: 7
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba9f18164e7e7f2a0800000000000000
+      internalID: -6703634552243226197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wood Rod Idle_19
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 180
+        width: 7
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2633c380d87cef440800000000000000
+      internalID: 4971630447206085474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wood Rod Idle_20
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 100
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a4bb105979aeb870800000000000000
+      internalID: 8700577868626506915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wood Rod Idle_21
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 100
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 434703b0ffa2dde70800000000000000
+      internalID: 9141510093524726836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wood Rod Idle_22
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 100
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5201f2d42c74d87b0800000000000000
+      internalID: -5220437493208379355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wood Rod Idle_23
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 100
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be8f8d030898a90f0800000000000000
+      internalID: -1109423174525060885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wood Rod Idle_24
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 100
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 154ba8b3420e22d10800000000000000
+      internalID: 2099486822530462801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wood Rod Idle_25
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 100
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a1c01a8b4eff2360800000000000000
+      internalID: 7147210734052622761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wood Rod Idle_26
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 100
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a525e9741ae38c30800000000000000
+      internalID: 4360586237890078112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wood Rod Idle_27
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 100
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 008231fafa616bdf0800000000000000
+      internalID: -164919392540088320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wood Rod Idle_28
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 100
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a1e9472751cb3430800000000000000
+      internalID: 3763814493663650209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wood Rod Idle_29
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 100
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee8a3a81bee87d3d0800000000000000
+      internalID: -3181917471332128530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wood Rod Idle_30
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 20
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dc575990c23548b0800000000000000
+      internalID: -5168669194550027049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wood Rod Idle_31
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 20
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b33b756333b4c880800000000000000
+      internalID: -8591545155788786761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wood Rod Idle_32
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 20
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8db14c0db4a5d4eb0800000000000000
+      internalID: -4734028351624963112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wood Rod Idle_33
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 20
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31e77febd46bb30f0800000000000000
+      internalID: -1136114035948290541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wood Rod Idle_34
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 20
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4632c4d4e8ed01d30800000000000000
+      internalID: 4400261538704532324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wood Rod Idle_35
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 20
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 045dd46aba654b340800000000000000
+      internalID: 4878619591578604864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wood Rod Idle_36
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 20
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a79b848b135a2eb0800000000000000
+      internalID: -4743887879828432992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wood Rod Idle_37
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 20
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c71c0704ff6811a20800000000000000
+      internalID: 3031352455052968316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wood Rod Idle_38
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 20
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dc53f031c73f0ca0800000000000000
+      internalID: -6048554471645815591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wood Rod Idle_39
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 20
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6e015371fd233830800000000000000
+      internalID: 4049631004981268079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,780 @@
+fileFormatVersion: 2
+guid: 1855cc584eec2f34498143a2c4a16d12
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2680526735081908257
+    second: Base Purple Pickaxe_0
+  - first:
+      213: -3657848145083528480
+    second: Base Purple Pickaxe_1
+  - first:
+      213: 1217532572800189399
+    second: Base Purple Pickaxe_2
+  - first:
+      213: 2850868298565697596
+    second: Base Purple Pickaxe_3
+  - first:
+      213: -8928768980726417253
+    second: Base Purple Pickaxe_4
+  - first:
+      213: 3910315025804771976
+    second: Base Purple Pickaxe_5
+  - first:
+      213: -8276635877042859768
+    second: Base Purple Pickaxe_6
+  - first:
+      213: -2825892147193068805
+    second: Base Purple Pickaxe_7
+  - first:
+      213: -426943565185464082
+    second: Base Purple Pickaxe_8
+  - first:
+      213: -2624610692723057964
+    second: Base Purple Pickaxe_9
+  - first:
+      213: -2948428346627682702
+    second: Base Purple Pickaxe_10
+  - first:
+      213: -675387477384980866
+    second: Base Purple Pickaxe_11
+  - first:
+      213: -5601559208147598438
+    second: Base Purple Pickaxe_12
+  - first:
+      213: 8540803418579381404
+    second: Base Purple Pickaxe_13
+  - first:
+      213: -4129871390203636541
+    second: Base Purple Pickaxe_14
+  - first:
+      213: -1713887813322813664
+    second: Base Purple Pickaxe_15
+  - first:
+      213: 8632093836565367162
+    second: Base Purple Pickaxe_16
+  - first:
+      213: 6699111534863276525
+    second: Base Purple Pickaxe_17
+  - first:
+      213: -6925243368213777645
+    second: Base Purple Pickaxe_18
+  - first:
+      213: 2883373703993562302
+    second: Base Purple Pickaxe_19
+  - first:
+      213: 5941839569797809158
+    second: Base Purple Pickaxe_20
+  - first:
+      213: 3802328843495202758
+    second: Base Purple Pickaxe_21
+  - first:
+      213: -5798937926821490567
+    second: Base Purple Pickaxe_22
+  - first:
+      213: -7430333331894731616
+    second: Base Purple Pickaxe_23
+  - first:
+      213: 3101439258822760228
+    second: Base Purple Pickaxe_24
+  - first:
+      213: 8299344159699628208
+    second: Base Purple Pickaxe_25
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Base Purple Pickaxe_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 121
+        width: 333
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd75180f22bdccad0800000000000000
+      internalID: -2680526735081908257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Pickaxe_1
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 196
+        width: 86
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ea89fdfd76bc3dc0800000000000000
+      internalID: -3657848145083528480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Pickaxe_2
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 186
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d309389c6b85e010800000000000000
+      internalID: 1217532572800189399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Pickaxe_3
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 278
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c304e6dec91509720800000000000000
+      internalID: 2850868298565697596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Pickaxe_4
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 185
+        width: 179
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b98764e2be3a61480800000000000000
+      internalID: -8928768980726417253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Pickaxe_5
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 125
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88247f85cca344630800000000000000
+      internalID: 3910315025804771976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Pickaxe_6
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 115
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8015b95758b732d80800000000000000
+      internalID: -8276635877042859768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Pickaxe_7
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 117
+        width: 36
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf2cdf8701a68c8d0800000000000000
+      internalID: -2825892147193068805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Pickaxe_8
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 110
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee84bf9e611331af0800000000000000
+      internalID: -426943565185464082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Pickaxe_9
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 110
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dadc821b72839bd0800000000000000
+      internalID: -2624610692723057964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Pickaxe_10
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 109
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27e80994a041517d0800000000000000
+      internalID: -2948428346627682702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Pickaxe_11
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 116
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7698bceaaa80a6f0800000000000000
+      internalID: -675387477384980866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Pickaxe_12
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 109
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a934b0a14934342b0800000000000000
+      internalID: -5601559208147598438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Pickaxe_13
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 108
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9cadd44577078670800000000000000
+      internalID: 8540803418579381404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Pickaxe_14
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 38
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c41dd20adfbfa6c0800000000000000
+      internalID: -4129871390203636541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Pickaxe_15
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 38
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02fc5064d1c0738e0800000000000000
+      internalID: -1713887813322813664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Pickaxe_16
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 35
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a79415c0c9b5bc770800000000000000
+      internalID: 8632093836565367162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Pickaxe_17
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 29
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de95f32927608fc50800000000000000
+      internalID: 6699111534863276525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Pickaxe_18
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 28
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 313fc7e19d794ef90800000000000000
+      internalID: -6925243368213777645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Pickaxe_19
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 37
+        width: 36
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb41d356b1dc30820800000000000000
+      internalID: 2883373703993562302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Pickaxe_20
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 30
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60488268b97a57250800000000000000
+      internalID: 5941839569797809158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Pickaxe_21
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 30
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cfd0c300f594c430800000000000000
+      internalID: 3802328843495202758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Pickaxe_22
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 41
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 970d34dfda8068fa0800000000000000
+      internalID: -5798937926821490567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Pickaxe_23
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 42
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ac7ba5c33722e890800000000000000
+      internalID: -7430333331894731616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Pickaxe_24
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 29
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 427d492e2968a0b20800000000000000
+      internalID: 3101439258822760228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Purple Pickaxe_25
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 36
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b0fb9b9a813d2370800000000000000
+      internalID: 8299344159699628208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

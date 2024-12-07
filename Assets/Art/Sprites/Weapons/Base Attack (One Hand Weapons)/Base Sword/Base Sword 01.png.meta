@@ -1,0 +1,1055 @@
+fileFormatVersion: 2
+guid: 9e10bd97516c9a5419ff013bad6d9377
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7388574772537643890
+    second: Base Sword 01_0
+  - first:
+      213: -6831427048678426515
+    second: Base Sword 01_1
+  - first:
+      213: 648835367182949983
+    second: Base Sword 01_2
+  - first:
+      213: -8450771097468466268
+    second: Base Sword 01_3
+  - first:
+      213: 5703226818395308843
+    second: Base Sword 01_4
+  - first:
+      213: -4968841579330208997
+    second: Base Sword 01_5
+  - first:
+      213: 5743308473905360517
+    second: Base Sword 01_6
+  - first:
+      213: 8075799315344364458
+    second: Base Sword 01_7
+  - first:
+      213: 9097378750500684625
+    second: Base Sword 01_8
+  - first:
+      213: 242426651817950839
+    second: Base Sword 01_9
+  - first:
+      213: 7986084771281952464
+    second: Base Sword 01_10
+  - first:
+      213: 3998267298879468064
+    second: Base Sword 01_11
+  - first:
+      213: 8179459897073428425
+    second: Base Sword 01_12
+  - first:
+      213: -5494028964320757003
+    second: Base Sword 01_13
+  - first:
+      213: -1680161010943150053
+    second: Base Sword 01_14
+  - first:
+      213: -7449950106686553663
+    second: Base Sword 01_15
+  - first:
+      213: 7062126790572850631
+    second: Base Sword 01_16
+  - first:
+      213: -5943511485133947299
+    second: Base Sword 01_17
+  - first:
+      213: 2778540106523355936
+    second: Base Sword 01_18
+  - first:
+      213: 7968310051147499308
+    second: Base Sword 01_19
+  - first:
+      213: -5505714378016667466
+    second: Base Sword 01_20
+  - first:
+      213: -4862248887338016029
+    second: Base Sword 01_21
+  - first:
+      213: 7019491302105896749
+    second: Base Sword 01_22
+  - first:
+      213: 3696293527129406289
+    second: Base Sword 01_23
+  - first:
+      213: -2860007607639441355
+    second: Base Sword 01_24
+  - first:
+      213: -7826203844052072358
+    second: Base Sword 01_25
+  - first:
+      213: -489469749797216657
+    second: Base Sword 01_26
+  - first:
+      213: 1596522073909023290
+    second: Base Sword 01_27
+  - first:
+      213: 3815686053673577290
+    second: Base Sword 01_28
+  - first:
+      213: 7851812840331381227
+    second: Base Sword 01_29
+  - first:
+      213: -6289213206299623446
+    second: Base Sword 01_30
+  - first:
+      213: 407224726861278615
+    second: Base Sword 01_31
+  - first:
+      213: 639203619631695409
+    second: Base Sword 01_32
+  - first:
+      213: 8788179919864809546
+    second: Base Sword 01_33
+  - first:
+      213: -635104324740407309
+    second: Base Sword 01_34
+  - first:
+      213: -4160770482024265248
+    second: Base Sword 01_35
+  - first:
+      213: 9119037376833790303
+    second: Base Sword 01_36
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Base Sword 01_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 272
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8c2b760462867990800000000000000
+      internalID: -7388574772537643890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Sword 01_1
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 271
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d68f68e2b45e131a0800000000000000
+      internalID: -6831427048678426515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Sword 01_2
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 270
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5e56aa2450210900800000000000000
+      internalID: 648835367182949983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Sword 01_3
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 283
+        width: 33
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ab01410674d8ba80800000000000000
+      internalID: -8450771097468466268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Sword 01_4
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 282
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b230fe7039ee52f40800000000000000
+      internalID: 5703226818395308843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Sword 01_5
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 280
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1bf4ded8e02b0bb0800000000000000
+      internalID: -4968841579330208997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Sword 01_6
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 283
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58eae9ea0a454bf40800000000000000
+      internalID: 5743308473905360517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Sword 01_7
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 285
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa3917c90b0031070800000000000000
+      internalID: 8075799315344364458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Sword 01_8
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 273
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 153c7ca06c1604e70800000000000000
+      internalID: 9097378750500684625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Sword 01_9
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 194
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77e32b161c54d5300800000000000000
+      internalID: 242426651817950839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Sword 01_10
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 195
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0deda6299c544de60800000000000000
+      internalID: 7986084771281952464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Sword 01_11
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 196
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02275c2bce2bc7730800000000000000
+      internalID: 3998267298879468064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Sword 01_12
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 175
+        width: 33
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c76d939077438170800000000000000
+      internalID: 8179459897073428425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Sword 01_13
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 177
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fa34fbf3c941c3b0800000000000000
+      internalID: -5494028964320757003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Sword 01_14
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 187
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b18b541667edea8e0800000000000000
+      internalID: -1680161010943150053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Sword 01_15
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 187
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c1809879d57c9890800000000000000
+      internalID: -7449950106686553663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Sword 01_16
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 185
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cd3dd636e6b10260800000000000000
+      internalID: 7062126790572850631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Sword 01_17
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 186
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5ef22a5bc7648da0800000000000000
+      internalID: -5943511485133947299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Sword 01_18
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 103
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02b208b618b5f8620800000000000000
+      internalID: 2778540106523355936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Sword 01_19
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 103
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2742da06cf159e60800000000000000
+      internalID: 7968310051147499308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Sword 01_20
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 103
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b84e8791f5c793b0800000000000000
+      internalID: -5505714378016667466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Sword 01_21
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e2eda4f562d58cb0800000000000000
+      internalID: -4862248887338016029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Sword 01_22
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 115
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2757fdf52e3a6160800000000000000
+      internalID: 7019491302105896749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Sword 01_23
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 115
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15bbf1e016fdb4330800000000000000
+      internalID: 3696293527129406289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Sword 01_24
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 117
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5308cbbdb363f48d0800000000000000
+      internalID: -2860007607639441355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Sword 01_25
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 115
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a58ca7f911db36390800000000000000
+      internalID: -7826203844052072358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Sword 01_26
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 102
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6e990b1bdd0539f0800000000000000
+      internalID: -489469749797216657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Sword 01_27
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 34
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a32da631e5cf72610800000000000000
+      internalID: 1596522073909023290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Sword 01_28
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 34
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4b20abdf3a04f430800000000000000
+      internalID: 3815686053673577290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Sword 01_29
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 34
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be98dc67d2e37fc60800000000000000
+      internalID: 7851812840331381227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Sword 01_30
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 23
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aefb0d919e938b8a0800000000000000
+      internalID: -6289213206299623446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Sword 01_31
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 19
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79d62544bb0c6a500800000000000000
+      internalID: 407224726861278615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Sword 01_32
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 18
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1368a4f2e48eed800800000000000000
+      internalID: 639203619631695409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Sword 01_33
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 19
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4843c94313e5f970800000000000000
+      internalID: 8788179919864809546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Sword 01_34
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 21
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ff98884bf7af27f0800000000000000
+      internalID: -635104324740407309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Sword 01_35
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 33
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e943039a49f146c0800000000000000
+      internalID: -4160770482024265248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Sword 01_36
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 23
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5120b3fd245d8e70800000000000000
+      internalID: 9119037376833790303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

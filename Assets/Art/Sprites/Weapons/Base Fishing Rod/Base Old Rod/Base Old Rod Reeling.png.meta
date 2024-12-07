@@ -1,0 +1,1130 @@
+fileFormatVersion: 2
+guid: 8ee6c4064b309a24f9cea2b2043a198e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2984708365070266991
+    second: Base Old Rod Reeling_0
+  - first:
+      213: -5692993357704030349
+    second: Base Old Rod Reeling_1
+  - first:
+      213: -7761944657945489505
+    second: Base Old Rod Reeling_2
+  - first:
+      213: 5790143519381151673
+    second: Base Old Rod Reeling_3
+  - first:
+      213: -3056497082425244978
+    second: Base Old Rod Reeling_4
+  - first:
+      213: -2724000579366926894
+    second: Base Old Rod Reeling_5
+  - first:
+      213: -6275387255051417700
+    second: Base Old Rod Reeling_6
+  - first:
+      213: 7555145598378479231
+    second: Base Old Rod Reeling_7
+  - first:
+      213: -6460981040420984500
+    second: Base Old Rod Reeling_8
+  - first:
+      213: 7737474110340476649
+    second: Base Old Rod Reeling_9
+  - first:
+      213: -6918142351234322799
+    second: Base Old Rod Reeling_10
+  - first:
+      213: 8758820429485079875
+    second: Base Old Rod Reeling_11
+  - first:
+      213: -2286172341219307104
+    second: Base Old Rod Reeling_12
+  - first:
+      213: -6093608699471387642
+    second: Base Old Rod Reeling_13
+  - first:
+      213: -5574668245532275416
+    second: Base Old Rod Reeling_14
+  - first:
+      213: 7943003792607188601
+    second: Base Old Rod Reeling_15
+  - first:
+      213: 8249903702664230031
+    second: Base Old Rod Reeling_16
+  - first:
+      213: -6276678427762464968
+    second: Base Old Rod Reeling_17
+  - first:
+      213: -2443766297653472320
+    second: Base Old Rod Reeling_18
+  - first:
+      213: 1610860902378945619
+    second: Base Old Rod Reeling_19
+  - first:
+      213: -8174890627927768597
+    second: Base Old Rod Reeling_20
+  - first:
+      213: 5986311998192047909
+    second: Base Old Rod Reeling_21
+  - first:
+      213: -8611253689526475648
+    second: Base Old Rod Reeling_22
+  - first:
+      213: 3381367183563303611
+    second: Base Old Rod Reeling_23
+  - first:
+      213: -6799051719043927489
+    second: Base Old Rod Reeling_24
+  - first:
+      213: 8565652969508172336
+    second: Base Old Rod Reeling_25
+  - first:
+      213: 1122248698197452914
+    second: Base Old Rod Reeling_26
+  - first:
+      213: -1246976825159369993
+    second: Base Old Rod Reeling_27
+  - first:
+      213: 4754443568214113519
+    second: Base Old Rod Reeling_28
+  - first:
+      213: -2276971976390367027
+    second: Base Old Rod Reeling_29
+  - first:
+      213: -1425227472893520688
+    second: Base Old Rod Reeling_30
+  - first:
+      213: 8316445903743014315
+    second: Base Old Rod Reeling_31
+  - first:
+      213: -7890383358680667195
+    second: Base Old Rod Reeling_32
+  - first:
+      213: -6270207897112165178
+    second: Base Old Rod Reeling_33
+  - first:
+      213: 5478427772361512532
+    second: Base Old Rod Reeling_34
+  - first:
+      213: -7294609277999958581
+    second: Base Old Rod Reeling_35
+  - first:
+      213: 3770909713840908414
+    second: Base Old Rod Reeling_36
+  - first:
+      213: -2886259092075545115
+    second: Base Old Rod Reeling_37
+  - first:
+      213: 6899346998495828461
+    second: Base Old Rod Reeling_38
+  - first:
+      213: -8120192010946990585
+    second: Base Old Rod Reeling_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Base Old Rod Reeling_0
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 285
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f627622c170db6920800000000000000
+      internalID: 2984708365070266991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Old Rod Reeling_1
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 285
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 377946534bc6ef0b0800000000000000
+      internalID: -5692993357704030349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Old Rod Reeling_2
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 284
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9f0be84578084490800000000000000
+      internalID: -7761944657945489505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Old Rod Reeling_3
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 279
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bf5e377ad8ba5050800000000000000
+      internalID: 5790143519381151673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Old Rod Reeling_4
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 279
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec28609f8142595d0800000000000000
+      internalID: -3056497082425244978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Old Rod Reeling_5
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 282
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d540eac7e7623ad0800000000000000
+      internalID: -2724000579366926894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Old Rod Reeling_6
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 279
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9785aa3a8859e8a0800000000000000
+      internalID: -6275387255051417700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Old Rod Reeling_7
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 284
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7e84b194e449d860800000000000000
+      internalID: 7555145598378479231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Old Rod Reeling_8
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 277
+        width: 9
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c496c29b9fbf556a0800000000000000
+      internalID: -6460981040420984500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Old Rod Reeling_9
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 284
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ee20ad55b7016b60800000000000000
+      internalID: 7737474110340476649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Old Rod Reeling_10
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 180
+        width: 7
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19ea7197f22ddff90800000000000000
+      internalID: -6918142351234322799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Old Rod Reeling_11
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 180
+        width: 8
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34d74ee36c49d8970800000000000000
+      internalID: 8758820429485079875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Old Rod Reeling_12
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 180
+        width: 9
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a1dc4a4e52e540e0800000000000000
+      internalID: -2286172341219307104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Old Rod Reeling_13
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 180
+        width: 10
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60427c35c272f6ba0800000000000000
+      internalID: -6093608699471387642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Old Rod Reeling_14
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 180
+        width: 11
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82d066c34ccc2a2b0800000000000000
+      internalID: -5574668245532275416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Old Rod Reeling_15
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 180
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9769ee39dd73b3e60800000000000000
+      internalID: 7943003792607188601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Old Rod Reeling_16
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 180
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f843b7c25bb8d7270800000000000000
+      internalID: 8249903702664230031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Old Rod Reeling_17
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 180
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8376cd7a932c4e8a0800000000000000
+      internalID: -6276678427762464968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Old Rod Reeling_18
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 180
+        width: 9
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c31b4aff7ff51ed0800000000000000
+      internalID: -2443766297653472320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Old Rod Reeling_19
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 180
+        width: 10
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35cbcdcb47dea5610800000000000000
+      internalID: 1610860902378945619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Old Rod Reeling_20
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 100
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be102bc4944fc8e80800000000000000
+      internalID: -8174890627927768597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Old Rod Reeling_21
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 100
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52755e6ab07a31350800000000000000
+      internalID: 5986311998192047909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Old Rod Reeling_22
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 100
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 084a00dc46eae7880800000000000000
+      internalID: -8611253689526475648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Old Rod Reeling_23
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 100
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bba2477c9870dee20800000000000000
+      internalID: 3381367183563303611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Old Rod Reeling_24
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 100
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f32b0e40c7ae4a1a0800000000000000
+      internalID: -6799051719043927489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Old Rod Reeling_25
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 100
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 032fdc43eff4fd670800000000000000
+      internalID: 8565652969508172336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Old Rod Reeling_26
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 100
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27824bdbe37039f00800000000000000
+      internalID: 1122248698197452914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Old Rod Reeling_27
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 100
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fa3b3d2f29d1bee0800000000000000
+      internalID: -1246976825159369993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Old Rod Reeling_28
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 100
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fecfa043c3d2bf140800000000000000
+      internalID: 4754443568214113519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Old Rod Reeling_29
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 100
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc8abb72d029660e0800000000000000
+      internalID: -2276971976390367027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Old Rod Reeling_30
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 20
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d4dd022a23983ce0800000000000000
+      internalID: -1425227472893520688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Old Rod Reeling_31
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 20
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba5da5eac73f96370800000000000000
+      internalID: 8316445903743014315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Old Rod Reeling_32
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 20
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cb6f2ce32abf7290800000000000000
+      internalID: -7890383358680667195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Old Rod Reeling_33
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 20
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c4c7c8732fbbf8a0800000000000000
+      internalID: -6270207897112165178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Old Rod Reeling_34
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 20
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4561e337809470c40800000000000000
+      internalID: 5478427772361512532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Old Rod Reeling_35
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 20
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc53b89928754ca90800000000000000
+      internalID: -7294609277999958581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Old Rod Reeling_36
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 20
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e78ae85d766f45430800000000000000
+      internalID: 3770909713840908414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Old Rod Reeling_37
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 20
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ed7817d5a2f1f7d0800000000000000
+      internalID: -2886259092075545115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Old Rod Reeling_38
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 20
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de950837a876fbf50800000000000000
+      internalID: 6899346998495828461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Old Rod Reeling_39
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 20
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70e2a8f73684f4f80800000000000000
+      internalID: -8120192010946990585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

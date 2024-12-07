@@ -1,0 +1,1130 @@
+fileFormatVersion: 2
+guid: 59ea6d5af2dc68c4a996e05c600cf886
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -638986122319866254
+    second: Base Gold Rod Reeling_0
+  - first:
+      213: -9052391659442295189
+    second: Base Gold Rod Reeling_1
+  - first:
+      213: -4728427133326097115
+    second: Base Gold Rod Reeling_2
+  - first:
+      213: -4093473960588122844
+    second: Base Gold Rod Reeling_3
+  - first:
+      213: 119205499283556154
+    second: Base Gold Rod Reeling_4
+  - first:
+      213: 2475015270994512352
+    second: Base Gold Rod Reeling_5
+  - first:
+      213: -1005426900768521420
+    second: Base Gold Rod Reeling_6
+  - first:
+      213: 7926902700973188828
+    second: Base Gold Rod Reeling_7
+  - first:
+      213: 5599021675257991236
+    second: Base Gold Rod Reeling_8
+  - first:
+      213: -4713428498614739975
+    second: Base Gold Rod Reeling_9
+  - first:
+      213: 3568329345832514973
+    second: Base Gold Rod Reeling_10
+  - first:
+      213: -7998870262121983654
+    second: Base Gold Rod Reeling_11
+  - first:
+      213: 5170651513054399748
+    second: Base Gold Rod Reeling_12
+  - first:
+      213: 1547799084514492582
+    second: Base Gold Rod Reeling_13
+  - first:
+      213: -6302840189575571795
+    second: Base Gold Rod Reeling_14
+  - first:
+      213: -5447692044210664859
+    second: Base Gold Rod Reeling_15
+  - first:
+      213: 5953267413636044730
+    second: Base Gold Rod Reeling_16
+  - first:
+      213: 6849839659714984632
+    second: Base Gold Rod Reeling_17
+  - first:
+      213: -630275477687017983
+    second: Base Gold Rod Reeling_18
+  - first:
+      213: -3356958698811302534
+    second: Base Gold Rod Reeling_19
+  - first:
+      213: 125422940880908873
+    second: Base Gold Rod Reeling_20
+  - first:
+      213: 2984958577733342616
+    second: Base Gold Rod Reeling_21
+  - first:
+      213: 4484730670579510795
+    second: Base Gold Rod Reeling_22
+  - first:
+      213: -6219358945131089864
+    second: Base Gold Rod Reeling_23
+  - first:
+      213: -7847675643713059335
+    second: Base Gold Rod Reeling_24
+  - first:
+      213: -5238283769081256690
+    second: Base Gold Rod Reeling_25
+  - first:
+      213: -514037627308919521
+    second: Base Gold Rod Reeling_26
+  - first:
+      213: 5575949653985106983
+    second: Base Gold Rod Reeling_27
+  - first:
+      213: 6651475769891988979
+    second: Base Gold Rod Reeling_28
+  - first:
+      213: 6158250298158898965
+    second: Base Gold Rod Reeling_29
+  - first:
+      213: -7504015620451812693
+    second: Base Gold Rod Reeling_30
+  - first:
+      213: -3239343123299862487
+    second: Base Gold Rod Reeling_31
+  - first:
+      213: 2103476009850759385
+    second: Base Gold Rod Reeling_32
+  - first:
+      213: -9143813346890438031
+    second: Base Gold Rod Reeling_33
+  - first:
+      213: -1883217515916361558
+    second: Base Gold Rod Reeling_34
+  - first:
+      213: -5862994071768176748
+    second: Base Gold Rod Reeling_35
+  - first:
+      213: 6912523182515882734
+    second: Base Gold Rod Reeling_36
+  - first:
+      213: 1130997493350543606
+    second: Base Gold Rod Reeling_37
+  - first:
+      213: 7524455833547963240
+    second: Base Gold Rod Reeling_38
+  - first:
+      213: -5116652321082859209
+    second: Base Gold Rod Reeling_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Base Gold Rod Reeling_0
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 285
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27658bad18dd127f0800000000000000
+      internalID: -638986122319866254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Rod Reeling_1
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 285
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6eab335fb17f5280800000000000000
+      internalID: -9052391659442295189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Rod Reeling_2
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 284
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52587c31390416eb0800000000000000
+      internalID: -4728427133326097115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Rod Reeling_3
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 279
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42565d9fe1f0137c0800000000000000
+      internalID: -4093473960588122844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Rod Reeling_4
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 279
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a37c11025c087a100800000000000000
+      internalID: 119205499283556154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Rod Reeling_5
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 282
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e98b499645095220800000000000000
+      internalID: 2475015270994512352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Rod Reeling_6
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 279
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 433021c8f810c02f0800000000000000
+      internalID: -1005426900768521420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Rod Reeling_7
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 284
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd6679c0204020e60800000000000000
+      internalID: 7926902700973188828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Rod Reeling_8
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 277
+        width: 9
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 440177b7c88b3bd40800000000000000
+      internalID: 5599021675257991236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Rod Reeling_9
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 284
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fb9dd9d0c9869eb0800000000000000
+      internalID: -4713428498614739975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Rod Reeling_10
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 180
+        width: 7
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d95f2fb52a0458130800000000000000
+      internalID: 3568329345832514973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Rod Reeling_11
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 180
+        width: 8
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5198cd50ed4ef090800000000000000
+      internalID: -7998870262121983654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Rod Reeling_12
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 180
+        width: 9
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40d81f4e728d1c740800000000000000
+      internalID: 5170651513054399748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Rod Reeling_13
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 180
+        width: 10
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a049281113ea7510800000000000000
+      internalID: 1547799084514492582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Rod Reeling_14
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 180
+        width: 11
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da6da40dd30d788a0800000000000000
+      internalID: -6302840189575571795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Rod Reeling_15
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 180
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56a0a1be2f8e564b0800000000000000
+      internalID: -5447692044210664859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Rod Reeling_16
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 180
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab75fa2cb214e9250800000000000000
+      internalID: 5953267413636044730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Rod Reeling_17
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 180
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bab1b5e0e48f0f50800000000000000
+      internalID: 6849839659714984632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Rod Reeling_18
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 180
+        width: 9
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10e53d9dacfc047f0800000000000000
+      internalID: -630275477687017983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Rod Reeling_19
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 180
+        width: 10
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7dd1bf69dfa961d0800000000000000
+      internalID: -3356958698811302534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Rod Reeling_20
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 100
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94234ed00879db100800000000000000
+      internalID: 125422940880908873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Rod Reeling_21
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 100
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8951d0fe204bc6920800000000000000
+      internalID: 2984958577733342616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Rod Reeling_22
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 100
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0ee035a8c6fc3e30800000000000000
+      internalID: 4484730670579510795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Rod Reeling_23
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 100
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83030d0bdf560b9a0800000000000000
+      internalID: -6219358945131089864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Rod Reeling_24
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 100
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f58fffa494771390800000000000000
+      internalID: -7847675643713059335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Rod Reeling_25
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 100
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e05a7376aa0ed47b0800000000000000
+      internalID: -5238283769081256690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Rod Reeling_26
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 100
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f15311f5085cdd8f0800000000000000
+      internalID: -514037627308919521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Rod Reeling_27
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 100
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72c9e3beaa0c16d40800000000000000
+      internalID: 5575949653985106983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Rod Reeling_28
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 100
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f5a780c8f9ce4c50800000000000000
+      internalID: 6651475769891988979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Rod Reeling_29
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 100
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51f54b3b400867550800000000000000
+      internalID: 6158250298158898965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Rod Reeling_30
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 20
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baabcf91d816cd790800000000000000
+      internalID: -7504015620451812693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Rod Reeling_31
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 20
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9287b16979a8b03d0800000000000000
+      internalID: -3239343123299862487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Rod Reeling_32
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 20
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d8e5b8494c013d10800000000000000
+      internalID: 2103476009850759385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Rod Reeling_33
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 20
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17aae1ef436aa1180800000000000000
+      internalID: -9143813346890438031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Rod Reeling_34
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 20
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa00301a5a77dd5e0800000000000000
+      internalID: -1883217515916361558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Rod Reeling_35
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 20
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 497690884f572aea0800000000000000
+      internalID: -5862994071768176748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Rod Reeling_36
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 20
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eea038bd5373eef50800000000000000
+      internalID: 6912523182515882734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Rod Reeling_37
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 20
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f034095a3c12bf00800000000000000
+      internalID: 1130997493350543606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Rod Reeling_38
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 20
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86bfdbed6bc3c6860800000000000000
+      internalID: 7524455833547963240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Rod Reeling_39
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 20
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 731adaab2dffdf8b0800000000000000
+      internalID: -5116652321082859209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

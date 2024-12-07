@@ -1,0 +1,1855 @@
+fileFormatVersion: 2
+guid: 77cd1183bc3a99a40b8a056723bf0825
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3850602130102856550
+    second: Base Gold Hoe_0
+  - first:
+      213: -3496090914711021666
+    second: Base Gold Hoe_1
+  - first:
+      213: -7916181484646126292
+    second: Base Gold Hoe_2
+  - first:
+      213: 8280309321346777979
+    second: Base Gold Hoe_3
+  - first:
+      213: -6078320170890051757
+    second: Base Gold Hoe_4
+  - first:
+      213: 8828579289706427686
+    second: Base Gold Hoe_5
+  - first:
+      213: -1851899799157111879
+    second: Base Gold Hoe_6
+  - first:
+      213: 8939252740279322902
+    second: Base Gold Hoe_7
+  - first:
+      213: 4501932141706723932
+    second: Base Gold Hoe_8
+  - first:
+      213: 4633897188274517368
+    second: Base Gold Hoe_9
+  - first:
+      213: 3465272768027168192
+    second: Base Gold Hoe_10
+  - first:
+      213: 1249957606662879674
+    second: Base Gold Hoe_11
+  - first:
+      213: -7658271516278925506
+    second: Base Gold Hoe_12
+  - first:
+      213: -3701815471970650341
+    second: Base Gold Hoe_13
+  - first:
+      213: 2548038150825161979
+    second: Base Gold Hoe_14
+  - first:
+      213: 1166461108438069405
+    second: Base Gold Hoe_15
+  - first:
+      213: -2195680153877128925
+    second: Base Gold Hoe_16
+  - first:
+      213: 1498553408834588075
+    second: Base Gold Hoe_17
+  - first:
+      213: 402147580889298048
+    second: Base Gold Hoe_18
+  - first:
+      213: 3019375905540261922
+    second: Base Gold Hoe_19
+  - first:
+      213: -8725717193456614299
+    second: Base Gold Hoe_20
+  - first:
+      213: -615130152279894127
+    second: Base Gold Hoe_21
+  - first:
+      213: -7742512466488085389
+    second: Base Gold Hoe_22
+  - first:
+      213: -5851269165695530611
+    second: Base Gold Hoe_23
+  - first:
+      213: 2361572992985342417
+    second: Base Gold Hoe_24
+  - first:
+      213: 4862718563028358318
+    second: Base Gold Hoe_25
+  - first:
+      213: -2336866724729907669
+    second: Base Gold Hoe_26
+  - first:
+      213: -5355334507925882771
+    second: Base Gold Hoe_27
+  - first:
+      213: -2278173990620973534
+    second: Base Gold Hoe_28
+  - first:
+      213: -7115218110704465847
+    second: Base Gold Hoe_29
+  - first:
+      213: -5682540976676100565
+    second: Base Gold Hoe_30
+  - first:
+      213: 5585117713205634079
+    second: Base Gold Hoe_31
+  - first:
+      213: -996307982630195730
+    second: Base Gold Hoe_32
+  - first:
+      213: 3292719636510367046
+    second: Base Gold Hoe_33
+  - first:
+      213: -2679797838815869175
+    second: Base Gold Hoe_34
+  - first:
+      213: -6458573572965552694
+    second: Base Gold Hoe_35
+  - first:
+      213: -2799683515951131095
+    second: Base Gold Hoe_36
+  - first:
+      213: 5337262609388355875
+    second: Base Gold Hoe_37
+  - first:
+      213: -8123875389758049462
+    second: Base Gold Hoe_38
+  - first:
+      213: -5236761510264836724
+    second: Base Gold Hoe_39
+  - first:
+      213: -8199828572796699561
+    second: Base Gold Hoe_40
+  - first:
+      213: 1591222800099465405
+    second: Base Gold Hoe_41
+  - first:
+      213: 5511054717491200892
+    second: Base Gold Hoe_42
+  - first:
+      213: 8895983595907225276
+    second: Base Gold Hoe_43
+  - first:
+      213: 5787754418561508651
+    second: Base Gold Hoe_44
+  - first:
+      213: -1328307908661215192
+    second: Base Gold Hoe_45
+  - first:
+      213: -8852439699617066989
+    second: Base Gold Hoe_46
+  - first:
+      213: -6326940565332705749
+    second: Base Gold Hoe_47
+  - first:
+      213: 7429130144702471881
+    second: Base Gold Hoe_48
+  - first:
+      213: 6070317472521130877
+    second: Base Gold Hoe_49
+  - first:
+      213: -6793961236188181378
+    second: Base Gold Hoe_50
+  - first:
+      213: 31529078807400989
+    second: Base Gold Hoe_51
+  - first:
+      213: 3494821939322965714
+    second: Base Gold Hoe_52
+  - first:
+      213: -9101384572153047274
+    second: Base Gold Hoe_53
+  - first:
+      213: 6331375202722221590
+    second: Base Gold Hoe_54
+  - first:
+      213: -3824629350689999985
+    second: Base Gold Hoe_55
+  - first:
+      213: -2840522971272046051
+    second: Base Gold Hoe_56
+  - first:
+      213: 2499858254261224402
+    second: Base Gold Hoe_57
+  - first:
+      213: -6938468811892802494
+    second: Base Gold Hoe_58
+  - first:
+      213: 8222587760879030341
+    second: Base Gold Hoe_59
+  - first:
+      213: -1381640468968536656
+    second: Base Gold Hoe_60
+  - first:
+      213: 3579320079525917671
+    second: Base Gold Hoe_61
+  - first:
+      213: -3053974158441598518
+    second: Base Gold Hoe_62
+  - first:
+      213: -3166622789185791347
+    second: Base Gold Hoe_63
+  - first:
+      213: -2891654063314810494
+    second: Base Gold Hoe_64
+  - first:
+      213: 6825348659859649784
+    second: Base Gold Hoe_65
+  - first:
+      213: -6826853658942093236
+    second: Base Gold Hoe_66
+  - first:
+      213: -6895874020276146663
+    second: Base Gold Hoe_67
+  - first:
+      213: 8566426670759474715
+    second: Base Gold Hoe_68
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Base Gold Hoe_0
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 277
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66ba4286c36107530800000000000000
+      internalID: 3850602130102856550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Hoe_1
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 282
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e97dd2e06d36b7fc0800000000000000
+      internalID: -3496090914711021666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Hoe_2
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 282
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2da426a1e2142290800000000000000
+      internalID: -7916181484646126292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Hoe_3
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 280
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b730b31f47199e270800000000000000
+      internalID: 8280309321346777979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Hoe_4
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 278
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35fb107420875aba0800000000000000
+      internalID: -6078320170890051757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Hoe_5
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 269
+        width: 9
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6257252961a658a70800000000000000
+      internalID: 8828579289706427686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Hoe_6
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 278
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b38f97c1fabc46e0800000000000000
+      internalID: -1851899799157111879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Hoe_7
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 279
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61949cd410b9e0c70800000000000000
+      internalID: 8939252740279322902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Hoe_8
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 278
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c52c75d3e631a7e30800000000000000
+      internalID: 4501932141706723932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Hoe_9
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 277
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 875b8c8f0f8ee4040800000000000000
+      internalID: 4633897188274517368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Hoe_10
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 276
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cd0814093f171030800000000000000
+      internalID: 3465272768027168192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Hoe_11
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 275
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab9307912ddb85110800000000000000
+      internalID: 1249957606662879674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Hoe_12
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 279
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e37d3b691aa58b590800000000000000
+      internalID: -7658271516278925506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Hoe_13
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 277
+        width: 168
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b17f429f07280acc0800000000000000
+      internalID: -3701815471970650341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Hoe_14
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 276
+        width: 86
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf4b316b2337c5320800000000000000
+      internalID: 2548038150825161979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Hoe_15
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 197
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9072cca23a103010800000000000000
+      internalID: 1166461108438069405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Hoe_16
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 201
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32957c388806781e0800000000000000
+      internalID: -2195680153877128925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Hoe_17
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 203
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bad498ab26eebc410800000000000000
+      internalID: 1498553408834588075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Hoe_18
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 205
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 084703a1817b49500800000000000000
+      internalID: 402147580889298048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Hoe_19
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 207
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 228c915836af6e920800000000000000
+      internalID: 3019375905540261922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Hoe_20
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 192
+        width: 9
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5640081817608e680800000000000000
+      internalID: -8725717193456614299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Hoe_21
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 178
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19799b6b26e9677f0800000000000000
+      internalID: -615130152279894127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Hoe_22
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 178
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 374b1fdeee11d8490800000000000000
+      internalID: -7742512466488085389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Hoe_23
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 178
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d898585f1bd1ccea0800000000000000
+      internalID: -5851269165695530611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Hoe_24
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 177
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d12c0eff1ef5c020800000000000000
+      internalID: 2361572992985342417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Hoe_25
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 176
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea4d000f4c8db7340800000000000000
+      internalID: 4862718563028358318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Hoe_26
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 175
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b261b095818c19fd0800000000000000
+      internalID: -2336866724729907669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Hoe_27
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 178
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d68bfa983a70ea5b0800000000000000
+      internalID: -5355334507925882771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Hoe_28
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 178
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 226b08863dc4260e0800000000000000
+      internalID: -2278173990620973534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Hoe_29
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 178
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 948c80c83daa14d90800000000000000
+      internalID: -7115218110704465847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Hoe_30
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 180
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b26ae9fc61f8321b0800000000000000
+      internalID: -5682540976676100565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Hoe_31
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 182
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f142d5c08f2528d40800000000000000
+      internalID: 5585117713205634079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Hoe_32
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 187
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eede0702b276c22f0800000000000000
+      internalID: -996307982630195730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Hoe_33
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 125
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64d5727501712bd20800000000000000
+      internalID: 3292719636510367046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Hoe_34
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 122
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 907458350127fcad0800000000000000
+      internalID: -2679797838815869175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Hoe_35
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 117
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acda9abed898e56a0800000000000000
+      internalID: -6458573572965552694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Hoe_36
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 117
+        width: 37
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9265734fca68529d0800000000000000
+      internalID: -2799683515951131095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Hoe_37
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 109
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3214191b014c11a40800000000000000
+      internalID: 5337262609388355875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Hoe_38
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 109
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a43fee90062324f80800000000000000
+      internalID: -8123875389758049462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Hoe_39
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 109
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8de937e6294357b0800000000000000
+      internalID: -5236761510264836724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Hoe_40
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 115
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75cba5b8b5b543e80800000000000000
+      internalID: -8199828572796699561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Hoe_41
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 113
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db85e6eb4b8251610800000000000000
+      internalID: 1591222800099465405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Hoe_42
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 112
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c73cdc511133b7c40800000000000000
+      internalID: 5511054717491200892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Hoe_43
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 108
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb690c192f1e47b70800000000000000
+      internalID: 8895983595907225276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Hoe_44
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 107
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b256e859afb325050800000000000000
+      internalID: 5787754418561508651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Hoe_45
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 107
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82008e7aef6e09de0800000000000000
+      internalID: -1328307908661215192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Hoe_46
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 109
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31052c4def0d52580800000000000000
+      internalID: -8852439699617066989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Hoe_47
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 109
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2eb550d3113238a0800000000000000
+      internalID: -6326940565332705749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Hoe_48
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 109
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ce13216182991760800000000000000
+      internalID: 7429130144702471881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Hoe_49
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 109
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d73187f44991e3450800000000000000
+      internalID: 6070317472521130877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Hoe_50
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 109
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7cca3b604007b1a0800000000000000
+      internalID: -6793961236188181378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Hoe_51
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 38
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d121966b783007000800000000000000
+      internalID: 31529078807400989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Hoe_52
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 38
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2de4696990a108030800000000000000
+      internalID: 3494821939322965714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Hoe_53
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 37
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 617d89ce3f261b180800000000000000
+      internalID: -9101384572153047274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Hoe_54
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 33
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61e89f9a3309dd750800000000000000
+      internalID: 6331375202722221590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Hoe_55
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 32
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f83f69a8edf2ceac0800000000000000
+      internalID: -3824629350689999985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Hoe_56
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 37
+        width: 37
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1a1ef8486f6498d0800000000000000
+      internalID: -2840522971272046051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Hoe_57
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 29
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d3811266d741b220800000000000000
+      internalID: 2499858254261224402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Hoe_58
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 29
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24cb00e806b95bf90800000000000000
+      internalID: -6938468811892802494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Hoe_59
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 29
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5405badd0008c1270800000000000000
+      internalID: 8222587760879030341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Hoe_60
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 28
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b583df405d63dce0800000000000000
+      internalID: -1381640468968536656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Hoe_61
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 27
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e3b095f5ac4ca130800000000000000
+      internalID: 3579320079525917671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Hoe_62
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 27
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac1bddcfeaa1e95d0800000000000000
+      internalID: -3053974158441598518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Hoe_63
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 29
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8a9ce8c955ed04d0800000000000000
+      internalID: -3166622789185791347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Hoe_64
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 29
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2894ec633f7ced7d0800000000000000
+      internalID: -2891654063314810494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Hoe_65
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 29
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f47f13a17288be50800000000000000
+      internalID: 6825348659859649784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Hoe_66
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 29
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c484e2574c42241a0800000000000000
+      internalID: -6826853658942093236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Hoe_67
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 29
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91e689d4d1fec40a0800000000000000
+      internalID: -6895874020276146663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Gold Hoe_68
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 35
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b16fc019baf02e670800000000000000
+      internalID: 8566426670759474715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

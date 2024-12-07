@@ -1,0 +1,1330 @@
+fileFormatVersion: 2
+guid: 61acb3f7d10144f489c20acfba080264
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1512475640692662354
+    second: Base Wood Bow_0
+  - first:
+      213: -511098412603694683
+    second: Base Wood Bow_1
+  - first:
+      213: 3599164262285454438
+    second: Base Wood Bow_2
+  - first:
+      213: -4369783009725208576
+    second: Base Wood Bow_3
+  - first:
+      213: -4271645670121204088
+    second: Base Wood Bow_4
+  - first:
+      213: 1578613783294944348
+    second: Base Wood Bow_5
+  - first:
+      213: -2718755521065754286
+    second: Base Wood Bow_6
+  - first:
+      213: -3854861231874103612
+    second: Base Wood Bow_7
+  - first:
+      213: -7519336976990049246
+    second: Base Wood Bow_8
+  - first:
+      213: -7776736644432519923
+    second: Base Wood Bow_9
+  - first:
+      213: -3452620778689474875
+    second: Base Wood Bow_10
+  - first:
+      213: 4146891709204583651
+    second: Base Wood Bow_11
+  - first:
+      213: 9126584866857156704
+    second: Base Wood Bow_12
+  - first:
+      213: 3798812656434692693
+    second: Base Wood Bow_13
+  - first:
+      213: -8526017155971230455
+    second: Base Wood Bow_14
+  - first:
+      213: -5293964012966722531
+    second: Base Wood Bow_15
+  - first:
+      213: -2175755031612216899
+    second: Base Wood Bow_16
+  - first:
+      213: -8127249412380093598
+    second: Base Wood Bow_17
+  - first:
+      213: -6406374970154977064
+    second: Base Wood Bow_18
+  - first:
+      213: 6301723797353541314
+    second: Base Wood Bow_19
+  - first:
+      213: 2077962617007578624
+    second: Base Wood Bow_20
+  - first:
+      213: -5926031978646391909
+    second: Base Wood Bow_21
+  - first:
+      213: 876060427703903160
+    second: Base Wood Bow_22
+  - first:
+      213: 4678245483488789613
+    second: Base Wood Bow_23
+  - first:
+      213: 1107160637980833154
+    second: Base Wood Bow_24
+  - first:
+      213: -3310696656862131332
+    second: Base Wood Bow_25
+  - first:
+      213: 8737042594684929519
+    second: Base Wood Bow_26
+  - first:
+      213: 5343416093078524458
+    second: Base Wood Bow_27
+  - first:
+      213: 4075115981012177552
+    second: Base Wood Bow_28
+  - first:
+      213: -6203230362132069897
+    second: Base Wood Bow_29
+  - first:
+      213: -8441023637072435775
+    second: Base Wood Bow_30
+  - first:
+      213: -8118802435042189305
+    second: Base Wood Bow_31
+  - first:
+      213: -3842302662409242759
+    second: Base Wood Bow_32
+  - first:
+      213: -7268913704836032375
+    second: Base Wood Bow_33
+  - first:
+      213: 3461149807766681223
+    second: Base Wood Bow_34
+  - first:
+      213: -2192796812956837782
+    second: Base Wood Bow_35
+  - first:
+      213: 7485628407902478153
+    second: Base Wood Bow_36
+  - first:
+      213: -2937130828031335904
+    second: Base Wood Bow_37
+  - first:
+      213: 4084253669702464112
+    second: Base Wood Bow_38
+  - first:
+      213: 7831456883741245827
+    second: Base Wood Bow_39
+  - first:
+      213: 8688262306105365613
+    second: Base Wood Bow_40
+  - first:
+      213: -2031291153062994395
+    second: Base Wood Bow_41
+  - first:
+      213: 7362256949560822674
+    second: Base Wood Bow_42
+  - first:
+      213: 6732580522569886876
+    second: Base Wood Bow_43
+  - first:
+      213: 2864675799743905627
+    second: Base Wood Bow_44
+  - first:
+      213: -8695000190008370941
+    second: Base Wood Bow_45
+  - first:
+      213: 6536244182204249546
+    second: Base Wood Bow_46
+  - first:
+      213: -1582385563602020599
+    second: Base Wood Bow_47
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Base Wood Bow_0
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 282
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 250eaeee4946df410800000000000000
+      internalID: 1512475640692662354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wood Bow_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 282
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a1ad7f93b638e8f0800000000000000
+      internalID: -511098412603694683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wood Bow_2
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 281
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66c2ecdc3dcc2f130800000000000000
+      internalID: 3599164262285454438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wood Bow_3
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 281
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 008aac731896b53c0800000000000000
+      internalID: -4369783009725208576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wood Bow_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 279
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 886171a25e018b4c0800000000000000
+      internalID: -4271645670121204088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wood Bow_5
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 279
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c54a4de3fdc58e510800000000000000
+      internalID: 1578613783294944348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wood Bow_6
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 282
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2516eb7124a054ad0800000000000000
+      internalID: -2718755521065754286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wood Bow_7
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 282
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c628bf2228c08ac0800000000000000
+      internalID: -3854861231874103612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wood Bow_8
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 281
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22c6c0ccbd2f5a790800000000000000
+      internalID: -7519336976990049246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wood Bow_9
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 281
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0d16dc893b731490800000000000000
+      internalID: -7776736644432519923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wood Bow_10
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 282
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cec41ec1b3d510d0800000000000000
+      internalID: -3452620778689474875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wood Bow_11
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 282
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e4d621d908bc8930800000000000000
+      internalID: 4146891709204583651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wood Bow_12
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 190
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0600a79e49428ae70800000000000000
+      internalID: 9126584866857156704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wood Bow_13
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 190
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5524c0bebf718b430800000000000000
+      internalID: 3798812656434692693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wood Bow_14
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 190
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 905d275c1908da980800000000000000
+      internalID: -8526017155971230455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wood Bow_15
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 190
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d14ca6167cf0886b0800000000000000
+      internalID: -5293964012966722531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wood Bow_16
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 191
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db92c7e835a2ec1e0800000000000000
+      internalID: -2175755031612216899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wood Bow_17
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 191
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 263151e28b5363f80800000000000000
+      internalID: -8127249412380093598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wood Bow_18
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 192
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d875f538ebf717a0800000000000000
+      internalID: -6406374970154977064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wood Bow_19
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 192
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ce22edd768347750800000000000000
+      internalID: 6301723797353541314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wood Bow_20
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 190
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00e174b9df766dc10800000000000000
+      internalID: 2077962617007578624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wood Bow_21
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 190
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b933d29105182cda0800000000000000
+      internalID: -5926031978646391909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wood Bow_22
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 190
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b361134154682c00800000000000000
+      internalID: 876060427703903160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wood Bow_23
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 190
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d64cc671b777ce040800000000000000
+      internalID: 4678245483488789613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wood Bow_24
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 120
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2857428fbbc6d5f00800000000000000
+      internalID: 1107160637980833154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wood Bow_25
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 111
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7bc8a07eea0e02d0800000000000000
+      internalID: -3310696656862131332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wood Bow_26
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 120
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe507a3f2f5304970800000000000000
+      internalID: 8737042594684929519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wood Bow_27
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 111
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a221d0340a0a72a40800000000000000
+      internalID: 5343416093078524458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wood Bow_28
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 120
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0929fb2d468bd8830800000000000000
+      internalID: 4075115981012177552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wood Bow_29
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 112
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f1433d0ad2b9e9a0800000000000000
+      internalID: -6203230362132069897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wood Bow_30
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 120
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c52f9b79b57bda80800000000000000
+      internalID: -8441023637072435775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wood Bow_31
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 111
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 700ebb95338345f80800000000000000
+      internalID: -8118802435042189305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wood Bow_32
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 120
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9773f8ff5166daac0800000000000000
+      internalID: -3842302662409242759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wood Bow_33
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 111
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98897407f71af1b90800000000000000
+      internalID: -7268913704836032375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wood Bow_34
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 120
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78638568969780030800000000000000
+      internalID: 3461149807766681223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wood Bow_35
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 111
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a685913aaee9191e0800000000000000
+      internalID: -2192796812956837782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wood Bow_36
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 40
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94f999d506b42e760800000000000000
+      internalID: 7485628407902478153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wood Bow_37
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 31
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 022e750d2173d37d0800000000000000
+      internalID: -2937130828031335904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wood Bow_38
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 40
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0727333c21f2ea830800000000000000
+      internalID: 4084253669702464112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wood Bow_39
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 31
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3814f2dfa8ceeac60800000000000000
+      internalID: 7831456883741245827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wood Bow_40
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 40
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6493d6f888e29870800000000000000
+      internalID: 8688262306105365613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wood Bow_41
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 32
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52e594265776fc3e0800000000000000
+      internalID: -2031291153062994395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wood Bow_42
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 40
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29b49bf40bdfb2660800000000000000
+      internalID: 7362256949560822674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wood Bow_43
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 31
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9ced75805eee6d50800000000000000
+      internalID: 6732580522569886876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wood Bow_44
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 40
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5fb460567f51c720800000000000000
+      internalID: 2864675799743905627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wood Bow_45
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 31
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 309d8903567255780800000000000000
+      internalID: -8695000190008370941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wood Bow_46
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 40
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac57f75047765ba50800000000000000
+      internalID: 6536244182204249546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wood Bow_47
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 31
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9079bc7b6bc3a0ae0800000000000000
+      internalID: -1582385563602020599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

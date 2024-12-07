@@ -1,0 +1,1055 @@
+fileFormatVersion: 2
+guid: 1ce7109d2ff8cec4e8e345f4328e1b78
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -652699353363741010
+    second: Base Wrench_0
+  - first:
+      213: 8949465234359564443
+    second: Base Wrench_1
+  - first:
+      213: 5241569813339624566
+    second: Base Wrench_2
+  - first:
+      213: 3556181338691938200
+    second: Base Wrench_3
+  - first:
+      213: 598308429684224451
+    second: Base Wrench_4
+  - first:
+      213: 3753631173090916853
+    second: Base Wrench_5
+  - first:
+      213: -5268694678733247297
+    second: Base Wrench_6
+  - first:
+      213: 2754748578874811810
+    second: Base Wrench_7
+  - first:
+      213: -3286052367329739612
+    second: Base Wrench_8
+  - first:
+      213: 3821963745233640805
+    second: Base Wrench_9
+  - first:
+      213: -8309890461923731275
+    second: Base Wrench_10
+  - first:
+      213: 1113234769342885000
+    second: Base Wrench_11
+  - first:
+      213: 3925835795961525759
+    second: Base Wrench_12
+  - first:
+      213: 527357672724575830
+    second: Base Wrench_13
+  - first:
+      213: -1156599112391949636
+    second: Base Wrench_14
+  - first:
+      213: 7700910417227104425
+    second: Base Wrench_15
+  - first:
+      213: 1703204042621620434
+    second: Base Wrench_16
+  - first:
+      213: -768122754962649395
+    second: Base Wrench_17
+  - first:
+      213: 816609882117535770
+    second: Base Wrench_18
+  - first:
+      213: -3940855198552932850
+    second: Base Wrench_19
+  - first:
+      213: 5012255958048279395
+    second: Base Wrench_20
+  - first:
+      213: 1076278371601354573
+    second: Base Wrench_21
+  - first:
+      213: 2144726792211393863
+    second: Base Wrench_22
+  - first:
+      213: 6262106204494284896
+    second: Base Wrench_23
+  - first:
+      213: -2190746115316702993
+    second: Base Wrench_24
+  - first:
+      213: -8386136138065489451
+    second: Base Wrench_25
+  - first:
+      213: 1467036176593652212
+    second: Base Wrench_26
+  - first:
+      213: -1185290748160650579
+    second: Base Wrench_27
+  - first:
+      213: 241320928832081646
+    second: Base Wrench_28
+  - first:
+      213: 827396036979882333
+    second: Base Wrench_29
+  - first:
+      213: -1119764660790893647
+    second: Base Wrench_30
+  - first:
+      213: 8306428787346790227
+    second: Base Wrench_31
+  - first:
+      213: -6814232717564510865
+    second: Base Wrench_32
+  - first:
+      213: -8707727548926974499
+    second: Base Wrench_33
+  - first:
+      213: -5539939474357768185
+    second: Base Wrench_34
+  - first:
+      213: -676097772352739622
+    second: Base Wrench_35
+  - first:
+      213: -797839635137052809
+    second: Base Wrench_36
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Base Wrench_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 273
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea680a1756521f6f0800000000000000
+      internalID: -652699353363741010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wrench_1
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 272
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b98b5bfd633e23c70800000000000000
+      internalID: 8949465234359564443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wrench_2
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 271
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 674d48569fbcdb840800000000000000
+      internalID: 5241569813339624566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wrench_3
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 283
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8972b9906181a5130800000000000000
+      internalID: 3556181338691938200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wrench_4
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 284
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c13379c85e9d4800800000000000000
+      internalID: 598308429684224451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wrench_5
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 282
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f9bae11aa3971430800000000000000
+      internalID: 3753631173090916853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wrench_6
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 284
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbc2d1cba16d1e6b0800000000000000
+      internalID: -5268694678733247297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wrench_7
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 285
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a56859bc35da3620800000000000000
+      internalID: 2754748578874811810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wrench_8
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 274
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4acbafb38c89562d0800000000000000
+      internalID: -3286052367329739612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wrench_9
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 195
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56d9213d6c75a0530800000000000000
+      internalID: 3821963745233640805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wrench_10
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 196
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b811ae07a65dac80800000000000000
+      internalID: -8309890461923731275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wrench_11
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 197
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88ceb42ef11037f00800000000000000
+      internalID: 1113234769342885000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wrench_12
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 187
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff5bcc04bde5b7630800000000000000
+      internalID: 3925835795961525759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wrench_13
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 186
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6563350620d815700800000000000000
+      internalID: 527357672724575830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wrench_14
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 175
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb288563c3fe2ffe0800000000000000
+      internalID: -1156599112391949636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wrench_15
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 177
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a04de929312fda60800000000000000
+      internalID: 7700910417227104425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wrench_16
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 184
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d098748d0ff2a710800000000000000
+      internalID: 1703204042621620434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wrench_17
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 181
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dce8e8e8c641755f0800000000000000
+      internalID: -768122754962649395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wrench_18
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 102
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1870b77c5e255b00800000000000000
+      internalID: 816609882117535770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wrench_19
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 102
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0e300393154f49c0800000000000000
+      internalID: -3940855198552932850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wrench_20
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 102
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36b8dcedc3c1f8540800000000000000
+      internalID: 5012255958048279395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wrench_21
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4f0cb20a75bfee00800000000000000
+      internalID: 1076278371601354573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wrench_22
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 115
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74de50e77a993cd10800000000000000
+      internalID: 2144726792211393863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wrench_23
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 116
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 068c6a83a6877e650800000000000000
+      internalID: 6262106204494284896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wrench_24
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 115
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe02b73e308e891e0800000000000000
+      internalID: -2190746115316702993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wrench_25
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 115
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d15a843d957e9b80800000000000000
+      internalID: -8386136138065489451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wrench_26
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 101
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f9038241a5fb5410800000000000000
+      internalID: 1467036176593652212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wrench_27
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 35
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da2d35038500d8fe0800000000000000
+      internalID: -1185290748160650579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wrench_28
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 35
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eee47ef2b18595300800000000000000
+      internalID: 241320928832081646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wrench_29
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 35
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5970c8df408b7b00800000000000000
+      internalID: 827396036979882333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wrench_30
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 22
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b3e58949fbc570f0800000000000000
+      internalID: -1119764660790893647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wrench_31
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 20
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35752e509fc564370800000000000000
+      internalID: 8306428787346790227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wrench_32
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 20
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6df8bc527bfe61a0800000000000000
+      internalID: -6814232717564510865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wrench_33
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 20
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd523550eefe72780800000000000000
+      internalID: -8707727548926974499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wrench_34
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 23
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 700bdb1666e2e13b0800000000000000
+      internalID: -5539939474357768185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wrench_35
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 35
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad66b7d78a40e96f0800000000000000
+      internalID: -676097772352739622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Wrench_36
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 25
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77fbde734118de4f0800000000000000
+      internalID: -797839635137052809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

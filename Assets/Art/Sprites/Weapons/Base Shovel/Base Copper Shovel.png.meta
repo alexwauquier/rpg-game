@@ -1,0 +1,1680 @@
+fileFormatVersion: 2
+guid: 2653f636d0ed1e04d8beac52a09f8c41
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -106839453488790779
+    second: Base Copper Shovel_0
+  - first:
+      213: 3256014569141103687
+    second: Base Copper Shovel_1
+  - first:
+      213: 4791252900247044636
+    second: Base Copper Shovel_2
+  - first:
+      213: 5374326648144546599
+    second: Base Copper Shovel_3
+  - first:
+      213: -1309274895211440207
+    second: Base Copper Shovel_4
+  - first:
+      213: 3925715703290264717
+    second: Base Copper Shovel_5
+  - first:
+      213: -1118777258778363713
+    second: Base Copper Shovel_6
+  - first:
+      213: 1644577330067434371
+    second: Base Copper Shovel_7
+  - first:
+      213: -4572343626083910890
+    second: Base Copper Shovel_8
+  - first:
+      213: 2487832836191620650
+    second: Base Copper Shovel_9
+  - first:
+      213: 9125752120784154139
+    second: Base Copper Shovel_10
+  - first:
+      213: 773341403253557937
+    second: Base Copper Shovel_11
+  - first:
+      213: -7346516472149660237
+    second: Base Copper Shovel_12
+  - first:
+      213: 4712433267444492450
+    second: Base Copper Shovel_13
+  - first:
+      213: 2275180104387352012
+    second: Base Copper Shovel_14
+  - first:
+      213: -2613199915169844601
+    second: Base Copper Shovel_15
+  - first:
+      213: 7748189902058651774
+    second: Base Copper Shovel_16
+  - first:
+      213: 4923163623727516305
+    second: Base Copper Shovel_17
+  - first:
+      213: -8881521428146142690
+    second: Base Copper Shovel_18
+  - first:
+      213: -3605862563543234673
+    second: Base Copper Shovel_19
+  - first:
+      213: 4829135699299816307
+    second: Base Copper Shovel_20
+  - first:
+      213: -6713886601286959759
+    second: Base Copper Shovel_21
+  - first:
+      213: -4808135451177690291
+    second: Base Copper Shovel_22
+  - first:
+      213: -4365838376859328716
+    second: Base Copper Shovel_23
+  - first:
+      213: 9077190517676697440
+    second: Base Copper Shovel_24
+  - first:
+      213: -7102000903826053455
+    second: Base Copper Shovel_25
+  - first:
+      213: 4017235458039124819
+    second: Base Copper Shovel_26
+  - first:
+      213: 6357057744433040417
+    second: Base Copper Shovel_27
+  - first:
+      213: -7367724276753580821
+    second: Base Copper Shovel_28
+  - first:
+      213: -3784730763929900979
+    second: Base Copper Shovel_29
+  - first:
+      213: 5434142326892283963
+    second: Base Copper Shovel_30
+  - first:
+      213: -1105223503105618913
+    second: Base Copper Shovel_31
+  - first:
+      213: -409821937386866942
+    second: Base Copper Shovel_32
+  - first:
+      213: -6116354662254734487
+    second: Base Copper Shovel_33
+  - first:
+      213: 7517107570845376193
+    second: Base Copper Shovel_34
+  - first:
+      213: 7205132869264319072
+    second: Base Copper Shovel_35
+  - first:
+      213: 132058427588280296
+    second: Base Copper Shovel_36
+  - first:
+      213: -8494148618128447921
+    second: Base Copper Shovel_37
+  - first:
+      213: 3304360717611459635
+    second: Base Copper Shovel_38
+  - first:
+      213: -4713619003727369531
+    second: Base Copper Shovel_39
+  - first:
+      213: 6565822715677643451
+    second: Base Copper Shovel_40
+  - first:
+      213: 8350123040172280657
+    second: Base Copper Shovel_41
+  - first:
+      213: -1877296780610606183
+    second: Base Copper Shovel_42
+  - first:
+      213: 7731506200793970178
+    second: Base Copper Shovel_43
+  - first:
+      213: 6909482191572150292
+    second: Base Copper Shovel_44
+  - first:
+      213: -5123266423231772850
+    second: Base Copper Shovel_45
+  - first:
+      213: 6766947170577200843
+    second: Base Copper Shovel_46
+  - first:
+      213: -216766790385635548
+    second: Base Copper Shovel_47
+  - first:
+      213: 334607195366538121
+    second: Base Copper Shovel_48
+  - first:
+      213: -3602996475893516959
+    second: Base Copper Shovel_49
+  - first:
+      213: -2342647572053571715
+    second: Base Copper Shovel_50
+  - first:
+      213: -5065904607888551562
+    second: Base Copper Shovel_51
+  - first:
+      213: 5460068865179529580
+    second: Base Copper Shovel_52
+  - first:
+      213: 1650886486427703503
+    second: Base Copper Shovel_53
+  - first:
+      213: -5692916492645820586
+    second: Base Copper Shovel_54
+  - first:
+      213: 7555621455863012920
+    second: Base Copper Shovel_55
+  - first:
+      213: 7168564253304736211
+    second: Base Copper Shovel_56
+  - first:
+      213: -8226930509358338587
+    second: Base Copper Shovel_57
+  - first:
+      213: -6887357000484934512
+    second: Base Copper Shovel_58
+  - first:
+      213: -6463567041766238539
+    second: Base Copper Shovel_59
+  - first:
+      213: -4610329914123335029
+    second: Base Copper Shovel_60
+  - first:
+      213: -40802818082054661
+    second: Base Copper Shovel_61
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Base Copper Shovel_0
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 282
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 503cdc6451e648ef0800000000000000
+      internalID: -106839453488790779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Shovel_1
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 281
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74ce621efffaf2d20800000000000000
+      internalID: 3256014569141103687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Shovel_2
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 281
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c12094ca023fd7240800000000000000
+      internalID: 4791252900247044636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Shovel_3
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 281
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72b4291bc91759a40800000000000000
+      internalID: 5374326648144546599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Shovel_4
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 284
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b7d59d6b6584dde0800000000000000
+      internalID: -1309274895211440207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Shovel_5
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 286
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8cf9cff1a1fa7630800000000000000
+      internalID: 3925715703290264717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Shovel_6
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 285
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb8fabbb20e4970f0800000000000000
+      internalID: -1118777258778363713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Shovel_7
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 284
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38b645c4e56b2d610800000000000000
+      internalID: 1644577330067434371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Shovel_8
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 282
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61b3f3882b5cb80c0800000000000000
+      internalID: -4572343626083910890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Shovel_9
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 281
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2e01cd88ce868220800000000000000
+      internalID: 2487832836191620650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Shovel_10
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 280
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1e6b9b143f25ae70800000000000000
+      internalID: 9125752120784154139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Shovel_11
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 186
+        width: 93
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bac70fa8e57bba00800000000000000
+      internalID: 773341403253557937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Shovel_12
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 273
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bda6fc213eeb0a90800000000000000
+      internalID: -7346516472149660237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Shovel_13
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 200
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a823c5d61de56140800000000000000
+      internalID: 4712433267444492450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Shovel_14
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 216
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc55b022040139f10800000000000000
+      internalID: 2275180104387352012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Shovel_15
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 201
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7827831c58c0cbbd0800000000000000
+      internalID: -2613199915169844601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Shovel_16
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 214
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e70897c0aa9178b60800000000000000
+      internalID: 7748189902058651774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Shovel_17
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 212
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19a47635b37925440800000000000000
+      internalID: 4923163623727516305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Shovel_18
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 191
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e124452415f7eb480800000000000000
+      internalID: -8881521428146142690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Shovel_19
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 190
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8740276a1765fdc0800000000000000
+      internalID: -3605862563543234673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Shovel_20
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 188
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3735ce82559840340800000000000000
+      internalID: 4829135699299816307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Shovel_21
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 198
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17d390435bb73d2a0800000000000000
+      internalID: -6713886601286959759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Shovel_22
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 197
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4b57902842164db0800000000000000
+      internalID: -4808135451177690291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Shovel_23
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 181
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43f1880a02d6963c0800000000000000
+      internalID: -4365838376859328716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Shovel_24
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 181
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 067e9accea8a8fd70800000000000000
+      internalID: 9077190517676697440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Shovel_25
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 181
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b6e1f45ecf907d90800000000000000
+      internalID: -7102000903826053455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Shovel_26
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 181
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35396876d5610c730800000000000000
+      internalID: 4017235458039124819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Shovel_27
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 181
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12cc391665ec83850800000000000000
+      internalID: 6357057744433040417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Shovel_28
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 115
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: becb4116ec590c990800000000000000
+      internalID: -7367724276753580821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Shovel_29
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 118
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d48277d2c6fe97bc0800000000000000
+      internalID: -3784730763929900979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Shovel_30
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 119
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b38445da7a3f96b40800000000000000
+      internalID: 5434142326892283963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Shovel_31
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 126
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1c0af3641579a0f0800000000000000
+      internalID: -1105223503105618913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Shovel_32
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 118
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 207b4e88e15005af0800000000000000
+      internalID: -409821937386866942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Shovel_33
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 126
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 963900c27d75e1ba0800000000000000
+      internalID: -6116354662254734487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Shovel_34
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 116
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ce53a22281225860800000000000000
+      internalID: 7517107570845376193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Shovel_35
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 125
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 062adff8b26cdf360800000000000000
+      internalID: 7205132869264319072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Shovel_36
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 112
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8effef1b07a25d100800000000000000
+      internalID: 132058427588280296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Shovel_37
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 112
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f462413f5d8be1a80800000000000000
+      internalID: -8494148618128447921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Shovel_38
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 113
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3346cfeb0927bdd20800000000000000
+      internalID: 3304360717611459635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Shovel_39
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 109
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5caac4c6d7cd59eb0800000000000000
+      internalID: -4713619003727369531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Shovel_40
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 109
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb2182209fc7e1b50800000000000000
+      internalID: 6565822715677643451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Shovel_41
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 109
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15b06480aa891e370800000000000000
+      internalID: 8350123040172280657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Shovel_42
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 109
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99b68bd368082f5e0800000000000000
+      internalID: -1877296780610606183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Shovel_43
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 113
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 206fd052de3db4b60800000000000000
+      internalID: 7731506200793970178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Shovel_44
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 109
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 418ab8af17963ef50800000000000000
+      internalID: 6909482191572150292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Shovel_45
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 116
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e478591155086e8b0800000000000000
+      internalID: -5123266423231772850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Shovel_46
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 35
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc6b61c499609ed50800000000000000
+      internalID: 6766947170577200843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Shovel_47
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 40
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42f66fba0c3edfcf0800000000000000
+      internalID: -216766790385635548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Shovel_48
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 46
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98bbc1ba873c4a400800000000000000
+      internalID: 334607195366538121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Shovel_49
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 41
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 165f16f6bc59ffdc0800000000000000
+      internalID: -3602996475893516959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Shovel_50
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 46
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d77c0d1f17e3d7fd0800000000000000
+      internalID: -2342647572053571715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Shovel_51
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 40
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 671d9c4799a42b9b0800000000000000
+      internalID: -5065904607888551562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Shovel_52
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 45
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c61323644bf06cb40800000000000000
+      internalID: 5460068865179529580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Shovel_53
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 36
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc8140c338029e610800000000000000
+      internalID: 1650886486427703503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Shovel_54
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 32
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65712efbc92bef0b0800000000000000
+      internalID: -5692916492645820586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Shovel_55
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 32
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83ed806cea5fad860800000000000000
+      internalID: 7555621455863012920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Shovel_56
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 33
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d9cacb253bdb7360800000000000000
+      internalID: 7168564253304736211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Shovel_57
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 29
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ed6fd53a4214dd80800000000000000
+      internalID: -8226930509358338587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Shovel_58
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 29
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09cabc08c413b60a0800000000000000
+      internalID: -6887357000484934512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Shovel_59
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 29
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b6d99d550ccc46a0800000000000000
+      internalID: -6463567041766238539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Shovel_60
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 29
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8a4253ae51d400c0800000000000000
+      internalID: -4610329914123335029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Shovel_61
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 29
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfd526a9d0a0f6ff0800000000000000
+      internalID: -40802818082054661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1855 @@
+fileFormatVersion: 2
+guid: 5dbe9da6c6738d743a46acf69a3fd3b1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1985608349635060651
+    second: Base Steel Hoe_0
+  - first:
+      213: 5792138177857524556
+    second: Base Steel Hoe_1
+  - first:
+      213: -6131265457198699001
+    second: Base Steel Hoe_2
+  - first:
+      213: 5867268748618001818
+    second: Base Steel Hoe_3
+  - first:
+      213: 6469180812961728002
+    second: Base Steel Hoe_4
+  - first:
+      213: -269547987267893670
+    second: Base Steel Hoe_5
+  - first:
+      213: -4073802453817013452
+    second: Base Steel Hoe_6
+  - first:
+      213: 4025183221346056394
+    second: Base Steel Hoe_7
+  - first:
+      213: -7685280607765755488
+    second: Base Steel Hoe_8
+  - first:
+      213: 137213802518900966
+    second: Base Steel Hoe_9
+  - first:
+      213: -3421663779364655457
+    second: Base Steel Hoe_10
+  - first:
+      213: 1827598738729118818
+    second: Base Steel Hoe_11
+  - first:
+      213: 5940239008628104571
+    second: Base Steel Hoe_12
+  - first:
+      213: 7084096982597605648
+    second: Base Steel Hoe_13
+  - first:
+      213: 7806981094045755013
+    second: Base Steel Hoe_14
+  - first:
+      213: 8726430742830154961
+    second: Base Steel Hoe_15
+  - first:
+      213: 7805760133384416366
+    second: Base Steel Hoe_16
+  - first:
+      213: 2804118249348035918
+    second: Base Steel Hoe_17
+  - first:
+      213: -8541079816952229883
+    second: Base Steel Hoe_18
+  - first:
+      213: -4920315819131208247
+    second: Base Steel Hoe_19
+  - first:
+      213: -4787858968781559575
+    second: Base Steel Hoe_20
+  - first:
+      213: 396663326696519236
+    second: Base Steel Hoe_21
+  - first:
+      213: -841937334953961650
+    second: Base Steel Hoe_22
+  - first:
+      213: 6538905942065564072
+    second: Base Steel Hoe_23
+  - first:
+      213: 2250252556424556408
+    second: Base Steel Hoe_24
+  - first:
+      213: -1554905184123920739
+    second: Base Steel Hoe_25
+  - first:
+      213: 657416061932392656
+    second: Base Steel Hoe_26
+  - first:
+      213: -2419656131230417113
+    second: Base Steel Hoe_27
+  - first:
+      213: 1693455466351743485
+    second: Base Steel Hoe_28
+  - first:
+      213: -2620948085422391508
+    second: Base Steel Hoe_29
+  - first:
+      213: -4897614902217198263
+    second: Base Steel Hoe_30
+  - first:
+      213: -2277865425262265931
+    second: Base Steel Hoe_31
+  - first:
+      213: -2958574216895660289
+    second: Base Steel Hoe_32
+  - first:
+      213: -3282972824721629197
+    second: Base Steel Hoe_33
+  - first:
+      213: -7365392152237579898
+    second: Base Steel Hoe_34
+  - first:
+      213: -6034735835381619305
+    second: Base Steel Hoe_35
+  - first:
+      213: -275332813556384827
+    second: Base Steel Hoe_36
+  - first:
+      213: -813057262586063954
+    second: Base Steel Hoe_37
+  - first:
+      213: -8337861906567735141
+    second: Base Steel Hoe_38
+  - first:
+      213: -9062889654626765742
+    second: Base Steel Hoe_39
+  - first:
+      213: -1379569544964696451
+    second: Base Steel Hoe_40
+  - first:
+      213: -8758925203273052037
+    second: Base Steel Hoe_41
+  - first:
+      213: 3935082874916500309
+    second: Base Steel Hoe_42
+  - first:
+      213: 1987322353858596804
+    second: Base Steel Hoe_43
+  - first:
+      213: -2364743738709512953
+    second: Base Steel Hoe_44
+  - first:
+      213: 4090853568077881181
+    second: Base Steel Hoe_45
+  - first:
+      213: 2215509565100938870
+    second: Base Steel Hoe_46
+  - first:
+      213: -4447386414471392460
+    second: Base Steel Hoe_47
+  - first:
+      213: 7169384542181871803
+    second: Base Steel Hoe_48
+  - first:
+      213: -8779844711985819848
+    second: Base Steel Hoe_49
+  - first:
+      213: -5749298172416818963
+    second: Base Steel Hoe_50
+  - first:
+      213: -2378182332336899320
+    second: Base Steel Hoe_51
+  - first:
+      213: -5637658189595925503
+    second: Base Steel Hoe_52
+  - first:
+      213: -3021439900929538856
+    second: Base Steel Hoe_53
+  - first:
+      213: -6387087414883098306
+    second: Base Steel Hoe_54
+  - first:
+      213: 5436396491213708208
+    second: Base Steel Hoe_55
+  - first:
+      213: -1633252717918085684
+    second: Base Steel Hoe_56
+  - first:
+      213: 3981184175263966521
+    second: Base Steel Hoe_57
+  - first:
+      213: -8502811716062373544
+    second: Base Steel Hoe_58
+  - first:
+      213: 5414020072775900250
+    second: Base Steel Hoe_59
+  - first:
+      213: 9165823124371332980
+    second: Base Steel Hoe_60
+  - first:
+      213: 2099050985135922386
+    second: Base Steel Hoe_61
+  - first:
+      213: 445725516262945351
+    second: Base Steel Hoe_62
+  - first:
+      213: -2739454003283942945
+    second: Base Steel Hoe_63
+  - first:
+      213: -6028144168552829234
+    second: Base Steel Hoe_64
+  - first:
+      213: -4252381467461141411
+    second: Base Steel Hoe_65
+  - first:
+      213: -8507549685859239866
+    second: Base Steel Hoe_66
+  - first:
+      213: 5469298514588053418
+    second: Base Steel Hoe_67
+  - first:
+      213: 3955718683416964340
+    second: Base Steel Hoe_68
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Base Steel Hoe_0
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 277
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55cd3f8e9b3b174e0800000000000000
+      internalID: -1985608349635060651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Hoe_1
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 282
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c431d251cfec16050800000000000000
+      internalID: 5792138177857524556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Hoe_2
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 282
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70e6c003d8e59eaa0800000000000000
+      internalID: -6131265457198699001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Hoe_3
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 280
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9d602b37d9bc6150800000000000000
+      internalID: 5867268748618001818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Hoe_4
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 278
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2064b589ca527c950800000000000000
+      internalID: 6469180812961728002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Hoe_5
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 269
+        width: 9
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a56c9f0a88f524cf0800000000000000
+      internalID: -269547987267893670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Hoe_6
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 278
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43b4f1f8042f677c0800000000000000
+      internalID: -4073802453817013452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Hoe_7
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 279
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac8b13040d25cd730800000000000000
+      internalID: 4025183221346056394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Hoe_8
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 278
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a98cee6106685590800000000000000
+      internalID: -7685280607765755488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Hoe_9
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 277
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e07b65f93b77e100800000000000000
+      internalID: 137213802518900966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Hoe_10
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 276
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9e2622ebeec380d0800000000000000
+      internalID: -3421663779364655457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Hoe_11
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 275
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26ca6edae5fec5910800000000000000
+      internalID: 1827598738729118818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Hoe_12
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 279
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7d5236d7e7ff6250800000000000000
+      internalID: 5940239008628104571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Hoe_13
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 277
+        width: 168
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 019952a2ca4cf4260800000000000000
+      internalID: 7084096982597605648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Hoe_14
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 276
+        width: 86
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 586a9ce11f7f75c60800000000000000
+      internalID: 7806981094045755013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Hoe_15
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 197
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d48077a6828a1970800000000000000
+      internalID: 8726430742830154961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Hoe_16
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 201
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6ca8401c71a35c60800000000000000
+      internalID: 7805760133384416366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Hoe_17
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 203
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e457490e0ba3ae620800000000000000
+      internalID: 2804118249348035918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Hoe_18
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 205
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 500dd48b82df77980800000000000000
+      internalID: -8541079816952229883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Hoe_19
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 207
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cdf2f9d4d687bbb0800000000000000
+      internalID: -4920315819131208247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Hoe_20
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 192
+        width: 9
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e86b1392ab1e8db0800000000000000
+      internalID: -4787858968781559575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Hoe_21
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 178
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 446bb2ba13b318500800000000000000
+      internalID: 396663326696519236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Hoe_22
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 178
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e471ee26476d054f0800000000000000
+      internalID: -841937334953961650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Hoe_23
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 178
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a942884f4cdeba50800000000000000
+      internalID: 6538905942065564072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Hoe_24
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 177
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87fa99817c08a3f10800000000000000
+      internalID: 2250252556424556408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Hoe_25
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 176
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9e51e829fddb6ae0800000000000000
+      internalID: -1554905184123920739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Hoe_26
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 175
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d0dd19dc6c9f1900800000000000000
+      internalID: 657416061932392656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Hoe_27
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 178
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72f3a6b8197ab6ed0800000000000000
+      internalID: -2419656131230417113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Hoe_28
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 178
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df1d6da36cc508710800000000000000
+      internalID: 1693455466351743485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Hoe_29
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 178
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2f78a94a9580abd0800000000000000
+      internalID: -2620948085422391508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Hoe_30
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 180
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9453fa2f13d280cb0800000000000000
+      internalID: -4897614902217198263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Hoe_31
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 182
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b93911e6756360e0800000000000000
+      internalID: -2277865425262265931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Hoe_32
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 187
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffefd48cc6801f6d0800000000000000
+      internalID: -2958574216895660289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Hoe_33
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 125
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ffd43f1c998072d0800000000000000
+      internalID: -3282972824721629197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Hoe_34
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 122
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 681ed6e6cded8c990800000000000000
+      internalID: -7365392152237579898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Hoe_35
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 117
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79522ca2bbf404ca0800000000000000
+      internalID: -6034735835381619305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Hoe_36
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 117
+        width: 37
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cb76fcc342dd2cf0800000000000000
+      internalID: -275332813556384827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Hoe_37
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 109
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea391893ab077b4f0800000000000000
+      internalID: -813057262586063954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Hoe_38
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 109
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b98d4c895c6f94c80800000000000000
+      internalID: -8337861906567735141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Hoe_39
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 109
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 254b86950e52a3280800000000000000
+      internalID: -9062889654626765742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Hoe_40
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 115
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d769e61eec8cadce0800000000000000
+      internalID: -1379569544964696451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Hoe_41
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 113
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7091b43feb027680800000000000000
+      internalID: -8758925203273052037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Hoe_42
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 112
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 553fe1996093c9630800000000000000
+      internalID: 3935082874916500309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Hoe_43
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 108
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cf4febc623649b10800000000000000
+      internalID: 1987322353858596804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Hoe_44
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 107
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70de36d391ebe2fd0800000000000000
+      internalID: -2364743738709512953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Hoe_45
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 107
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5fdb6955a1a5c830800000000000000
+      internalID: 4090853568077881181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Hoe_46
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 109
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 676525016321fbe10800000000000000
+      internalID: 2215509565100938870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Hoe_47
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 109
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 433d88a8e95b742c0800000000000000
+      internalID: -4447386414471392460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Hoe_48
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 109
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb05dee8145ce7360800000000000000
+      internalID: 7169384542181871803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Hoe_49
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 109
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83f4ef680c9b72680800000000000000
+      internalID: -8779844711985819848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Hoe_50
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 109
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de00b45f5c36630b0800000000000000
+      internalID: -5749298172416818963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Hoe_51
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 38
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80bf2f5d4cffefed0800000000000000
+      internalID: -2378182332336899320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Hoe_52
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 38
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10420140fb303c1b0800000000000000
+      internalID: -5637658189595925503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Hoe_53
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 37
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d447ea1b60b116d0800000000000000
+      internalID: -3021439900929538856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Hoe_54
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 33
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e31668e16d18c57a0800000000000000
+      internalID: -6387087414883098306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Hoe_55
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 32
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bb19f43ec5f17b40800000000000000
+      internalID: 5436396491213708208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Hoe_56
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 37
+        width: 37
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccd1d007e458559e0800000000000000
+      internalID: -1633252717918085684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Hoe_57
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 29
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 935e3080ae1004730800000000000000
+      internalID: 3981184175263966521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Hoe_58
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 29
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85992184bc1fff980800000000000000
+      internalID: -8502811716062373544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Hoe_59
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 29
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5c54ac4296722b40800000000000000
+      internalID: 5414020072775900250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Hoe_60
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 28
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47fd63aa19b833f70800000000000000
+      internalID: 9165823124371332980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Hoe_61
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 27
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dcd57eefb3512d10800000000000000
+      internalID: 2099050985135922386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Hoe_62
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 27
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7423e28def88f2600800000000000000
+      internalID: 445725516262945351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Hoe_63
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 29
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd12db729118bf9d0800000000000000
+      internalID: -2739454003283942945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Hoe_64
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 29
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecee09231dab75ca0800000000000000
+      internalID: -6028144168552829234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Hoe_65
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 29
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5c368ed5918cf4c0800000000000000
+      internalID: -4252381467461141411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Hoe_66
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 29
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 648bf59b2ac1fe980800000000000000
+      internalID: -8507549685859239866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Hoe_67
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 29
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aafa79c750ad6eb40800000000000000
+      internalID: 5469298514588053418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Steel Hoe_68
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 35
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fca17c2f2985e630800000000000000
+      internalID: 3955718683416964340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

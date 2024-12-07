@@ -1,0 +1,2280 @@
+fileFormatVersion: 2
+guid: 41dbefd8549b74142910a11b1519142f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4069560419233367862
+    second: Base Copper Hammer_0
+  - first:
+      213: -6323492371831800577
+    second: Base Copper Hammer_1
+  - first:
+      213: -8336453162339030979
+    second: Base Copper Hammer_2
+  - first:
+      213: 4828661204643355657
+    second: Base Copper Hammer_3
+  - first:
+      213: -6519532611284243268
+    second: Base Copper Hammer_4
+  - first:
+      213: 7549120763007004816
+    second: Base Copper Hammer_5
+  - first:
+      213: 7505234712921273165
+    second: Base Copper Hammer_6
+  - first:
+      213: -8611062997502263745
+    second: Base Copper Hammer_7
+  - first:
+      213: -1946660809444007766
+    second: Base Copper Hammer_8
+  - first:
+      213: -5286914226421164266
+    second: Base Copper Hammer_9
+  - first:
+      213: -8774212482170897119
+    second: Base Copper Hammer_10
+  - first:
+      213: -3291069108948060586
+    second: Base Copper Hammer_11
+  - first:
+      213: 769336577133973111
+    second: Base Copper Hammer_12
+  - first:
+      213: -2147138673979499915
+    second: Base Copper Hammer_13
+  - first:
+      213: 1924866229653191058
+    second: Base Copper Hammer_14
+  - first:
+      213: 2478790894125639679
+    second: Base Copper Hammer_15
+  - first:
+      213: -6253787802001390366
+    second: Base Copper Hammer_16
+  - first:
+      213: -505062395237676906
+    second: Base Copper Hammer_17
+  - first:
+      213: -6091520765135952334
+    second: Base Copper Hammer_18
+  - first:
+      213: -8841601947719024584
+    second: Base Copper Hammer_19
+  - first:
+      213: 2730031728086101345
+    second: Base Copper Hammer_20
+  - first:
+      213: -1011483119949231417
+    second: Base Copper Hammer_21
+  - first:
+      213: -4729279535563174194
+    second: Base Copper Hammer_22
+  - first:
+      213: -6187758600478262372
+    second: Base Copper Hammer_23
+  - first:
+      213: -7462972647703264204
+    second: Base Copper Hammer_24
+  - first:
+      213: -4513951442973866671
+    second: Base Copper Hammer_25
+  - first:
+      213: 5823483304770437030
+    second: Base Copper Hammer_26
+  - first:
+      213: -8231859735385117192
+    second: Base Copper Hammer_27
+  - first:
+      213: 7923974385889917578
+    second: Base Copper Hammer_28
+  - first:
+      213: -8211496090479033452
+    second: Base Copper Hammer_29
+  - first:
+      213: -7012339015438302012
+    second: Base Copper Hammer_30
+  - first:
+      213: -1517785777183377164
+    second: Base Copper Hammer_31
+  - first:
+      213: -6593270515252460409
+    second: Base Copper Hammer_32
+  - first:
+      213: -633836093325534452
+    second: Base Copper Hammer_33
+  - first:
+      213: 3929487342217385528
+    second: Base Copper Hammer_34
+  - first:
+      213: 3267325762669819741
+    second: Base Copper Hammer_35
+  - first:
+      213: -5533570025314546048
+    second: Base Copper Hammer_36
+  - first:
+      213: -2663520362606505351
+    second: Base Copper Hammer_37
+  - first:
+      213: -7960394292686148755
+    second: Base Copper Hammer_38
+  - first:
+      213: -3057534969609045666
+    second: Base Copper Hammer_39
+  - first:
+      213: -2885560581480744018
+    second: Base Copper Hammer_40
+  - first:
+      213: -3538095058303313477
+    second: Base Copper Hammer_41
+  - first:
+      213: -6682866057592108991
+    second: Base Copper Hammer_42
+  - first:
+      213: -4638026662300342835
+    second: Base Copper Hammer_43
+  - first:
+      213: -8047269225916454249
+    second: Base Copper Hammer_44
+  - first:
+      213: 4315963231872182980
+    second: Base Copper Hammer_45
+  - first:
+      213: -3236266053694881125
+    second: Base Copper Hammer_46
+  - first:
+      213: 386024788131846993
+    second: Base Copper Hammer_47
+  - first:
+      213: 2311522372247587428
+    second: Base Copper Hammer_48
+  - first:
+      213: 4971316801303919167
+    second: Base Copper Hammer_49
+  - first:
+      213: 6589196073740161137
+    second: Base Copper Hammer_50
+  - first:
+      213: 6405759417612356517
+    second: Base Copper Hammer_51
+  - first:
+      213: 951414277610814601
+    second: Base Copper Hammer_52
+  - first:
+      213: 8807511508527905193
+    second: Base Copper Hammer_53
+  - first:
+      213: 2262806560360372595
+    second: Base Copper Hammer_54
+  - first:
+      213: -5644517274214132202
+    second: Base Copper Hammer_55
+  - first:
+      213: 537124880684812149
+    second: Base Copper Hammer_56
+  - first:
+      213: 9187036884611017434
+    second: Base Copper Hammer_57
+  - first:
+      213: -1694413862168995598
+    second: Base Copper Hammer_58
+  - first:
+      213: 8501347357372828332
+    second: Base Copper Hammer_59
+  - first:
+      213: -8067407391078987022
+    second: Base Copper Hammer_60
+  - first:
+      213: -4991944712287590339
+    second: Base Copper Hammer_61
+  - first:
+      213: -258798024491890316
+    second: Base Copper Hammer_62
+  - first:
+      213: 5540318534882956192
+    second: Base Copper Hammer_63
+  - first:
+      213: 8077256329678738981
+    second: Base Copper Hammer_64
+  - first:
+      213: -9026966353323949259
+    second: Base Copper Hammer_65
+  - first:
+      213: 26586655640466016
+    second: Base Copper Hammer_66
+  - first:
+      213: -6608584258218510597
+    second: Base Copper Hammer_67
+  - first:
+      213: 8428895755986368187
+    second: Base Copper Hammer_68
+  - first:
+      213: 1835106323910588182
+    second: Base Copper Hammer_69
+  - first:
+      213: -1720305205803798262
+    second: Base Copper Hammer_70
+  - first:
+      213: 7533651606598520090
+    second: Base Copper Hammer_71
+  - first:
+      213: 3254242723139495332
+    second: Base Copper Hammer_72
+  - first:
+      213: 4193769335090353134
+    second: Base Copper Hammer_73
+  - first:
+      213: -2047186839762229404
+    second: Base Copper Hammer_74
+  - first:
+      213: -5166273499067313250
+    second: Base Copper Hammer_75
+  - first:
+      213: 701987369590103481
+    second: Base Copper Hammer_76
+  - first:
+      213: -474160659265664874
+    second: Base Copper Hammer_77
+  - first:
+      213: 4267186334132668038
+    second: Base Copper Hammer_78
+  - first:
+      213: 478751179262704620
+    second: Base Copper Hammer_79
+  - first:
+      213: -841698751141601133
+    second: Base Copper Hammer_80
+  - first:
+      213: -8083184141545880295
+    second: Base Copper Hammer_81
+  - first:
+      213: -7013307257824871508
+    second: Base Copper Hammer_82
+  - first:
+      213: -3822438095190248844
+    second: Base Copper Hammer_83
+  - first:
+      213: 8475859624263716571
+    second: Base Copper Hammer_84
+  - first:
+      213: 3014811576931111324
+    second: Base Copper Hammer_85
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Base Copper Hammer_0
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 281
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac8fa933c540687c0800000000000000
+      internalID: -4069560419233367862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Hammer_1
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 276
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffcb21de0317e38a0800000000000000
+      internalID: -6323492371831800577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Hammer_2
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 275
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d38a91c6408fe4c80800000000000000
+      internalID: -8336453162339030979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Hammer_3
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 279
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90c1a7348c9d20340800000000000000
+      internalID: 4828661204643355657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Hammer_4
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 280
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbce3dac1a7f585a0800000000000000
+      internalID: -6519532611284243268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Hammer_5
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 279
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 090fe85465dd3c860800000000000000
+      internalID: 7549120763007004816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Hammer_6
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 290
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d437a9bf433f72860800000000000000
+      internalID: 7505234712921273165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Hammer_7
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 279
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3efd5fb3db5f7880800000000000000
+      internalID: -8611062997502263745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Hammer_8
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 281
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa06ae2ce421cf4e0800000000000000
+      internalID: -1946660809444007766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Hammer_9
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 280
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6171538b58b11a6b0800000000000000
+      internalID: -5286914226421164266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Hammer_10
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 281
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12db7683c3cbb3680800000000000000
+      internalID: -8774212482170897119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Hammer_11
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 281
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 656b3ed0516c352d0800000000000000
+      internalID: -3291069108948060586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Hammer_12
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 272
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77e09c07a8b3daa00800000000000000
+      internalID: 769336577133973111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Hammer_13
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 268
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57ad2f580c4d332e0800000000000000
+      internalID: -2147138673979499915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Hammer_14
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 263
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 299bf9233af76ba10800000000000000
+      internalID: 1924866229653191058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Hammer_15
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 261
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff7e4dc5f2f666220800000000000000
+      internalID: 2478790894125639679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Hammer_16
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 280
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e44909c0251639a0800000000000000
+      internalID: -6253787802001390366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Hammer_17
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 260
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 698437e6d68adf8f0800000000000000
+      internalID: -505062395237676906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Hammer_18
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 257
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 236e72c6322967ba0800000000000000
+      internalID: -6091520765135952334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Hammer_19
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 256
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8304ec49fd15c4580800000000000000
+      internalID: -8841601947719024584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Hammer_20
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 256
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16d2e12746503e520800000000000000
+      internalID: 2730031728086101345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Hammer_21
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 257
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ca4f13267d76f1f0800000000000000
+      internalID: -1011483119949231417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Hammer_22
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 258
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ece8b37b1593e5eb0800000000000000
+      internalID: -4729279535563174194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Hammer_23
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 191
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9bff96465aa02aa0800000000000000
+      internalID: -6187758600478262372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Hammer_24
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 198
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 434c03ddae13e6890800000000000000
+      internalID: -7462972647703264204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Hammer_25
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 201
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1554e2c14193b51c0800000000000000
+      internalID: -4513951442973866671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Hammer_26
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 202
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6af7248263b21d050800000000000000
+      internalID: 5823483304770437030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Hammer_27
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 205
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fd67875f2f82cd80800000000000000
+      internalID: -8231859735385117192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Hammer_28
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 205
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8a334098bc97fd60800000000000000
+      internalID: 7923974385889917578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Hammer_29
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 206
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4930d74efc7ea0e80800000000000000
+      internalID: -8211496090479033452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Hammer_30
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 202
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c4003481da2fae90800000000000000
+      internalID: -7012339015438302012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Hammer_31
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 195
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f838d190edbfeae0800000000000000
+      internalID: -1517785777183377164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Hammer_32
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 192
+        width: 8
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7840256266fff74a0800000000000000
+      internalID: -6593270515252460409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Hammer_33
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 181
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0b928b6e692437f0800000000000000
+      internalID: -633836093325534452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Hammer_34
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 181
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 836d24e1be7588630800000000000000
+      internalID: 3929487342217385528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Hammer_35
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 183
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d57ba69587fd75d20800000000000000
+      internalID: 3267325762669819741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Hammer_36
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 184
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08e806d416fc433b0800000000000000
+      internalID: -5533570025314546048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Hammer_37
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 186
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 972d1d69756490bd0800000000000000
+      internalID: -2663520362606505351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Hammer_38
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 180
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6b2568119ff68190800000000000000
+      internalID: -7960394292686148755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Hammer_39
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 180
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e593e1805247195d0800000000000000
+      internalID: -3057534969609045666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Hammer_40
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 191
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eab78f280fd64f7d0800000000000000
+      internalID: -2885560581480744018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Hammer_41
+      rect:
+        serializedVersion: 2
+        x: 1388
+        y: 181
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb914444a4926eec0800000000000000
+      internalID: -3538095058303313477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Hammer_42
+      rect:
+        serializedVersion: 2
+        x: 1469
+        y: 182
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14805bb5ab0b143a0800000000000000
+      internalID: -6682866057592108991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Hammer_43
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 182
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc52ccee25b62afb0800000000000000
+      internalID: -4638026662300342835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Hammer_44
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 114
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79a2159764b525090800000000000000
+      internalID: -8047269225916454249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Hammer_45
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 125
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ca636341b165eb30800000000000000
+      internalID: 4315963231872182980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Hammer_46
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 115
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b928cdeab297613d0800000000000000
+      internalID: -3236266053694881125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Hammer_47
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 109
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15b1813ef7f6b5500800000000000000
+      internalID: 386024788131846993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Hammer_48
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 109
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46a8f20c95d241020800000000000000
+      internalID: 2311522372247587428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Hammer_49
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 120
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3ab6a7aa4aadf440800000000000000
+      internalID: 4971316801303919167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Hammer_50
+      rect:
+        serializedVersion: 2
+        x: 1373
+        y: 110
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1705ea20be6817b50800000000000000
+      internalID: 6589196073740161137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Hammer_51
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 111
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5abc56b4044d5e850800000000000000
+      internalID: 6405759417612356517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Hammer_52
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 112
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98c3a33ae3a143d00800000000000000
+      internalID: 951414277610814601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Hammer_53
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 112
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a978f48d019a3a70800000000000000
+      internalID: 8807511508527905193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Hammer_54
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 112
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37914b9e39a176f10800000000000000
+      internalID: 2262806560360372595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Hammer_55
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 112
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61619ede175aaa1b0800000000000000
+      internalID: -5644517274214132202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Hammer_56
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 112
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5770e31bb30447700800000000000000
+      internalID: 537124880684812149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Hammer_57
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 112
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adaa6ad1f59ee7f70800000000000000
+      internalID: 9187036884611017434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Hammer_58
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 112
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f85bead19b3c78e0800000000000000
+      internalID: -1694413862168995598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Hammer_59
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 112
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caac964216adaf570800000000000000
+      internalID: 8501347357372828332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Hammer_60
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 110
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fa406488bfca0090800000000000000
+      internalID: -8067407391078987022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Hammer_61
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 111
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3865bd8bbc09bab0800000000000000
+      internalID: -4991944712287590339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Hammer_62
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 111
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47986916190986cf0800000000000000
+      internalID: -258798024491890316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Hammer_63
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 111
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a316368a5a23ec40800000000000000
+      internalID: 5540318534882956192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Hammer_64
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 112
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 526d64236dd281070800000000000000
+      internalID: 8077256329678738981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Hammer_65
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 31
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53309b6bde5c9b280800000000000000
+      internalID: -9026966353323949259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Hammer_66
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 30
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06237352c647e5000800000000000000
+      internalID: 26586655640466016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Hammer_67
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 31
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf6b5a481a79944a0800000000000000
+      internalID: -6608584258218510597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Hammer_68
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 31
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb67d58280479f470800000000000000
+      internalID: 8428895755986368187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Hammer_69
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 34
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61773c19a7b977910800000000000000
+      internalID: 1835106323910588182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Hammer_70
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 40
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a013fc6a78f3028e0800000000000000
+      internalID: -1720305205803798262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Hammer_71
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 35
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1d0bd0a838ec8860800000000000000
+      internalID: 7533651606598520090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Hammer_72
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 29
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a521a5d384692d20800000000000000
+      internalID: 3254242723139495332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Hammer_73
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 29
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee39cff9df2433a30800000000000000
+      internalID: 4193769335090353134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Hammer_74
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 40
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4672e1b6a6ee693e0800000000000000
+      internalID: -2047186839762229404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Hammer_75
+      rect:
+        serializedVersion: 2
+        x: 1403
+        y: 30
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e93149bef95bd48b0800000000000000
+      internalID: -5166273499067313250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Hammer_76
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 31
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bd9a391bc5fdb900800000000000000
+      internalID: 701987369590103481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Hammer_77
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 32
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 698410284617b69f0800000000000000
+      internalID: -474160659265664874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Hammer_78
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 30
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6860164cc57183b30800000000000000
+      internalID: 4267186334132668038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Hammer_79
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 30
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cebb0c739add4a600800000000000000
+      internalID: 478751179262704620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Hammer_80
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 30
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 390a052027fa154f0800000000000000
+      internalID: -841698751141601133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Hammer_81
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 30
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 915461d89d2c2df80800000000000000
+      internalID: -8083184141545880295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Hammer_82
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 30
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cabfda4053abbae90800000000000000
+      internalID: -7013307257824871508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Hammer_83
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 30
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 472b348fdc8f3fac0800000000000000
+      internalID: -3822438095190248844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Hammer_84
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 31
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bde8056db6d40a570800000000000000
+      internalID: 8475859624263716571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Base Copper Hammer_85
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 31
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c91d6b3f723c6d920800000000000000
+      internalID: 3014811576931111324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
