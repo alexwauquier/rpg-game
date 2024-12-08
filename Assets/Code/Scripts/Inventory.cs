@@ -38,6 +38,16 @@ public class Inventory : MonoBehaviour
             this.icon = item.icon;
             count++;
         }
+
+        public void RemoveItem()
+        {
+            count--;
+            if (count == 0)
+            {
+                icon = null;
+                type = CollectableType.NONE;
+            }
+        }
     }
 
     public List<Slot> slots = new List<Slot>();
@@ -68,5 +78,10 @@ public class Inventory : MonoBehaviour
                 return;
             }
         }
+    }
+
+   public void Remove(int index)
+    {
+        slots[index].RemoveItem();
     }
 }
