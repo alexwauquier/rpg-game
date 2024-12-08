@@ -2,19 +2,9 @@ using UnityEngine;
 using System.Collections;
 using System.Collections.Generic;
 
+[RequireComponent(typeof(Item))]
 public class Collectable : MonoBehaviour
 {
-    public CollectableType type;
-
-    public Sprite icon;
-
-    public Rigidbody2D rb2d;
-
-    private void Awake()
-    {
-        rb2d = GetComponent<Rigidbody2D>();
-    }
-
     // player walk into collectable
     // add collectable to player
     // delete collectable from
@@ -24,13 +14,16 @@ public class Collectable : MonoBehaviour
 
         if (player)
         {
-            player.inventory.Add(this);
-            Destroy(this.gameObject);
+            Item item = GetComponent<Item>();
+
+            if(item != null)
+            {
+                player.inventory.Add(item);
+                Destroy(this.gameObject);
+            }
+            
         }
     }
 }
 
-public enum CollectableType
-{
-    NONE, BANANA
-}
+

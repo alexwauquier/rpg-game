@@ -14,7 +14,7 @@ public class Player : MonoBehaviour
 
     // Remove the item from the player's inventory
     // and spawn it in the world
-    public void DropItem(Collectable item)
+    public void DropItem(Item item)
     {
         // Initialize the item's spawn location
         Vector2 spawnLocation = transform.position;
@@ -23,15 +23,15 @@ public class Player : MonoBehaviour
         Vector2 spawnOffSet;
         do
         {
-            spawnOffSet = Random.insideUnitCircle * 1.25f;
-        } while (spawnOffSet.magnitude < 1.2f); // Make sure the item doesn't spawn too close to the player
+            spawnOffSet = Random.insideUnitCircle * 2.25f;
+        } while (spawnOffSet.magnitude < 1.75f); // Make sure the item doesn't spawn too close to the player
 
         // Instantiate the item at the player's location
-        Collectable droppedItem = Instantiate(item, spawnLocation + spawnOffSet, 
+        Item droppedItem = Instantiate(item, spawnLocation + spawnOffSet, 
             Quaternion.identity);
 
         // Add force to the item to make it move
-        droppedItem.rb2d.AddForce(spawnOffSet * 2f, ForceMode2D.Impulse);
+        droppedItem.rb2d.AddForce(spawnOffSet * 0.5f, ForceMode2D.Impulse);
     }
 }
 
