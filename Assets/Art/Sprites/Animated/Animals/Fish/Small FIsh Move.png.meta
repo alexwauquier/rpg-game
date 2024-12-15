@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 67b4e3b961084ca4da22e6d0783a615b
+guid: 7f7d6e64fa8cc414e8b397e43f8f0a2e
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 1348723655797239780
-    second: Small FIsh Move_0
+      213: -1977645754796953248
+    second: Small FIsh Move (No BG)_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,7 +100,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Small FIsh Move_0
+      name: Small FIsh Move (No BG)_0
       rect:
         serializedVersion: 2
         x: 0
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4efe5f3e401a7b210800000000000000
-      internalID: 1348723655797239780
+      spriteID: 061b4cdf9adfd84e0800000000000000
+      internalID: -1977645754796953248
       vertices: []
       indices: 
       edges: []
@@ -135,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Small FIsh Move_0: 1348723655797239780
+      Small FIsh Move (No BG)_0: -1977645754796953248
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

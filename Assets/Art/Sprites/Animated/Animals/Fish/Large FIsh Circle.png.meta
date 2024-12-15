@@ -1,10 +1,31 @@
 fileFormatVersion: 2
-guid: ebe5ecfeef78ce746abdd1ccc9505538
+guid: 551c07c14073cf343a0d330cc816fa3e
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 6824032137190609790
-    second: Large FIsh Circle_0
+      213: 7135488691802215367
+    second: Large FIsh Circle (No BG)_0
+  - first:
+      213: -4808678122008611100
+    second: Large FIsh Circle (No BG)_1
+  - first:
+      213: -2357802241039307178
+    second: Large FIsh Circle (No BG)_2
+  - first:
+      213: -4392364679561566262
+    second: Large FIsh Circle (No BG)_3
+  - first:
+      213: -7323404376565002976
+    second: Large FIsh Circle (No BG)_4
+  - first:
+      213: -7347533087004322016
+    second: Large FIsh Circle (No BG)_5
+  - first:
+      213: 2706936867700815480
+    second: Large FIsh Circle (No BG)_6
+  - first:
+      213: 6653772430792058863
+    second: Large FIsh Circle (No BG)_7
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,7 +121,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Large FIsh Circle_0
+      name: Large FIsh Circle (No BG)_0
       rect:
         serializedVersion: 2
         x: 0
@@ -115,14 +136,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e739811d215d3be50800000000000000
-      internalID: 6824032137190609790
+      spriteID: 7c310b5e829560360800000000000000
+      internalID: 7135488691802215367
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Large FIsh Circle_1
+      name: Large FIsh Circle (No BG)_1
       rect:
         serializedVersion: 2
         x: 16
@@ -135,16 +156,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 3b27f0f3cae60de4aaceab222b61e9e2
-      internalID: 711194851
+      spriteID: 4e6fb7ab9b4244db0800000000000000
+      internalID: -4808678122008611100
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Large FIsh Circle_2
+      name: Large FIsh Circle (No BG)_2
       rect:
         serializedVersion: 2
         x: 32
@@ -157,16 +178,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: f837f38a7f7198048b19dd919fa0c514
-      internalID: 1851880341
+      spriteID: 65e6b3c9a57674fd0800000000000000
+      internalID: -2357802241039307178
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Large FIsh Circle_3
+      name: Large FIsh Circle (No BG)_3
       rect:
         serializedVersion: 2
         x: 48
@@ -179,16 +200,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 722fd80f855a74d4684d937e13debbe3
-      internalID: -124473988
+      spriteID: ac7a2ce789f2b03c0800000000000000
+      internalID: -4392364679561566262
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Large FIsh Circle_4
+      name: Large FIsh Circle (No BG)_4
       rect:
         serializedVersion: 2
         x: 64
@@ -201,16 +222,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: bce96cdd67afce64ba710ca91bcec94e
-      internalID: -1912979641
+      spriteID: 02d4d44458a0e5a90800000000000000
+      internalID: -7323404376565002976
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Large FIsh Circle_5
+      name: Large FIsh Circle (No BG)_5
       rect:
         serializedVersion: 2
         x: 80
@@ -223,16 +244,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 930c7bdd714e71843a41324f2a9d7fdb
-      internalID: 1135358839
+      spriteID: 0279da51691580a90800000000000000
+      internalID: -7347533087004322016
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Large FIsh Circle_6
+      name: Large FIsh Circle (No BG)_6
       rect:
         serializedVersion: 2
         x: 96
@@ -245,16 +266,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 08d929db8ee51d346b13f189340fc58c
-      internalID: 674811045
+      spriteID: 87637bc3db8f09520800000000000000
+      internalID: 2706936867700815480
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Large FIsh Circle_7
+      name: Large FIsh Circle (No BG)_7
       rect:
         serializedVersion: 2
         x: 112
@@ -267,10 +288,10 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 0582ca88ef87e5742ad00fe636edb76e
-      internalID: 1828477255
+      spriteID: fe7e5a9c5c2f65c50800000000000000
+      internalID: 6653772430792058863
       vertices: []
       indices: 
       edges: []
@@ -279,7 +300,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: bd3c28eda2ba6b24a815f96a4d12b554
+    spriteID: dad32d6731f2d4e46b45e5d57e0a31b3
     internalID: 0
     vertices: []
     indices: 
@@ -289,14 +310,14 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Large FIsh Circle_0: 6824032137190609790
-      Large FIsh Circle_1: 711194851
-      Large FIsh Circle_2: 1851880341
-      Large FIsh Circle_3: -124473988
-      Large FIsh Circle_4: -1912979641
-      Large FIsh Circle_5: 1135358839
-      Large FIsh Circle_6: 674811045
-      Large FIsh Circle_7: 1828477255
+      Large FIsh Circle (No BG)_0: 7135488691802215367
+      Large FIsh Circle (No BG)_1: -4808678122008611100
+      Large FIsh Circle (No BG)_2: -2357802241039307178
+      Large FIsh Circle (No BG)_3: -4392364679561566262
+      Large FIsh Circle (No BG)_4: -7323404376565002976
+      Large FIsh Circle (No BG)_5: -7347533087004322016
+      Large FIsh Circle (No BG)_6: 2706936867700815480
+      Large FIsh Circle (No BG)_7: 6653772430792058863
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

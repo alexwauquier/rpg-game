@@ -1,10 +1,19 @@
 fileFormatVersion: 2
-guid: e40ff615fffe08846aaa05e075bcc798
+guid: 84db3eecb559b6d4a9235ca251ac62ce
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -5390614181622538301
-    second: Small FIsh Circle_0
+      213: -2745501952873684793
+    second: Small FIsh Circle (No BG)_0
+  - first:
+      213: -6785069311854469317
+    second: Small FIsh Circle (No BG)_1
+  - first:
+      213: -2569243867899554522
+    second: Small FIsh Circle (No BG)_2
+  - first:
+      213: -703062012597561002
+    second: Small FIsh Circle (No BG)_3
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,7 +109,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Small FIsh Circle_0
+      name: Small FIsh Circle (No BG)_0
       rect:
         serializedVersion: 2
         x: 0
@@ -115,14 +124,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3cf943766f0b035b0800000000000000
-      internalID: -5390614181622538301
+      spriteID: 7c0a2d8258406e9d0800000000000000
+      internalID: -2745501952873684793
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Small FIsh Circle_1
+      name: Small FIsh Circle (No BG)_1
       rect:
         serializedVersion: 2
         x: 16
@@ -135,16 +144,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: fb9249a6d95aae64b92b9ca2992907f7
-      internalID: 2134905072
+      spriteID: b3f9282e86796d1a0800000000000000
+      internalID: -6785069311854469317
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Small FIsh Circle_2
+      name: Small FIsh Circle (No BG)_2
       rect:
         serializedVersion: 2
         x: 32
@@ -157,16 +166,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: a2f651573cd0cc646b56a484b9db6028
-      internalID: -1892193148
+      spriteID: 6251f788056385cd0800000000000000
+      internalID: -2569243867899554522
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Small FIsh Circle_3
+      name: Small FIsh Circle (No BG)_3
       rect:
         serializedVersion: 2
         x: 48
@@ -179,16 +188,16 @@ TextureImporter:
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 169d094b4f9f645489066d1dcc132355
-      internalID: -1009123211
+      spriteID: 6591d0413d83e36f0800000000000000
+      internalID: -703062012597561002
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Small FIsh Circle_4
+      name: Small FIsh Circle (No BG)_4
       rect:
         serializedVersion: 2
         x: 64
@@ -203,14 +212,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b4ec39f4f8ca249439822fc0090f1dfd
-      internalID: 1500504871
+      spriteID: 0a71dcdefdd4e574e897fd32cfb05e6f
+      internalID: 1563134885
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Small FIsh Circle_5
+      name: Small FIsh Circle (No BG)_5
       rect:
         serializedVersion: 2
         x: 80
@@ -225,14 +234,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1a76996fe675cf24cbd2f92a94b68b27
-      internalID: 1085530326
+      spriteID: baecca18bff168f4b86bd4c790379b89
+      internalID: 193983370
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Small FIsh Circle_6
+      name: Small FIsh Circle (No BG)_6
       rect:
         serializedVersion: 2
         x: 96
@@ -247,14 +256,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e09b40221cbd4ca4fa4495e55c63e1fe
-      internalID: -2013277679
+      spriteID: a842d46125296f146a769c24dee5e3fd
+      internalID: 333541331
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Small FIsh Circle_7
+      name: Small FIsh Circle (No BG)_7
       rect:
         serializedVersion: 2
         x: 112
@@ -269,8 +278,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7cce9ad7a74bc814eb14469e48c63653
-      internalID: 63664435
+      spriteID: a33b6046900e3f7459c5cc8c2c298872
+      internalID: 452226656
       vertices: []
       indices: 
       edges: []
@@ -279,7 +288,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 98adb0d461068dc4ca61b8989ba49d81
+    spriteID: 65b3067a90dbfa84fbb935471bbc80c8
     internalID: 0
     vertices: []
     indices: 
@@ -289,14 +298,14 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Small FIsh Circle_0: -5390614181622538301
-      Small FIsh Circle_1: 2134905072
-      Small FIsh Circle_2: -1892193148
-      Small FIsh Circle_3: -1009123211
-      Small FIsh Circle_4: 1500504871
-      Small FIsh Circle_5: 1085530326
-      Small FIsh Circle_6: -2013277679
-      Small FIsh Circle_7: 63664435
+      Small FIsh Circle (No BG)_0: -2745501952873684793
+      Small FIsh Circle (No BG)_1: -6785069311854469317
+      Small FIsh Circle (No BG)_2: -2569243867899554522
+      Small FIsh Circle (No BG)_3: -703062012597561002
+      Small FIsh Circle (No BG)_4: 1563134885
+      Small FIsh Circle (No BG)_5: 193983370
+      Small FIsh Circle (No BG)_6: 333541331
+      Small FIsh Circle (No BG)_7: 452226656
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
