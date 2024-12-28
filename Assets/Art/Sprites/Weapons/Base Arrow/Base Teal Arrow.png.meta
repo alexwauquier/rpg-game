@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Base Teal Arrow_0: 8820131121844845285
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

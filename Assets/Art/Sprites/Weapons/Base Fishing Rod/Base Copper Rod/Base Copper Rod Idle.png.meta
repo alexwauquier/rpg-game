@@ -1122,7 +1122,47 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Base Copper Rod Idle_0: -2752774126054587605
+      Base Copper Rod Idle_1: 6897673142241355374
+      Base Copper Rod Idle_10: -3268726560497795763
+      Base Copper Rod Idle_11: -2362485812796715444
+      Base Copper Rod Idle_12: 3769548259938217511
+      Base Copper Rod Idle_13: -5611498352431540003
+      Base Copper Rod Idle_14: 8379002065268088670
+      Base Copper Rod Idle_15: 3223049981374555076
+      Base Copper Rod Idle_16: 8308907085145821393
+      Base Copper Rod Idle_17: 3841404642915201445
+      Base Copper Rod Idle_18: 7519882635630838543
+      Base Copper Rod Idle_19: 2002228071016079123
+      Base Copper Rod Idle_2: 5817224332619917568
+      Base Copper Rod Idle_20: -1696087278143512390
+      Base Copper Rod Idle_21: 7760916998396672832
+      Base Copper Rod Idle_22: -3469896541042372620
+      Base Copper Rod Idle_23: 383257124842944857
+      Base Copper Rod Idle_24: -1788922477544557979
+      Base Copper Rod Idle_25: 2739382123027435830
+      Base Copper Rod Idle_26: -5389792047470724689
+      Base Copper Rod Idle_27: -298768969380138021
+      Base Copper Rod Idle_28: 288171879189808781
+      Base Copper Rod Idle_29: -8763355389346310443
+      Base Copper Rod Idle_3: -2998299306437365174
+      Base Copper Rod Idle_30: 2669182728774584943
+      Base Copper Rod Idle_31: -5137723005346650615
+      Base Copper Rod Idle_32: -766543909630306485
+      Base Copper Rod Idle_33: -3306633200902919709
+      Base Copper Rod Idle_34: 8432340885546338935
+      Base Copper Rod Idle_35: -7675408341957711679
+      Base Copper Rod Idle_36: -614949182193145471
+      Base Copper Rod Idle_37: 5902639701044241680
+      Base Copper Rod Idle_38: 738529454208540491
+      Base Copper Rod Idle_39: -3612324970704116083
+      Base Copper Rod Idle_4: -6473278938730380196
+      Base Copper Rod Idle_5: 2823120934126810629
+      Base Copper Rod Idle_6: -3967850481718216172
+      Base Copper Rod Idle_7: -6369600985424870402
+      Base Copper Rod Idle_8: 3274676946202380860
+      Base Copper Rod Idle_9: 5557710941868610451
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -722,7 +722,31 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Base Spear 01 Thrust_0: -7211068016837892351
+      Base Spear 01 Thrust_1: -3881373525589883356
+      Base Spear 01 Thrust_10: 786498571804410950
+      Base Spear 01 Thrust_11: 8907264827951326837
+      Base Spear 01 Thrust_12: -5778821285078391308
+      Base Spear 01 Thrust_13: 4325180135897944597
+      Base Spear 01 Thrust_14: -4087763858558704299
+      Base Spear 01 Thrust_15: -4490569292898213301
+      Base Spear 01 Thrust_16: -7441759382172147012
+      Base Spear 01 Thrust_17: -4707225018089894870
+      Base Spear 01 Thrust_18: -5585891767733424242
+      Base Spear 01 Thrust_19: -8747520826382975641
+      Base Spear 01 Thrust_2: -116028129089862854
+      Base Spear 01 Thrust_20: -8695196947841251709
+      Base Spear 01 Thrust_21: 8681271688972571527
+      Base Spear 01 Thrust_22: 8699332290643000413
+      Base Spear 01 Thrust_23: 4994518831623467601
+      Base Spear 01 Thrust_3: 6344451986725688243
+      Base Spear 01 Thrust_4: -7625140585872876576
+      Base Spear 01 Thrust_5: -1619576800522404174
+      Base Spear 01 Thrust_6: 1161528409195348785
+      Base Spear 01 Thrust_7: -848437015776969594
+      Base Spear 01 Thrust_8: 3210456667833332753
+      Base Spear 01 Thrust_9: -2483459478103520783
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

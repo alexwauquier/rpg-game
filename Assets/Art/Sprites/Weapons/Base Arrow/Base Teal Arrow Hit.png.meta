@@ -222,7 +222,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Base Teal Arrow Hit_0: 5953601077207545956
+      Base Teal Arrow Hit_1: 8788077893599697777
+      Base Teal Arrow Hit_2: 2541516563102189200
+      Base Teal Arrow Hit_3: 5181740574133881832
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -222,7 +222,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Base Copper Arrow Hit_0: -4608837314577377342
+      Base Copper Arrow Hit_1: 5943874846739000255
+      Base Copper Arrow Hit_2: -6942547801992679653
+      Base Copper Arrow Hit_3: -3986301730952502956
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

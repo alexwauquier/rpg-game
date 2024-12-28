@@ -1047,7 +1047,44 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Base Wrench_0: -652699353363741010
+      Base Wrench_1: 8949465234359564443
+      Base Wrench_10: -8309890461923731275
+      Base Wrench_11: 1113234769342885000
+      Base Wrench_12: 3925835795961525759
+      Base Wrench_13: 527357672724575830
+      Base Wrench_14: -1156599112391949636
+      Base Wrench_15: 7700910417227104425
+      Base Wrench_16: 1703204042621620434
+      Base Wrench_17: -768122754962649395
+      Base Wrench_18: 816609882117535770
+      Base Wrench_19: -3940855198552932850
+      Base Wrench_2: 5241569813339624566
+      Base Wrench_20: 5012255958048279395
+      Base Wrench_21: 1076278371601354573
+      Base Wrench_22: 2144726792211393863
+      Base Wrench_23: 6262106204494284896
+      Base Wrench_24: -2190746115316702993
+      Base Wrench_25: -8386136138065489451
+      Base Wrench_26: 1467036176593652212
+      Base Wrench_27: -1185290748160650579
+      Base Wrench_28: 241320928832081646
+      Base Wrench_29: 827396036979882333
+      Base Wrench_3: 3556181338691938200
+      Base Wrench_30: -1119764660790893647
+      Base Wrench_31: 8306428787346790227
+      Base Wrench_32: -6814232717564510865
+      Base Wrench_33: -8707727548926974499
+      Base Wrench_34: -5539939474357768185
+      Base Wrench_35: -676097772352739622
+      Base Wrench_36: -797839635137052809
+      Base Wrench_4: 598308429684224451
+      Base Wrench_5: 3753631173090916853
+      Base Wrench_6: -5268694678733247297
+      Base Wrench_7: 2754748578874811810
+      Base Wrench_8: -3286052367329739612
+      Base Wrench_9: 3821963745233640805
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

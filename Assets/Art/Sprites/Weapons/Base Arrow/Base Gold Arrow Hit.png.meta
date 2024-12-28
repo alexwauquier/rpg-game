@@ -222,7 +222,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Base Gold Arrow Hit_0: 6671114150346321573
+      Base Gold Arrow Hit_1: 79023186608200252
+      Base Gold Arrow Hit_2: -2457002111077342771
+      Base Gold Arrow Hit_3: 5120213670875075817
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

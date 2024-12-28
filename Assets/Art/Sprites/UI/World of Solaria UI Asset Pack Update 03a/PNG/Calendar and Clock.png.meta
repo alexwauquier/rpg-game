@@ -1,0 +1,905 @@
+fileFormatVersion: 2
+guid: 084ae0c564566774ca4b049513b35e6f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4808708038332010559
+    second: Calendar and Clock_0
+  - first:
+      213: 5185474425401283066
+    second: Calendar and Clock_1
+  - first:
+      213: -1245897876962832200
+    second: Calendar and Clock_2
+  - first:
+      213: 5749460937205425678
+    second: Calendar and Clock_3
+  - first:
+      213: -1859637152771386105
+    second: Calendar and Clock_4
+  - first:
+      213: -6106169166302701250
+    second: Calendar and Clock_5
+  - first:
+      213: 7313781819241801507
+    second: Calendar and Clock_6
+  - first:
+      213: 6959106556265183718
+    second: Calendar and Clock_7
+  - first:
+      213: 453093382131373495
+    second: Calendar and Clock_8
+  - first:
+      213: 9023619672647721103
+    second: Calendar and Clock_9
+  - first:
+      213: -8280638372195327625
+    second: Calendar and Clock_10
+  - first:
+      213: -464446633983399068
+    second: Calendar and Clock_11
+  - first:
+      213: -3300438467364448509
+    second: Calendar and Clock_12
+  - first:
+      213: 7604866103315389668
+    second: Calendar and Clock_13
+  - first:
+      213: 3961212346124812478
+    second: Calendar and Clock_14
+  - first:
+      213: -4573796903900570404
+    second: Calendar and Clock_15
+  - first:
+      213: -9016626202988330167
+    second: Calendar and Clock_16
+  - first:
+      213: 1089779499857107640
+    second: Calendar and Clock_17
+  - first:
+      213: -6470876198019315808
+    second: Calendar and Clock_18
+  - first:
+      213: -6581408329064655513
+    second: Calendar and Clock_19
+  - first:
+      213: -5238418947106743081
+    second: Calendar and Clock_20
+  - first:
+      213: -272102994598359753
+    second: Calendar and Clock_21
+  - first:
+      213: -1550201912297491213
+    second: Calendar and Clock_22
+  - first:
+      213: 3056044546390657256
+    second: Calendar and Clock_23
+  - first:
+      213: -8609860577275809990
+    second: Calendar and Clock_24
+  - first:
+      213: -2576641125876008782
+    second: Calendar and Clock_25
+  - first:
+      213: 8460646085353749180
+    second: Calendar and Clock_26
+  - first:
+      213: 8110568108396908506
+    second: Calendar and Clock_27
+  - first:
+      213: -5803256616255147948
+    second: Calendar and Clock_28
+  - first:
+      213: -2992850010961756220
+    second: Calendar and Clock_29
+  - first:
+      213: 2003964553245295544
+    second: Calendar and Clock_30
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Calendar and Clock_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 95
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f305855bb76fbb240800000000000000
+      internalID: 4808708038332010559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calendar and Clock_1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 95
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af19aed148186f740800000000000000
+      internalID: 5185474425401283066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calendar and Clock_2
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 96
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b097316b7ea5bee0800000000000000
+      internalID: -1245897876962832200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calendar and Clock_3
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 79
+        width: 34
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e062d1ca2403acf40800000000000000
+      internalID: 5749460937205425678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calendar and Clock_4
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 79
+        width: 34
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70551f1ccdd3136e0800000000000000
+      internalID: -1859637152771386105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calendar and Clock_5
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 79
+        width: 34
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e399510ce77824ba0800000000000000
+      internalID: -6106169166302701250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calendar and Clock_6
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 63
+        width: 34
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3272e9480d5cf7560800000000000000
+      internalID: 7313781819241801507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calendar and Clock_7
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 63
+        width: 34
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e93740ca86b39060800000000000000
+      internalID: 6959106556265183718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calendar and Clock_8
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 63
+        width: 34
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b5550cc706b94600800000000000000
+      internalID: 453093382131373495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calendar and Clock_9
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 63
+        width: 34
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f80e46878465a3d70800000000000000
+      internalID: 9023619672647721103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calendar and Clock_10
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 63
+        width: 34
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77124dfe543451d80800000000000000
+      internalID: -8280638372195327625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calendar and Clock_11
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 63
+        width: 34
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46b2b444f34fd89f0800000000000000
+      internalID: -464446633983399068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calendar and Clock_12
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 63
+        width: 34
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30715bd43bc7232d0800000000000000
+      internalID: -3300438467364448509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calendar and Clock_13
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 63
+        width: 34
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ecd58cbd69e98960800000000000000
+      internalID: 7604866103315389668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calendar and Clock_14
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 63
+        width: 36
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb049a234ad09f630800000000000000
+      internalID: 3961212346124812478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calendar and Clock_15
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 35
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdc993ce2fb9680c0800000000000000
+      internalID: -4573796903900570404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calendar and Clock_16
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 35
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 943c6629d328ed280800000000000000
+      internalID: -9016626202988330167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calendar and Clock_17
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 35
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ba5c746eacaf1f00800000000000000
+      internalID: 1089779499857107640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calendar and Clock_18
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 35
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a7478fc164d236a0800000000000000
+      internalID: -6470876198019315808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calendar and Clock_19
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 35
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 765dd489ef32aa4a0800000000000000
+      internalID: -6581408329064655513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calendar and Clock_20
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 19
+        width: 34
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dcd601d8b56d47b0800000000000000
+      internalID: -5238418947106743081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calendar and Clock_21
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 19
+        width: 34
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73d05a0a4cb493cf0800000000000000
+      internalID: -272102994598359753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calendar and Clock_22
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 19
+        width: 34
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f47067f2939c7ae0800000000000000
+      internalID: -1550201912297491213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calendar and Clock_23
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 19
+        width: 34
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e88265c250496a20800000000000000
+      internalID: 3056044546390657256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calendar and Clock_24
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 19
+        width: 34
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3fe5d50c61a38880800000000000000
+      internalID: -8609860577275809990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calendar and Clock_25
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 19
+        width: 34
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b87f723c8eed3cd0800000000000000
+      internalID: -2576641125876008782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calendar and Clock_26
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 19
+        width: 34
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cba3fc7c9c04a6570800000000000000
+      internalID: 8460646085353749180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calendar and Clock_27
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 19
+        width: 34
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adf0c9319b68e8070800000000000000
+      internalID: 8110568108396908506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calendar and Clock_28
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 3
+        width: 34
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4503dafbad0b67fa0800000000000000
+      internalID: -5803256616255147948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calendar and Clock_29
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 3
+        width: 34
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cfb99695c24776d0800000000000000
+      internalID: -2992850010961756220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Calendar and Clock_30
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 3
+        width: 34
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b309aac4238fcb10800000000000000
+      internalID: 2003964553245295544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

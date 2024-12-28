@@ -222,7 +222,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Base Purple Arrow Hit_0: -4709408044091650228
+      Base Purple Arrow Hit_1: 6262128135452596873
+      Base Purple Arrow Hit_2: -5318527189481161140
+      Base Purple Arrow Hit_3: 1194734532237500196
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
